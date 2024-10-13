@@ -1,350 +1,350 @@
-Disease;Symptoms;Symptoms;Symptoms;Symptoms;Age;Gender;Blood Pressure;Symptoms;Outcome Variable;
-Influenza;fever;No;fatigue;Difficulty breathing;19;Female;Low blood pressure;Normal;Influenza;
-Common Cold;No;cough;fatigue;No;25;Female;Normal;Normal;Common Cold;
-Eczema;No;cough;fatigue;No;25;Female;Normal;Normal;Eczema;
-Asthma;fever;cough;No;Difficulty breathing;25;Male;Normal;Normal;Asthma;
-Asthma;fever;cough;No;Difficulty breathing;25;Male;Normal;Normal;Asthma;
-Eczema;fever;No;No;No;25;Female;Normal;Normal;Eczema;
-Influenza;fever;cough;fatigue;Difficulty breathing;25;Female;Normal;Normal;Influenza;
-Influenza;fever;cough;fatigue;Difficulty breathing;25;Female;Normal;Normal;Influenza;
-Hyperthyroidism;No;cough;No;No;28;Female;Normal;Normal;Hyperthyroidism;
-Hyperthyroidism;No;cough;No;No;28;Female;Normal;Normal;Hyperthyroidism;
-Asthma;fever;No;No;Difficulty breathing;28;Male;High blood pressure;Normal;Asthma;
-Allergic Rhinitis;No;cough;fatigue;No;29;Female;Normal;Low;Allergic Rhinitis;
-Anxiety Disorders;No;cough;No;No;29;Female;Normal;High cholesterol;Anxiety Disorders;
-Common Cold;No;No;No;No;29;Female;Low blood pressure;Normal;Common Cold;
-Diabetes;No;No;No;No;29;Male;Low blood pressure;Normal;Diabetes;
-Gastroenteritis;No;cough;No;No;29;Female;Normal;Normal;Gastroenteritis;
-Pancreatitis;fever;No;No;No;29;Female;High blood pressure;Normal;Pancreatitis;
-Rheumatoid Arthritis;No;cough;fatigue;Difficulty breathing;29;Female;High blood pressure;High cholesterol;Rheumatoid Arthritis;
-Depression;fever;cough;fatigue;Difficulty breathing;29;Male;High blood pressure;Normal;Depression;
-Liver Cancer;fever;cough;fatigue;Difficulty breathing;29;Female;Normal;Normal;Liver Cancer;
-Stroke;fever;cough;fatigue;Difficulty breathing;29;Female;Normal;Normal;Stroke;
-Urinary Tract Infection;fever;cough;fatigue;No;29;Male;High blood pressure;High cholesterol;Urinary Tract Infection;
-Dengue Fever;fever;No;fatigue;No;30;Female;Normal;Normal;Dengue Fever;
-Dengue Fever;fever;No;fatigue;No;30;Female;Normal;Normal;Dengue Fever;
-Eczema;No;cough;fatigue;No;30;Male;High blood pressure;High cholesterol;Eczema;
-Gastroenteritis;fever;cough;fatigue;No;30;Male;High blood pressure;High cholesterol;Gastroenteritis;
-Hepatitis;fever;cough;fatigue;Difficulty breathing;30;Male;High blood pressure;Normal;Hepatitis;
-Kidney Cancer;No;No;fatigue;No;30;Male;Normal;Normal;Kidney Cancer;
-Migraine;fever;No;No;No;30;Female;Normal;Normal;Migraine;
-Migraine;No;cough;fatigue;No;30;Female;Normal;Normal;Migraine;
-Muscular Dystrophy;No;No;fatigue;No;30;Male;High blood pressure;High cholesterol;Muscular Dystrophy;
-Sinusitis;No;cough;fatigue;No;30;Male;Normal;Normal;Sinusitis;
-Ulcerative Colitis;fever;cough;No;No;30;Female;Normal;Normal;Ulcerative Colitis;
-Ulcerative Colitis;No;cough;fatigue;No;30;Female;Normal;Normal;Ulcerative Colitis;
-Asthma;fever;cough;No;Difficulty breathing;30;Female;Normal;Normal;Asthma;
-Asthma;fever;cough;No;Difficulty breathing;30;Female;Normal;Normal;Asthma;
-Asthma;fever;cough;fatigue;Difficulty breathing;30;Female;Normal;Normal;Asthma;
-Bipolar Disorder;No;No;fatigue;No;30;Female;High blood pressure;High cholesterol;Bipolar Disorder;
-Bronchitis;fever;cough;No;Difficulty breathing;30;Female;Low blood pressure;Normal;Bronchitis;
-Bronchitis;fever;cough;fatigue;Difficulty breathing;30;Male;High blood pressure;High cholesterol;Bronchitis;
-Bronchitis;fever;cough;fatigue;Difficulty breathing;30;Male;High blood pressure;High cholesterol;Bronchitis;
-Cerebral Palsy;No;No;fatigue;Difficulty breathing;30;Female;Normal;Normal;Cerebral Palsy;
-Colorectal Cancer;No;No;fatigue;No;30;Female;Normal;High cholesterol;Colorectal Cancer;
-Eczema;fever;No;No;No;30;Male;High blood pressure;High cholesterol;Eczema;
-Hypertensive Heart Disease;No;No;fatigue;No;30;Female;High blood pressure;High cholesterol;Hypertensive Heart Disease;
-Influenza;fever;cough;fatigue;No;30;Male;High blood pressure;Normal;Influenza;
-Influenza;fever;cough;fatigue;Difficulty breathing;30;Female;Normal;Normal;Influenza;
-Multiple Sclerosis;No;No;fatigue;No;30;Female;High blood pressure;High cholesterol;Multiple Sclerosis;
-Myocardial Infarction (Heart...;fever;cough;fatigue;Difficulty breathing;30;Female;High blood pressure;High cholesterol;Myocardial Infarction (Heart...;
-Urinary Tract Infection (UTI);fever;No;No;No;30;Female;Normal;Normal;Urinary Tract Infection (UTI);
-Asthma;No;No;No;Difficulty breathing;31;Male;Normal;Low;Asthma;
-Osteoporosis;No;No;No;Difficulty breathing;31;Male;Low blood pressure;Normal;Osteoporosis;
-Common Cold;fever;No;fatigue;Difficulty breathing;31;Male;High blood pressure;High cholesterol;Common Cold;
-Migraine;fever;No;No;No;31;Female;Normal;Normal;Migraine;
-Pneumonia;fever;No;fatigue;Difficulty breathing;32;Female;High blood pressure;Normal;Pneumonia;
-Allergic Rhinitis;No;No;fatigue;No;35;Female;Normal;Low;Allergic Rhinitis;
-Asthma;No;cough;fatigue;Difficulty breathing;35;Female;Normal;High cholesterol;Asthma;
-Asthma;fever;cough;fatigue;Difficulty breathing;35;Female;Normal;Normal;Asthma;
-Asthma;No;cough;fatigue;Difficulty breathing;35;Female;High blood pressure;Normal;Asthma;
-Asthma;No;cough;fatigue;Difficulty breathing;35;Female;High blood pressure;Normal;Asthma;
-Atherosclerosis;No;No;fatigue;No;35;Male;Normal;Normal;Atherosclerosis;
-Chronic Obstructive Pulmonary...;fever;cough;fatigue;Difficulty breathing;35;Male;Normal;Normal;Chronic Obstructive Pulmonary...;
-Common Cold;fever;cough;fatigue;No;35;Male;High blood pressure;Normal;Common Cold;
-Eczema;No;cough;No;No;35;Male;High blood pressure;Normal;Eczema;
-Epilepsy;No;No;fatigue;No;35;Male;High blood pressure;High cholesterol;Epilepsy;
-Hypertension;fever;cough;fatigue;No;35;Female;High blood pressure;Normal;Hypertension;
-Hyperthyroidism;fever;cough;fatigue;No;35;Female;Normal;Normal;Hyperthyroidism;
-Obsessive-Compulsive Disorde...;No;No;fatigue;No;35;Male;Normal;Normal;Obsessive-Compulsive Disorde...;
-Pneumonia;fever;cough;fatigue;Difficulty breathing;35;Female;Normal;Normal;Pneumonia;
-Pneumonia;fever;cough;fatigue;Difficulty breathing;35;Female;Normal;Normal;Pneumonia;
-Psoriasis;fever;No;No;No;35;Female;Normal;Low;Psoriasis;
-Psoriasis;No;cough;fatigue;No;35;Female;Normal;Low;Psoriasis;
-Rubella;fever;No;fatigue;No;35;Female;High blood pressure;Normal;Rubella;
-Rubella;fever;No;fatigue;No;35;Female;High blood pressure;Normal;Rubella;
-Urinary Tract Infection (UTI);No;cough;fatigue;No;35;Male;High blood pressure;High cholesterol;Urinary Tract Infection (UTI);
-Asthma;fever;cough;No;Difficulty breathing;35;Male;Normal;Normal;Asthma;
-Asthma;fever;cough;No;Difficulty breathing;35;Male;Normal;Normal;Asthma;
-Cirrhosis;No;No;fatigue;No;35;Female;Normal;High cholesterol;Cirrhosis;
-Conjunctivitis (Pink Eye);No;cough;No;No;35;Female;High blood pressure;High cholesterol;Conjunctivitis (Pink Eye);
-Depression;No;No;fatigue;No;35;Female;Normal;High cholesterol;Depression;
-Gastroenteritis;fever;No;fatigue;Difficulty breathing;35;Male;Low blood pressure;High cholesterol;Gastroenteritis;
-Hyperthyroidism;fever;cough;fatigue;No;35;Male;High blood pressure;High cholesterol;Hyperthyroidism;
-Hyperthyroidism;fever;cough;fatigue;No;35;Male;High blood pressure;High cholesterol;Hyperthyroidism;
-Kidney Cancer;No;No;fatigue;No;35;Male;High blood pressure;High cholesterol;Kidney Cancer;
-Liver Cancer;No;No;fatigue;No;35;Female;High blood pressure;High cholesterol;Liver Cancer;
-Liver Disease;No;No;fatigue;No;35;Male;High blood pressure;High cholesterol;Liver Disease;
-Malaria;fever;No;No;No;35;Male;High blood pressure;High cholesterol;Malaria;
-Malaria;fever;No;No;No;35;Male;High blood pressure;High cholesterol;Malaria;
-Migraine;No;cough;fatigue;No;35;Male;High blood pressure;High cholesterol;Migraine;
-Migraine;fever;No;No;No;35;Male;High blood pressure;High cholesterol;Migraine;
-Pancreatitis;No;No;fatigue;No;35;Male;Normal;High cholesterol;Pancreatitis;
-Rheumatoid Arthritis;fever;cough;fatigue;No;35;Male;Normal;Low;Rheumatoid Arthritis;
-Rheumatoid Arthritis;No;No;fatigue;No;35;Female;Normal;Low;Rheumatoid Arthritis;
-Spina Bifida;No;No;fatigue;No;35;Female;Normal;Normal;Spina Bifida;
-Ulcerative Colitis;No;No;fatigue;No;35;Male;High blood pressure;High cholesterol;Ulcerative Colitis;
-Ulcerative Colitis;fever;No;No;No;35;Male;High blood pressure;High cholesterol;Ulcerative Colitis;
-Urinary Tract Infection;fever;No;fatigue;No;35;Female;Normal;High cholesterol;Urinary Tract Infection;
-Allergic Rhinitis;No;cough;No;No;38;Female;Low blood pressure;Normal;Allergic Rhinitis;
-Depression;No;No;No;No;38;Female;Normal;High cholesterol;Depression;
-Gastroenteritis;No;No;No;No;38;Male;Normal;Low;Gastroenteritis;
-Influenza;No;No;No;No;38;Male;Normal;Normal;Influenza;
-Kidney Disease;No;No;fatigue;No;38;Female;Low blood pressure;Normal;Kidney Disease;
-Liver Cancer;fever;cough;No;No;38;Female;High blood pressure;Normal;Liver Cancer;
-Liver Disease;No;cough;No;Difficulty breathing;38;Male;Low blood pressure;Normal;Liver Disease;
-Osteoporosis;No;cough;No;No;38;Female;Normal;High cholesterol;Osteoporosis;
-Stroke;fever;cough;No;No;38;Female;High blood pressure;Normal;Stroke;
-Anxiety Disorders;fever;No;fatigue;Difficulty breathing;38;Male;High blood pressure;High cholesterol;Anxiety Disorders;
-Diabetes;fever;No;fatigue;Difficulty breathing;38;Male;High blood pressure;Low;Diabetes;
-Migraine;fever;cough;No;No;38;Male;High blood pressure;High cholesterol;Migraine;
-Osteoarthritis;fever;cough;fatigue;No;38;Male;High blood pressure;High cholesterol;Osteoarthritis;
-Pneumonia;fever;cough;fatigue;Difficulty breathing;38;Male;Normal;Normal;Pneumonia;
-Klinefelter Syndrome;No;No;fatigue;No;39;Female;Normal;Normal;Klinefelter Syndrome;
-Acne;No;No;fatigue;No;40;Male;Normal;Normal;Acne;
-Brain Tumor;No;No;fatigue;No;40;Male;Normal;Normal;Brain Tumor;
-Bronchitis;No;cough;No;Difficulty breathing;40;Female;Normal;Normal;Bronchitis;
-Cystic Fibrosis;No;No;fatigue;Difficulty breathing;40;Male;High blood pressure;High cholesterol;Cystic Fibrosis;
-Diabetes;fever;No;No;No;40;Female;High blood pressure;High cholesterol;Diabetes;
-Glaucoma;No;No;fatigue;No;40;Male;High blood pressure;Normal;Glaucoma;
-Osteoarthritis;No;No;fatigue;No;40;Male;High blood pressure;Normal;Osteoarthritis;
-Rabies;fever;cough;No;No;40;Female;High blood pressure;Normal;Rabies;
-Rabies;fever;cough;No;No;40;Female;High blood pressure;Normal;Rabies;
-Asthma;fever;No;fatigue;No;40;Male;Low blood pressure;Normal;Asthma;
-Asthma;fever;cough;No;Difficulty breathing;40;Female;Normal;Normal;Asthma;
-Asthma;fever;cough;No;Difficulty breathing;40;Female;Normal;Normal;Asthma;
-Asthma;No;No;fatigue;Difficulty breathing;40;Male;High blood pressure;High cholesterol;Asthma;
-Asthma;fever;No;fatigue;Difficulty breathing;40;Male;Normal;High cholesterol;Asthma;
-Asthma;fever;No;fatigue;Difficulty breathing;40;Male;Normal;High cholesterol;Asthma;
-Chickenpox;No;cough;No;No;40;Male;Normal;High cholesterol;Chickenpox;
-Chickenpox;No;cough;No;No;40;Male;Normal;High cholesterol;Chickenpox;
-Coronary Artery Disease;No;No;fatigue;No;40;Female;High blood pressure;High cholesterol;Coronary Artery Disease;
-Eating Disorders (Anorexia;...;No;No;Difficulty breathing;No;40;Female;High cholesterol;Eating Disorders (Anorexia;Positive
-Fibromyalgia;No;No;fatigue;No;40;Female;High blood pressure;High cholesterol;Fibromyalgia;
-Gastroenteritis;fever;cough;fatigue;No;40;Male;High blood pressure;High cholesterol;Gastroenteritis;
-Hemophilia;No;No;fatigue;No;40;Female;Normal;Normal;Hemophilia;
-Hyperthyroidism;No;No;fatigue;No;40;Male;High blood pressure;High cholesterol;Hyperthyroidism;
-Hypoglycemia;No;No;fatigue;No;40;Female;High blood pressure;High cholesterol;Hypoglycemia;
-Lymphoma;No;cough;No;No;40;Female;Normal;High cholesterol;Lymphoma;
-Pneumonia;fever;cough;fatigue;Difficulty breathing;40;Female;Normal;High cholesterol;Pneumonia;
-Psoriasis;No;cough;fatigue;No;40;Male;High blood pressure;Normal;Psoriasis;
-Psoriasis;fever;No;No;No;40;Male;High blood pressure;Normal;Psoriasis;
-Psoriasis;No;cough;No;No;40;Female;Normal;High cholesterol;Psoriasis;
-Tuberculosis;fever;cough;fatigue;Difficulty breathing;40;Male;High blood pressure;High cholesterol;Tuberculosis;
-Tuberculosis;fever;cough;fatigue;Difficulty breathing;40;Male;High blood pressure;High cholesterol;Tuberculosis;
-Anxiety Disorders;No;No;No;No;42;Male;Low blood pressure;Normal;Anxiety Disorders;
-Common Cold;fever;cough;No;No;42;Female;High blood pressure;High cholesterol;Common Cold;
-Depression;fever;No;No;Difficulty breathing;42;Male;High blood pressure;Normal;Depression;
-Influenza;No;cough;No;No;42;Female;Normal;High cholesterol;Influenza;
-Kidney Cancer;fever;No;No;No;42;Female;Normal;Normal;Kidney Cancer;
-Liver Cancer;fever;No;fatigue;Difficulty breathing;42;Male;Normal;Low;Liver Cancer;
-Liver Disease;fever;No;No;Difficulty breathing;42;Female;Normal;Normal;Liver Disease;
-Lung Cancer;fever;No;fatigue;Difficulty breathing;42;Male;Normal;Low;Lung Cancer;
-Migraine;fever;cough;fatigue;No;42;Male;High blood pressure;High cholesterol;Migraine;
-Osteoarthritis;No;No;fatigue;No;42;Male;Normal;Low;Osteoarthritis;
-Stroke;fever;No;fatigue;No;42;Male;Normal;Low;Stroke;
-Urinary Tract Infection;No;cough;fatigue;Difficulty breathing;42;Female;Normal;Low;Urinary Tract Infection;
-Diabetes;fever;cough;fatigue;No;42;Male;High blood pressure;Normal;Diabetes;
-Hypothyroidism;fever;cough;fatigue;No;42;Female;High blood pressure;High cholesterol;Hypothyroidism;
-Hypothyroidism;fever;cough;fatigue;No;42;Female;High blood pressure;High cholesterol;Hypothyroidism;
-Kidney Disease;fever;No;fatigue;No;42;Female;High blood pressure;Low;Kidney Disease;
-Pneumonia;No;cough;fatigue;Difficulty breathing;43;Female;High blood pressure;Normal;Pneumonia;
-Allergic Rhinitis;No;cough;fatigue;No;45;Male;High blood pressure;Normal;Allergic Rhinitis;
-Autism Spectrum Disorder (ASD);No;No;fatigue;No;45;Male;Normal;Normal;Autism Spectrum Disorder (ASD);
-Crohn's Disease;fever;No;fatigue;No;45;Male;High blood pressure;Normal;Crohn's Disease;
-Hepatitis;fever;No;fatigue;No;45;Female;High blood pressure;High cholesterol;Hepatitis;
-Hepatitis;fever;No;fatigue;No;45;Female;High blood pressure;High cholesterol;Hepatitis;
-Hyperglycemia;No;No;fatigue;No;45;Male;Normal;Normal;Hyperglycemia;
-Kidney Cancer;No;cough;fatigue;Difficulty breathing;45;Male;Normal;Low;Kidney Cancer;
-Kidney Disease;fever;cough;No;No;45;Male;Normal;High cholesterol;Kidney Disease;
-Melanoma;fever;No;fatigue;No;45;Male;High blood pressure;Normal;Melanoma;
-Migraine;No;No;No;No;45;Female;Low blood pressure;Normal;Migraine;
-Ovarian Cancer;No;No;fatigue;No;45;Male;Normal;Normal;Ovarian Cancer;
-Pancreatitis;No;cough;fatigue;Difficulty breathing;45;Male;Normal;Low;Pancreatitis;
-Rheumatoid Arthritis;fever;No;No;No;45;Male;Normal;Normal;Rheumatoid Arthritis;
-Stroke;No;No;fatigue;No;45;Male;Normal;Normal;Stroke;
-Turner Syndrome;No;No;fatigue;No;45;Male;High blood pressure;High cholesterol;Turner Syndrome;
-Turner Syndrome;No;No;fatigue;No;45;Male;High blood pressure;High cholesterol;Turner Syndrome;
-Urinary Tract Infection;No;No;No;No;45;Female;Low blood pressure;Normal;Urinary Tract Infection;
-Zika Virus;No;cough;fatigue;No;45;Female;High blood pressure;High cholesterol;Zika Virus;
-Zika Virus;No;cough;fatigue;No;45;Female;High blood pressure;High cholesterol;Zika Virus;
-Allergic Rhinitis;fever;cough;fatigue;No;45;Male;High blood pressure;Normal;Allergic Rhinitis;
-Anxiety Disorders;fever;cough;fatigue;No;45;Male;High blood pressure;Normal;Anxiety Disorders;
-Asthma;fever;cough;No;Difficulty breathing;45;Male;Normal;Normal;Asthma;
-Asthma;fever;cough;No;Difficulty breathing;45;Male;Normal;Normal;Asthma;
-Cataracts;No;No;fatigue;No;45;Female;Normal;High cholesterol;Cataracts;
-Crohn's Disease;No;No;fatigue;No;45;Female;High blood pressure;High cholesterol;Crohn's Disease;
-Crohn's Disease;fever;cough;fatigue;No;45;Female;High blood pressure;High cholesterol;Crohn's Disease;
-Depression;No;No;fatigue;No;45;Female;High blood pressure;High cholesterol;Depression;
-Diabetes;fever;No;fatigue;No;45;Female;High blood pressure;High cholesterol;Diabetes;
-Diabetes;No;cough;fatigue;No;45;Male;Normal;High cholesterol;Diabetes;
-Hypertension;fever;No;fatigue;No;45;Male;Normal;High cholesterol;Hypertension;
-Hypothyroidism;No;No;fatigue;No;45;Female;High blood pressure;High cholesterol;Hypothyroidism;
-Liver Disease;fever;cough;fatigue;No;45;Female;Normal;High cholesterol;Liver Disease;
-Multiple Sclerosis;fever;No;No;No;45;Female;High blood pressure;High cholesterol;Multiple Sclerosis;
-Multiple Sclerosis;fever;No;No;No;45;Female;High blood pressure;High cholesterol;Multiple Sclerosis;
-Osteoarthritis;fever;No;fatigue;Difficulty breathing;45;Male;High blood pressure;Normal;Osteoarthritis;
-Osteoporosis;fever;cough;fatigue;No;45;Female;Normal;High cholesterol;Osteoporosis;
-Pneumocystis Pneumonia (PCP);fever;cough;fatigue;No;45;Female;High blood pressure;High cholesterol;Pneumocystis Pneumonia (PCP);
-Pneumonia;fever;cough;fatigue;Difficulty breathing;45;Male;High blood pressure;High cholesterol;Pneumonia;
-Scoliosis;No;No;No;No;45;Female;High blood pressure;High cholesterol;Scoliosis;
-Sickle Cell Anemia;No;No;fatigue;No;45;Female;Normal;Normal;Sickle Cell Anemia;
-Tetanus;No;No;fatigue;No;45;Male;Normal;High cholesterol;Tetanus;
-Tetanus;No;No;fatigue;No;45;Male;Normal;High cholesterol;Tetanus;
-Hypertension;No;No;No;No;48;Female;Low blood pressure;High cholesterol;Hypertension;
-Hypothyroidism;No;No;fatigue;No;48;Male;Normal;High cholesterol;Hypothyroidism;
-Hypothyroidism;No;No;fatigue;No;48;Male;Normal;High cholesterol;Hypothyroidism;
-Allergic Rhinitis;fever;No;No;No;50;Male;High blood pressure;High cholesterol;Allergic Rhinitis;
-Anemia;No;No;fatigue;No;50;Male;Normal;Normal;Anemia;
-Anxiety Disorders;No;No;fatigue;No;50;Male;Normal;Normal;Anxiety Disorders;
-Cholera;fever;No;fatigue;Difficulty breathing;50;Female;High blood pressure;High cholesterol;Cholera;
-Cholera;fever;No;fatigue;Difficulty breathing;50;Female;High blood pressure;High cholesterol;Cholera;
-Crohn's Disease;fever;cough;fatigue;No;50;Male;Normal;High cholesterol;Crohn's Disease;
-Crohn's Disease;No;No;fatigue;No;50;Male;Normal;High cholesterol;Crohn's Disease;
-Depression;No;cough;fatigue;No;50;Female;Low blood pressure;Low;Depression;
-Diabetes;No;cough;No;No;50;Male;Normal;High cholesterol;Diabetes;
-Endometriosis;fever;No;No;No;50;Male;High blood pressure;Normal;Endometriosis;
-Hypertension;No;cough;No;No;50;Female;Normal;Low;Hypertension;
-Hypothyroidism;fever;cough;fatigue;No;50;Male;Normal;High cholesterol;Hypothyroidism;
-Kidney Cancer;No;cough;No;No;50;Male;Low blood pressure;High cholesterol;Kidney Cancer;
-Kidney Disease;No;cough;No;Difficulty breathing;50;Male;Normal;Normal;Kidney Disease;
-Pancreatitis;No;cough;No;No;50;Male;Low blood pressure;High cholesterol;Pancreatitis;
-Rheumatoid Arthritis;No;cough;No;No;50;Female;Low blood pressure;Normal;Rheumatoid Arthritis;
-Sepsis;fever;cough;fatigue;No;50;Male;Normal;Normal;Sepsis;
-Sleep Apnea;fever;No;fatigue;Difficulty breathing;50;Male;High blood pressure;High cholesterol;Sleep Apnea;
-Urinary Tract Infection;fever;cough;No;Difficulty breathing;50;Male;High blood pressure;Normal;Urinary Tract Infection;
-Asthma;fever;cough;fatigue;Difficulty breathing;50;Female;Normal;High cholesterol;Asthma;
-Bronchitis;fever;cough;fatigue;Difficulty breathing;50;Male;High blood pressure;High cholesterol;Bronchitis;
-Down Syndrome;No;No;fatigue;No;50;Female;High blood pressure;High cholesterol;Down Syndrome;
-Ebola Virus;fever;cough;fatigue;Difficulty breathing;50;Male;Normal;Normal;Ebola Virus;
-Ebola Virus;fever;cough;fatigue;Difficulty breathing;50;Male;Normal;Normal;Ebola Virus;
-Eczema;No;cough;No;No;50;Female;High blood pressure;High cholesterol;Eczema;
-Gastroenteritis;fever;cough;fatigue;Difficulty breathing;50;Female;High blood pressure;Normal;Gastroenteritis;
-Klinefelter Syndrome;No;No;fatigue;No;50;Female;Normal;Normal;Klinefelter Syndrome;
-Liver Cancer;No;cough;fatigue;Difficulty breathing;50;Male;High blood pressure;High cholesterol;Liver Cancer;
-Lyme Disease;fever;No;No;No;50;Male;Normal;High cholesterol;Lyme Disease;
-Lyme Disease;fever;No;No;No;50;Male;Normal;High cholesterol;Lyme Disease;
-Pancreatic Cancer;No;No;fatigue;No;50;Female;High blood pressure;High cholesterol;Pancreatic Cancer;
-Pneumothorax;No;No;fatigue;Difficulty breathing;50;Female;High blood pressure;High cholesterol;Pneumothorax;
-Stroke;No;cough;fatigue;Difficulty breathing;50;Male;High blood pressure;High cholesterol;Stroke;
-Ulcerative Colitis;No;cough;fatigue;No;50;Female;Normal;High cholesterol;Ulcerative Colitis;
-Hypertension;fever;cough;No;No;52;Male;Normal;Low;Hypertension;
-Multiple Sclerosis;No;cough;fatigue;No;52;Male;Normal;Normal;Multiple Sclerosis;
-Multiple Sclerosis;No;cough;fatigue;No;52;Male;Normal;Normal;Multiple Sclerosis;
-Appendicitis;fever;No;fatigue;No;55;Male;Normal;Normal;Appendicitis;
-Bronchitis;No;No;fatigue;Difficulty breathing;55;Male;High blood pressure;High cholesterol;Bronchitis;
-Bronchitis;fever;cough;fatigue;Difficulty breathing;55;Male;High blood pressure;Normal;Bronchitis;
-Common Cold;fever;No;fatigue;Difficulty breathing;55;Male;Normal;Low;Common Cold;
-Diabetes;No;cough;No;No;55;Female;Normal;High cholesterol;Diabetes;
-Esophageal Cancer;No;No;fatigue;No;55;Male;Normal;Normal;Esophageal Cancer;
-HIV/AIDS;fever;No;No;No;55;Female;High blood pressure;High cholesterol;HIV/AIDS;
-HIV/AIDS;fever;No;No;No;55;Female;High blood pressure;High cholesterol;HIV/AIDS;
-Hypertension;No;cough;No;No;55;Female;Normal;Low;Hypertension;
-Liver Disease;No;cough;fatigue;No;55;Male;High blood pressure;Low;Liver Disease;
-Marfan Syndrome;No;No;fatigue;No;55;Male;High blood pressure;High cholesterol;Marfan Syndrome;
-Migraine;No;cough;fatigue;Difficulty breathing;55;Female;Normal;Low;Migraine;
-Osteoporosis;No;No;fatigue;No;55;Male;High blood pressure;Normal;Osteoporosis;
-Parkinson's Disease;No;No;fatigue;No;55;Female;Normal;Low;Parkinson's Disease;
-Parkinson's Disease;No;No;fatigue;No;55;Female;Normal;Low;Parkinson's Disease;
-Anxiety Disorders;fever;cough;No;No;55;Female;Normal;Low;Anxiety Disorders;
-Coronary Artery Disease;No;No;fatigue;No;55;Female;Normal;Normal;Coronary Artery Disease;
-Coronary Artery Disease;No;No;fatigue;No;55;Female;Normal;Normal;Coronary Artery Disease;
-Hemorrhoids;No;No;No;No;55;Female;High blood pressure;High cholesterol;Hemorrhoids;
-Hypertension;fever;No;fatigue;No;55;Male;High blood pressure;Normal;Hypertension;
-Hypothyroidism;No;No;fatigue;No;55;Female;High blood pressure;High cholesterol;Hypothyroidism;
-Osteoarthritis;fever;cough;No;No;55;Female;High blood pressure;High cholesterol;Osteoarthritis;
-Osteoporosis;fever;No;fatigue;Difficulty breathing;55;Male;High blood pressure;Low;Osteoporosis;
-Osteoporosis;No;cough;fatigue;No;55;Female;Normal;Normal;Osteoporosis;
-Osteoporosis;fever;No;fatigue;No;55;Female;Normal;Normal;Osteoporosis;
-Osteoporosis;fever;No;fatigue;No;55;Female;Normal;Normal;Osteoporosis;
-Polycystic Ovary Syndrome (PCOS);fever;cough;No;No;55;Female;Normal;Normal;Polycystic Ovary Syndrome (PCOS);
-Systemic Lupus Erythematosus...;No;cough;fatigue;No;55;Female;High blood pressure;High cholesterol;Systemic Lupus Erythematosus...;
-Typhoid Fever;No;cough;No;No;55;Male;Normal;Low;Typhoid Fever;
-Typhoid Fever;No;cough;No;No;55;Male;Normal;Low;Typhoid Fever;
-Influenza;fever;cough;fatigue;Difficulty breathing;56;Male;High blood pressure;High cholesterol;Influenza;
-Pneumonia;fever;cough;No;Difficulty breathing;57;Male;Normal;High cholesterol;Pneumonia;
-Breast Cancer;No;No;fatigue;No;60;Male;High blood pressure;High cholesterol;Breast Cancer;
-Coronary Artery Disease;fever;cough;No;No;60;Male;High blood pressure;High cholesterol;Coronary Artery Disease;
-Coronary Artery Disease;fever;cough;No;No;60;Male;High blood pressure;High cholesterol;Coronary Artery Disease;
-Hyperthyroidism;No;No;fatigue;No;60;Male;Normal;Normal;Hyperthyroidism;
-Measles;fever;cough;No;No;60;Female;High blood pressure;Normal;Measles;
-Measles;fever;cough;No;No;60;Female;High blood pressure;Normal;Measles;
-Osteoarthritis;No;cough;No;Difficulty breathing;60;Female;Normal;Normal;Osteoarthritis;
-Osteomyelitis;No;No;fatigue;No;60;Male;Normal;Normal;Osteomyelitis;
-Osteoporosis;fever;No;No;No;60;Male;High blood pressure;High cholesterol;Osteoporosis;
-Osteoporosis;No;cough;No;No;60;Male;High blood pressure;High cholesterol;Osteoporosis;
-Osteoporosis;No;cough;No;No;60;Male;High blood pressure;High cholesterol;Osteoporosis;
-Polio;fever;cough;fatigue;No;60;Male;Normal;Normal;Polio;
-Asthma;fever;cough;fatigue;Difficulty breathing;60;Female;High blood pressure;High cholesterol;Asthma;
-Chronic Kidney Disease;No;No;fatigue;No;60;Female;Normal;High cholesterol;Chronic Kidney Disease;
-Hemophilia;No;No;fatigue;No;60;Female;Normal;Normal;Hemophilia;
-Hepatitis B;No;cough;fatigue;No;60;Male;Normal;Low;Hepatitis B;
-Hepatitis B;No;cough;fatigue;No;60;Male;Normal;Low;Hepatitis B;
-Hypertension;No;No;fatigue;No;60;Female;High blood pressure;Normal;Hypertension;
-Hypertension;fever;No;fatigue;No;60;Male;High blood pressure;Normal;Hypertension;
-Hypertension;No;No;No;No;60;Female;High blood pressure;High cholesterol;Hypertension;
-Kidney Cancer;fever;cough;fatigue;No;60;Female;High blood pressure;Normal;Kidney Cancer;
-Kidney Disease;fever;cough;fatigue;Difficulty breathing;60;Female;High blood pressure;High cholesterol;Kidney Disease;
-Osteoporosis;fever;No;fatigue;No;60;Male;High blood pressure;Normal;Osteoporosis;
-Pancreatitis;fever;cough;fatigue;No;60;Female;High blood pressure;Normal;Pancreatitis;
-Parkinson's Disease;fever;cough;No;No;60;Male;High blood pressure;Normal;Parkinson's Disease;
-Parkinson's Disease;fever;cough;No;No;60;Male;High blood pressure;Normal;Parkinson's Disease;
-Prader-Willi Syndrome;No;No;fatigue;No;60;Female;Normal;Normal;Prader-Willi Syndrome;
-Rheumatoid Arthritis;No;No;fatigue;No;60;Female;High blood pressure;High cholesterol;Rheumatoid Arthritis;
-Thyroid Cancer;No;No;fatigue;No;60;Female;High blood pressure;High cholesterol;Thyroid Cancer;
-Tuberculosis;fever;cough;fatigue;No;60;Female;High blood pressure;High cholesterol;Tuberculosis;
-Bladder Cancer;No;No;fatigue;No;65;Male;Normal;Normal;Bladder Cancer;
-Diabetes;No;No;fatigue;No;65;Male;Normal;High cholesterol;Diabetes;
-Otitis Media (Ear Infection);fever;cough;fatigue;No;65;Male;Normal;Normal;Otitis Media (Ear Infection);
-Stroke;fever;No;fatigue;No;65;Female;High blood pressure;Low;Stroke;
-Stroke;fever;No;fatigue;No;65;Female;High blood pressure;Low;Stroke;
-Tourette Syndrome;No;No;fatigue;No;65;Male;High blood pressure;High cholesterol;Tourette Syndrome;
-Urinary Tract Infection (UTI);fever;No;fatigue;No;65;Male;High blood pressure;Normal;Urinary Tract Infection (UTI);
-Alzheimer's Disease;No;cough;No;No;65;Male;Normal;High cholesterol;Alzheimer's Disease;
-Alzheimer's Disease;No;cough;No;No;65;Male;Normal;High cholesterol;Alzheimer's Disease;
-Alzheimer's Disease;No;No;fatigue;No;65;Female;High blood pressure;High cholesterol;Alzheimer's Disease;
-Bronchitis;fever;No;fatigue;Difficulty breathing;65;Male;High blood pressure;High cholesterol;Bronchitis;
-Chronic Obstructive Pulmonary Disease (COPD);fever;No;fatigue;Difficulty breathing;65;Female;High blood pressure;High cholesterol;Chronic Obstructive Pulmonary Disease (COPD);
-Chronic Obstructive Pulmonary Disease (COPD);fever;No;fatigue;Difficulty breathing;65;Female;High blood pressure;High cholesterol;Chronic Obstructive Pulmonary Disease (COPD);
-Dementia;No;No;fatigue;No;65;Female;High blood pressure;High cholesterol;Dementia;
-Diabetes;fever;cough;fatigue;No;65;Female;Normal;High cholesterol;Diabetes;
-Diverticulitis;No;No;fatigue;No;65;Female;High blood pressure;High cholesterol;Diverticulitis;
-Liver Cancer;fever;cough;fatigue;No;65;Female;High blood pressure;High cholesterol;Liver Cancer;
-Lung Cancer;fever;cough;fatigue;No;65;Female;High blood pressure;High cholesterol;Lung Cancer;
-Lung Cancer;fever;No;fatigue;No;65;Female;Normal;High cholesterol;Lung Cancer;
-Mumps;No;No;fatigue;No;65;Male;Normal;High cholesterol;Mumps;
-Mumps;No;No;fatigue;No;65;Male;Normal;High cholesterol;Mumps;
-Osteoporosis;No;cough;fatigue;No;65;Female;High blood pressure;High cholesterol;Osteoporosis;
-Stroke;fever;cough;fatigue;No;65;Female;High blood pressure;High cholesterol;Stroke;
-Alzheimer's Disease;fever;No;fatigue;No;70;Female;High blood pressure;Normal;Alzheimer's Disease;
-Alzheimer's Disease;fever;No;fatigue;No;70;Female;High blood pressure;Normal;Alzheimer's Disease;
-Cholecystitis;No;No;fatigue;No;70;Male;Normal;Normal;Cholecystitis;
-Chronic Obstructive Pulmonary Disease (COPD);No;cough;fatigue;Difficulty breathing;70;Male;Normal;High cholesterol;Chronic Obstructive Pulmonary Disease (COPD);
-Chronic Obstructive Pulmonary Disease (COPD);No;cough;fatigue;Difficulty breathing;70;Male;Normal;High cholesterol;Chronic Obstructive Pulmonary Disease (COPD);
-Osteoporosis;fever;No;No;No;70;Male;Normal;Normal;Osteoporosis;
-Parkinson's Disease;No;No;fatigue;No;70;Male;Normal;Normal;Parkinson's Disease;
-Prostate Cancer;fever;cough;No;No;70;Male;High blood pressure;Normal;Prostate Cancer;
-Schizophrenia;No;cough;fatigue;No;70;Male;Normal;Normal;Schizophrenia;
-Gout;fever;No;fatigue;No;70;Female;Normal;High cholesterol;Gout;
-Migraine;No;No;fatigue;No;70;Female;Normal;Normal;Migraine;
-Stroke;No;cough;No;No;70;Male;Normal;High cholesterol;Stroke;
-Stroke;No;cough;No;No;70;Male;Normal;High cholesterol;Stroke;
-Testicular Cancer;No;No;fatigue;No;70;Female;High blood pressure;High cholesterol;Testicular Cancer;
-Tonsillitis;fever;cough;fatigue;No;70;Female;High blood pressure;High cholesterol;Tonsillitis;
-Williams Syndrome;No;No;fatigue;No;70;Female;Normal;Normal;Williams Syndrome;
-Stroke;fever;No;fatigue;No;80;Female;High blood pressure;High cholesterol;Stroke;
-Stroke;fever;No;fatigue;No;80;Female;High blood pressure;High cholesterol;Stroke;
-Stroke;fever;No;fatigue;No;85;Male;High blood pressure;High cholesterol;Stroke;
-Stroke;fever;No;fatigue;No;85;Male;High blood pressure;High cholesterol;Stroke;
-Stroke;fever;No;fatigue;No;90;Female;High blood pressure;High cholesterol;Stroke;
-Stroke;fever;No;fatigue;No;90;Female;High blood pressure;High cholesterol;Stroke;
+Disease,Symptoms,Symptoms,Symptoms,Symptoms,Age,Gender,Blood Pressure,Symptoms,Outcome Variable,
+Influenza,fever,No,fatigue,Difficulty breathing,19,Female,Low blood pressure,Normal,Influenza,
+Common Cold,No,cough,fatigue,No,25,Female,Normal,Normal,Common Cold,
+Eczema,No,cough,fatigue,No,25,Female,Normal,Normal,Eczema,
+Asthma,fever,cough,No,Difficulty breathing,25,Male,Normal,Normal,Asthma,
+Asthma,fever,cough,No,Difficulty breathing,25,Male,Normal,Normal,Asthma,
+Eczema,fever,No,No,No,25,Female,Normal,Normal,Eczema,
+Influenza,fever,cough,fatigue,Difficulty breathing,25,Female,Normal,Normal,Influenza,
+Influenza,fever,cough,fatigue,Difficulty breathing,25,Female,Normal,Normal,Influenza,
+Hyperthyroidism,No,cough,No,No,28,Female,Normal,Normal,Hyperthyroidism,
+Hyperthyroidism,No,cough,No,No,28,Female,Normal,Normal,Hyperthyroidism,
+Asthma,fever,No,No,Difficulty breathing,28,Male,High blood pressure,Normal,Asthma,
+Allergic Rhinitis,No,cough,fatigue,No,29,Female,Normal,Low,Allergic Rhinitis,
+Anxiety Disorders,No,cough,No,No,29,Female,Normal,High cholesterol,Anxiety Disorders,
+Common Cold,No,No,No,No,29,Female,Low blood pressure,Normal,Common Cold,
+Diabetes,No,No,No,No,29,Male,Low blood pressure,Normal,Diabetes,
+Gastroenteritis,No,cough,No,No,29,Female,Normal,Normal,Gastroenteritis,
+Pancreatitis,fever,No,No,No,29,Female,High blood pressure,Normal,Pancreatitis,
+Rheumatoid Arthritis,No,cough,fatigue,Difficulty breathing,29,Female,High blood pressure,High cholesterol,Rheumatoid Arthritis,
+Depression,fever,cough,fatigue,Difficulty breathing,29,Male,High blood pressure,Normal,Depression,
+Liver Cancer,fever,cough,fatigue,Difficulty breathing,29,Female,Normal,Normal,Liver Cancer,
+Stroke,fever,cough,fatigue,Difficulty breathing,29,Female,Normal,Normal,Stroke,
+Urinary Tract Infection,fever,cough,fatigue,No,29,Male,High blood pressure,High cholesterol,Urinary Tract Infection,
+Dengue Fever,fever,No,fatigue,No,30,Female,Normal,Normal,Dengue Fever,
+Dengue Fever,fever,No,fatigue,No,30,Female,Normal,Normal,Dengue Fever,
+Eczema,No,cough,fatigue,No,30,Male,High blood pressure,High cholesterol,Eczema,
+Gastroenteritis,fever,cough,fatigue,No,30,Male,High blood pressure,High cholesterol,Gastroenteritis,
+Hepatitis,fever,cough,fatigue,Difficulty breathing,30,Male,High blood pressure,Normal,Hepatitis,
+Kidney Cancer,No,No,fatigue,No,30,Male,Normal,Normal,Kidney Cancer,
+Migraine,fever,No,No,No,30,Female,Normal,Normal,Migraine,
+Migraine,No,cough,fatigue,No,30,Female,Normal,Normal,Migraine,
+Muscular Dystrophy,No,No,fatigue,No,30,Male,High blood pressure,High cholesterol,Muscular Dystrophy,
+Sinusitis,No,cough,fatigue,No,30,Male,Normal,Normal,Sinusitis,
+Ulcerative Colitis,fever,cough,No,No,30,Female,Normal,Normal,Ulcerative Colitis,
+Ulcerative Colitis,No,cough,fatigue,No,30,Female,Normal,Normal,Ulcerative Colitis,
+Asthma,fever,cough,No,Difficulty breathing,30,Female,Normal,Normal,Asthma,
+Asthma,fever,cough,No,Difficulty breathing,30,Female,Normal,Normal,Asthma,
+Asthma,fever,cough,fatigue,Difficulty breathing,30,Female,Normal,Normal,Asthma,
+Bipolar Disorder,No,No,fatigue,No,30,Female,High blood pressure,High cholesterol,Bipolar Disorder,
+Bronchitis,fever,cough,No,Difficulty breathing,30,Female,Low blood pressure,Normal,Bronchitis,
+Bronchitis,fever,cough,fatigue,Difficulty breathing,30,Male,High blood pressure,High cholesterol,Bronchitis,
+Bronchitis,fever,cough,fatigue,Difficulty breathing,30,Male,High blood pressure,High cholesterol,Bronchitis,
+Cerebral Palsy,No,No,fatigue,Difficulty breathing,30,Female,Normal,Normal,Cerebral Palsy,
+Colorectal Cancer,No,No,fatigue,No,30,Female,Normal,High cholesterol,Colorectal Cancer,
+Eczema,fever,No,No,No,30,Male,High blood pressure,High cholesterol,Eczema,
+Hypertensive Heart Disease,No,No,fatigue,No,30,Female,High blood pressure,High cholesterol,Hypertensive Heart Disease,
+Influenza,fever,cough,fatigue,No,30,Male,High blood pressure,Normal,Influenza,
+Influenza,fever,cough,fatigue,Difficulty breathing,30,Female,Normal,Normal,Influenza,
+Multiple Sclerosis,No,No,fatigue,No,30,Female,High blood pressure,High cholesterol,Multiple Sclerosis,
+Myocardial Infarction (Heart...,fever,cough,fatigue,Difficulty breathing,30,Female,High blood pressure,High cholesterol,Myocardial Infarction (Heart...,
+Urinary Tract Infection (UTI),fever,No,No,No,30,Female,Normal,Normal,Urinary Tract Infection (UTI),
+Asthma,No,No,No,Difficulty breathing,31,Male,Normal,Low,Asthma,
+Osteoporosis,No,No,No,Difficulty breathing,31,Male,Low blood pressure,Normal,Osteoporosis,
+Common Cold,fever,No,fatigue,Difficulty breathing,31,Male,High blood pressure,High cholesterol,Common Cold,
+Migraine,fever,No,No,No,31,Female,Normal,Normal,Migraine,
+Pneumonia,fever,No,fatigue,Difficulty breathing,32,Female,High blood pressure,Normal,Pneumonia,
+Allergic Rhinitis,No,No,fatigue,No,35,Female,Normal,Low,Allergic Rhinitis,
+Asthma,No,cough,fatigue,Difficulty breathing,35,Female,Normal,High cholesterol,Asthma,
+Asthma,fever,cough,fatigue,Difficulty breathing,35,Female,Normal,Normal,Asthma,
+Asthma,No,cough,fatigue,Difficulty breathing,35,Female,High blood pressure,Normal,Asthma,
+Asthma,No,cough,fatigue,Difficulty breathing,35,Female,High blood pressure,Normal,Asthma,
+Atherosclerosis,No,No,fatigue,No,35,Male,Normal,Normal,Atherosclerosis,
+Chronic Obstructive Pulmonary...,fever,cough,fatigue,Difficulty breathing,35,Male,Normal,Normal,Chronic Obstructive Pulmonary...,
+Common Cold,fever,cough,fatigue,No,35,Male,High blood pressure,Normal,Common Cold,
+Eczema,No,cough,No,No,35,Male,High blood pressure,Normal,Eczema,
+Epilepsy,No,No,fatigue,No,35,Male,High blood pressure,High cholesterol,Epilepsy,
+Hypertension,fever,cough,fatigue,No,35,Female,High blood pressure,Normal,Hypertension,
+Hyperthyroidism,fever,cough,fatigue,No,35,Female,Normal,Normal,Hyperthyroidism,
+Obsessive-Compulsive Disorde...,No,No,fatigue,No,35,Male,Normal,Normal,Obsessive-Compulsive Disorde...,
+Pneumonia,fever,cough,fatigue,Difficulty breathing,35,Female,Normal,Normal,Pneumonia,
+Pneumonia,fever,cough,fatigue,Difficulty breathing,35,Female,Normal,Normal,Pneumonia,
+Psoriasis,fever,No,No,No,35,Female,Normal,Low,Psoriasis,
+Psoriasis,No,cough,fatigue,No,35,Female,Normal,Low,Psoriasis,
+Rubella,fever,No,fatigue,No,35,Female,High blood pressure,Normal,Rubella,
+Rubella,fever,No,fatigue,No,35,Female,High blood pressure,Normal,Rubella,
+Urinary Tract Infection (UTI),No,cough,fatigue,No,35,Male,High blood pressure,High cholesterol,Urinary Tract Infection (UTI),
+Asthma,fever,cough,No,Difficulty breathing,35,Male,Normal,Normal,Asthma,
+Asthma,fever,cough,No,Difficulty breathing,35,Male,Normal,Normal,Asthma,
+Cirrhosis,No,No,fatigue,No,35,Female,Normal,High cholesterol,Cirrhosis,
+Conjunctivitis (Pink Eye),No,cough,No,No,35,Female,High blood pressure,High cholesterol,Conjunctivitis (Pink Eye),
+Depression,No,No,fatigue,No,35,Female,Normal,High cholesterol,Depression,
+Gastroenteritis,fever,No,fatigue,Difficulty breathing,35,Male,Low blood pressure,High cholesterol,Gastroenteritis,
+Hyperthyroidism,fever,cough,fatigue,No,35,Male,High blood pressure,High cholesterol,Hyperthyroidism,
+Hyperthyroidism,fever,cough,fatigue,No,35,Male,High blood pressure,High cholesterol,Hyperthyroidism,
+Kidney Cancer,No,No,fatigue,No,35,Male,High blood pressure,High cholesterol,Kidney Cancer,
+Liver Cancer,No,No,fatigue,No,35,Female,High blood pressure,High cholesterol,Liver Cancer,
+Liver Disease,No,No,fatigue,No,35,Male,High blood pressure,High cholesterol,Liver Disease,
+Malaria,fever,No,No,No,35,Male,High blood pressure,High cholesterol,Malaria,
+Malaria,fever,No,No,No,35,Male,High blood pressure,High cholesterol,Malaria,
+Migraine,No,cough,fatigue,No,35,Male,High blood pressure,High cholesterol,Migraine,
+Migraine,fever,No,No,No,35,Male,High blood pressure,High cholesterol,Migraine,
+Pancreatitis,No,No,fatigue,No,35,Male,Normal,High cholesterol,Pancreatitis,
+Rheumatoid Arthritis,fever,cough,fatigue,No,35,Male,Normal,Low,Rheumatoid Arthritis,
+Rheumatoid Arthritis,No,No,fatigue,No,35,Female,Normal,Low,Rheumatoid Arthritis,
+Spina Bifida,No,No,fatigue,No,35,Female,Normal,Normal,Spina Bifida,
+Ulcerative Colitis,No,No,fatigue,No,35,Male,High blood pressure,High cholesterol,Ulcerative Colitis,
+Ulcerative Colitis,fever,No,No,No,35,Male,High blood pressure,High cholesterol,Ulcerative Colitis,
+Urinary Tract Infection,fever,No,fatigue,No,35,Female,Normal,High cholesterol,Urinary Tract Infection,
+Allergic Rhinitis,No,cough,No,No,38,Female,Low blood pressure,Normal,Allergic Rhinitis,
+Depression,No,No,No,No,38,Female,Normal,High cholesterol,Depression,
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Gastroenteritis,
+Influenza,No,No,No,No,38,Male,Normal,Normal,Influenza,
+Kidney Disease,No,No,fatigue,No,38,Female,Low blood pressure,Normal,Kidney Disease,
+Liver Cancer,fever,cough,No,No,38,Female,High blood pressure,Normal,Liver Cancer,
+Liver Disease,No,cough,No,Difficulty breathing,38,Male,Low blood pressure,Normal,Liver Disease,
+Osteoporosis,No,cough,No,No,38,Female,Normal,High cholesterol,Osteoporosis,
+Stroke,fever,cough,No,No,38,Female,High blood pressure,Normal,Stroke,
+Anxiety Disorders,fever,No,fatigue,Difficulty breathing,38,Male,High blood pressure,High cholesterol,Anxiety Disorders,
+Diabetes,fever,No,fatigue,Difficulty breathing,38,Male,High blood pressure,Low,Diabetes,
+Migraine,fever,cough,No,No,38,Male,High blood pressure,High cholesterol,Migraine,
+Osteoarthritis,fever,cough,fatigue,No,38,Male,High blood pressure,High cholesterol,Osteoarthritis,
+Pneumonia,fever,cough,fatigue,Difficulty breathing,38,Male,Normal,Normal,Pneumonia,
+Klinefelter Syndrome,No,No,fatigue,No,39,Female,Normal,Normal,Klinefelter Syndrome,
+Acne,No,No,fatigue,No,40,Male,Normal,Normal,Acne,
+Brain Tumor,No,No,fatigue,No,40,Male,Normal,Normal,Brain Tumor,
+Bronchitis,No,cough,No,Difficulty breathing,40,Female,Normal,Normal,Bronchitis,
+Cystic Fibrosis,No,No,fatigue,Difficulty breathing,40,Male,High blood pressure,High cholesterol,Cystic Fibrosis,
+Diabetes,fever,No,No,No,40,Female,High blood pressure,High cholesterol,Diabetes,
+Glaucoma,No,No,fatigue,No,40,Male,High blood pressure,Normal,Glaucoma,
+Osteoarthritis,No,No,fatigue,No,40,Male,High blood pressure,Normal,Osteoarthritis,
+Rabies,fever,cough,No,No,40,Female,High blood pressure,Normal,Rabies,
+Rabies,fever,cough,No,No,40,Female,High blood pressure,Normal,Rabies,
+Asthma,fever,No,fatigue,No,40,Male,Low blood pressure,Normal,Asthma,
+Asthma,fever,cough,No,Difficulty breathing,40,Female,Normal,Normal,Asthma,
+Asthma,fever,cough,No,Difficulty breathing,40,Female,Normal,Normal,Asthma,
+Asthma,No,No,fatigue,Difficulty breathing,40,Male,High blood pressure,High cholesterol,Asthma,
+Asthma,fever,No,fatigue,Difficulty breathing,40,Male,Normal,High cholesterol,Asthma,
+Asthma,fever,No,fatigue,Difficulty breathing,40,Male,Normal,High cholesterol,Asthma,
+Chickenpox,No,cough,No,No,40,Male,Normal,High cholesterol,Chickenpox,
+Chickenpox,No,cough,No,No,40,Male,Normal,High cholesterol,Chickenpox,
+Coronary Artery Disease,No,No,fatigue,No,40,Female,High blood pressure,High cholesterol,Coronary Artery Disease,
+Eating Disorders (Anorexia,...,No,No,Difficulty breathing,No,40,Female,High cholesterol,Eating Disorders (Anorexia,Positive
+Fibromyalgia,No,No,fatigue,No,40,Female,High blood pressure,High cholesterol,Fibromyalgia,
+Gastroenteritis,fever,cough,fatigue,No,40,Male,High blood pressure,High cholesterol,Gastroenteritis,
+Hemophilia,No,No,fatigue,No,40,Female,Normal,Normal,Hemophilia,
+Hyperthyroidism,No,No,fatigue,No,40,Male,High blood pressure,High cholesterol,Hyperthyroidism,
+Hypoglycemia,No,No,fatigue,No,40,Female,High blood pressure,High cholesterol,Hypoglycemia,
+Lymphoma,No,cough,No,No,40,Female,Normal,High cholesterol,Lymphoma,
+Pneumonia,fever,cough,fatigue,Difficulty breathing,40,Female,Normal,High cholesterol,Pneumonia,
+Psoriasis,No,cough,fatigue,No,40,Male,High blood pressure,Normal,Psoriasis,
+Psoriasis,fever,No,No,No,40,Male,High blood pressure,Normal,Psoriasis,
+Psoriasis,No,cough,No,No,40,Female,Normal,High cholesterol,Psoriasis,
+Tuberculosis,fever,cough,fatigue,Difficulty breathing,40,Male,High blood pressure,High cholesterol,Tuberculosis,
+Tuberculosis,fever,cough,fatigue,Difficulty breathing,40,Male,High blood pressure,High cholesterol,Tuberculosis,
+Anxiety Disorders,No,No,No,No,42,Male,Low blood pressure,Normal,Anxiety Disorders,
+Common Cold,fever,cough,No,No,42,Female,High blood pressure,High cholesterol,Common Cold,
+Depression,fever,No,No,Difficulty breathing,42,Male,High blood pressure,Normal,Depression,
+Influenza,No,cough,No,No,42,Female,Normal,High cholesterol,Influenza,
+Kidney Cancer,fever,No,No,No,42,Female,Normal,Normal,Kidney Cancer,
+Liver Cancer,fever,No,fatigue,Difficulty breathing,42,Male,Normal,Low,Liver Cancer,
+Liver Disease,fever,No,No,Difficulty breathing,42,Female,Normal,Normal,Liver Disease,
+Lung Cancer,fever,No,fatigue,Difficulty breathing,42,Male,Normal,Low,Lung Cancer,
+Migraine,fever,cough,fatigue,No,42,Male,High blood pressure,High cholesterol,Migraine,
+Osteoarthritis,No,No,fatigue,No,42,Male,Normal,Low,Osteoarthritis,
+Stroke,fever,No,fatigue,No,42,Male,Normal,Low,Stroke,
+Urinary Tract Infection,No,cough,fatigue,Difficulty breathing,42,Female,Normal,Low,Urinary Tract Infection,
+Diabetes,fever,cough,fatigue,No,42,Male,High blood pressure,Normal,Diabetes,
+Hypothyroidism,fever,cough,fatigue,No,42,Female,High blood pressure,High cholesterol,Hypothyroidism,
+Hypothyroidism,fever,cough,fatigue,No,42,Female,High blood pressure,High cholesterol,Hypothyroidism,
+Kidney Disease,fever,No,fatigue,No,42,Female,High blood pressure,Low,Kidney Disease,
+Pneumonia,No,cough,fatigue,Difficulty breathing,43,Female,High blood pressure,Normal,Pneumonia,
+Allergic Rhinitis,No,cough,fatigue,No,45,Male,High blood pressure,Normal,Allergic Rhinitis,
+Autism Spectrum Disorder (ASD),No,No,fatigue,No,45,Male,Normal,Normal,Autism Spectrum Disorder (ASD),
+Crohn's Disease,fever,No,fatigue,No,45,Male,High blood pressure,Normal,Crohn's Disease,
+Hepatitis,fever,No,fatigue,No,45,Female,High blood pressure,High cholesterol,Hepatitis,
+Hepatitis,fever,No,fatigue,No,45,Female,High blood pressure,High cholesterol,Hepatitis,
+Hyperglycemia,No,No,fatigue,No,45,Male,Normal,Normal,Hyperglycemia,
+Kidney Cancer,No,cough,fatigue,Difficulty breathing,45,Male,Normal,Low,Kidney Cancer,
+Kidney Disease,fever,cough,No,No,45,Male,Normal,High cholesterol,Kidney Disease,
+Melanoma,fever,No,fatigue,No,45,Male,High blood pressure,Normal,Melanoma,
+Migraine,No,No,No,No,45,Female,Low blood pressure,Normal,Migraine,
+Ovarian Cancer,No,No,fatigue,No,45,Male,Normal,Normal,Ovarian Cancer,
+Pancreatitis,No,cough,fatigue,Difficulty breathing,45,Male,Normal,Low,Pancreatitis,
+Rheumatoid Arthritis,fever,No,No,No,45,Male,Normal,Normal,Rheumatoid Arthritis,
+Stroke,No,No,fatigue,No,45,Male,Normal,Normal,Stroke,
+Turner Syndrome,No,No,fatigue,No,45,Male,High blood pressure,High cholesterol,Turner Syndrome,
+Turner Syndrome,No,No,fatigue,No,45,Male,High blood pressure,High cholesterol,Turner Syndrome,
+Urinary Tract Infection,No,No,No,No,45,Female,Low blood pressure,Normal,Urinary Tract Infection,
+Zika Virus,No,cough,fatigue,No,45,Female,High blood pressure,High cholesterol,Zika Virus,
+Zika Virus,No,cough,fatigue,No,45,Female,High blood pressure,High cholesterol,Zika Virus,
+Allergic Rhinitis,fever,cough,fatigue,No,45,Male,High blood pressure,Normal,Allergic Rhinitis,
+Anxiety Disorders,fever,cough,fatigue,No,45,Male,High blood pressure,Normal,Anxiety Disorders,
+Asthma,fever,cough,No,Difficulty breathing,45,Male,Normal,Normal,Asthma,
+Asthma,fever,cough,No,Difficulty breathing,45,Male,Normal,Normal,Asthma,
+Cataracts,No,No,fatigue,No,45,Female,Normal,High cholesterol,Cataracts,
+Crohn's Disease,No,No,fatigue,No,45,Female,High blood pressure,High cholesterol,Crohn's Disease,
+Crohn's Disease,fever,cough,fatigue,No,45,Female,High blood pressure,High cholesterol,Crohn's Disease,
+Depression,No,No,fatigue,No,45,Female,High blood pressure,High cholesterol,Depression,
+Diabetes,fever,No,fatigue,No,45,Female,High blood pressure,High cholesterol,Diabetes,
+Diabetes,No,cough,fatigue,No,45,Male,Normal,High cholesterol,Diabetes,
+Hypertension,fever,No,fatigue,No,45,Male,Normal,High cholesterol,Hypertension,
+Hypothyroidism,No,No,fatigue,No,45,Female,High blood pressure,High cholesterol,Hypothyroidism,
+Liver Disease,fever,cough,fatigue,No,45,Female,Normal,High cholesterol,Liver Disease,
+Multiple Sclerosis,fever,No,No,No,45,Female,High blood pressure,High cholesterol,Multiple Sclerosis,
+Multiple Sclerosis,fever,No,No,No,45,Female,High blood pressure,High cholesterol,Multiple Sclerosis,
+Osteoarthritis,fever,No,fatigue,Difficulty breathing,45,Male,High blood pressure,Normal,Osteoarthritis,
+Osteoporosis,fever,cough,fatigue,No,45,Female,Normal,High cholesterol,Osteoporosis,
+Pneumocystis Pneumonia (PCP),fever,cough,fatigue,No,45,Female,High blood pressure,High cholesterol,Pneumocystis Pneumonia (PCP),
+Pneumonia,fever,cough,fatigue,Difficulty breathing,45,Male,High blood pressure,High cholesterol,Pneumonia,
+Scoliosis,No,No,No,No,45,Female,High blood pressure,High cholesterol,Scoliosis,
+Sickle Cell Anemia,No,No,fatigue,No,45,Female,Normal,Normal,Sickle Cell Anemia,
+Tetanus,No,No,fatigue,No,45,Male,Normal,High cholesterol,Tetanus,
+Tetanus,No,No,fatigue,No,45,Male,Normal,High cholesterol,Tetanus,
+Hypertension,No,No,No,No,48,Female,Low blood pressure,High cholesterol,Hypertension,
+Hypothyroidism,No,No,fatigue,No,48,Male,Normal,High cholesterol,Hypothyroidism,
+Hypothyroidism,No,No,fatigue,No,48,Male,Normal,High cholesterol,Hypothyroidism,
+Allergic Rhinitis,fever,No,No,No,50,Male,High blood pressure,High cholesterol,Allergic Rhinitis,
+Anemia,No,No,fatigue,No,50,Male,Normal,Normal,Anemia,
+Anxiety Disorders,No,No,fatigue,No,50,Male,Normal,Normal,Anxiety Disorders,
+Cholera,fever,No,fatigue,Difficulty breathing,50,Female,High blood pressure,High cholesterol,Cholera,
+Cholera,fever,No,fatigue,Difficulty breathing,50,Female,High blood pressure,High cholesterol,Cholera,
+Crohn's Disease,fever,cough,fatigue,No,50,Male,Normal,High cholesterol,Crohn's Disease,
+Crohn's Disease,No,No,fatigue,No,50,Male,Normal,High cholesterol,Crohn's Disease,
+Depression,No,cough,fatigue,No,50,Female,Low blood pressure,Low,Depression,
+Diabetes,No,cough,No,No,50,Male,Normal,High cholesterol,Diabetes,
+Endometriosis,fever,No,No,No,50,Male,High blood pressure,Normal,Endometriosis,
+Hypertension,No,cough,No,No,50,Female,Normal,Low,Hypertension,
+Hypothyroidism,fever,cough,fatigue,No,50,Male,Normal,High cholesterol,Hypothyroidism,
+Kidney Cancer,No,cough,No,No,50,Male,Low blood pressure,High cholesterol,Kidney Cancer,
+Kidney Disease,No,cough,No,Difficulty breathing,50,Male,Normal,Normal,Kidney Disease,
+Pancreatitis,No,cough,No,No,50,Male,Low blood pressure,High cholesterol,Pancreatitis,
+Rheumatoid Arthritis,No,cough,No,No,50,Female,Low blood pressure,Normal,Rheumatoid Arthritis,
+Sepsis,fever,cough,fatigue,No,50,Male,Normal,Normal,Sepsis,
+Sleep Apnea,fever,No,fatigue,Difficulty breathing,50,Male,High blood pressure,High cholesterol,Sleep Apnea,
+Urinary Tract Infection,fever,cough,No,Difficulty breathing,50,Male,High blood pressure,Normal,Urinary Tract Infection,
+Asthma,fever,cough,fatigue,Difficulty breathing,50,Female,Normal,High cholesterol,Asthma,
+Bronchitis,fever,cough,fatigue,Difficulty breathing,50,Male,High blood pressure,High cholesterol,Bronchitis,
+Down Syndrome,No,No,fatigue,No,50,Female,High blood pressure,High cholesterol,Down Syndrome,
+Ebola Virus,fever,cough,fatigue,Difficulty breathing,50,Male,Normal,Normal,Ebola Virus,
+Ebola Virus,fever,cough,fatigue,Difficulty breathing,50,Male,Normal,Normal,Ebola Virus,
+Eczema,No,cough,No,No,50,Female,High blood pressure,High cholesterol,Eczema,
+Gastroenteritis,fever,cough,fatigue,Difficulty breathing,50,Female,High blood pressure,Normal,Gastroenteritis,
+Klinefelter Syndrome,No,No,fatigue,No,50,Female,Normal,Normal,Klinefelter Syndrome,
+Liver Cancer,No,cough,fatigue,Difficulty breathing,50,Male,High blood pressure,High cholesterol,Liver Cancer,
+Lyme Disease,fever,No,No,No,50,Male,Normal,High cholesterol,Lyme Disease,
+Lyme Disease,fever,No,No,No,50,Male,Normal,High cholesterol,Lyme Disease,
+Pancreatic Cancer,No,No,fatigue,No,50,Female,High blood pressure,High cholesterol,Pancreatic Cancer,
+Pneumothorax,No,No,fatigue,Difficulty breathing,50,Female,High blood pressure,High cholesterol,Pneumothorax,
+Stroke,No,cough,fatigue,Difficulty breathing,50,Male,High blood pressure,High cholesterol,Stroke,
+Ulcerative Colitis,No,cough,fatigue,No,50,Female,Normal,High cholesterol,Ulcerative Colitis,
+Hypertension,fever,cough,No,No,52,Male,Normal,Low,Hypertension,
+Multiple Sclerosis,No,cough,fatigue,No,52,Male,Normal,Normal,Multiple Sclerosis,
+Multiple Sclerosis,No,cough,fatigue,No,52,Male,Normal,Normal,Multiple Sclerosis,
+Appendicitis,fever,No,fatigue,No,55,Male,Normal,Normal,Appendicitis,
+Bronchitis,No,No,fatigue,Difficulty breathing,55,Male,High blood pressure,High cholesterol,Bronchitis,
+Bronchitis,fever,cough,fatigue,Difficulty breathing,55,Male,High blood pressure,Normal,Bronchitis,
+Common Cold,fever,No,fatigue,Difficulty breathing,55,Male,Normal,Low,Common Cold,
+Diabetes,No,cough,No,No,55,Female,Normal,High cholesterol,Diabetes,
+Esophageal Cancer,No,No,fatigue,No,55,Male,Normal,Normal,Esophageal Cancer,
+HIV/AIDS,fever,No,No,No,55,Female,High blood pressure,High cholesterol,HIV/AIDS,
+HIV/AIDS,fever,No,No,No,55,Female,High blood pressure,High cholesterol,HIV/AIDS,
+Hypertension,No,cough,No,No,55,Female,Normal,Low,Hypertension,
+Liver Disease,No,cough,fatigue,No,55,Male,High blood pressure,Low,Liver Disease,
+Marfan Syndrome,No,No,fatigue,No,55,Male,High blood pressure,High cholesterol,Marfan Syndrome,
+Migraine,No,cough,fatigue,Difficulty breathing,55,Female,Normal,Low,Migraine,
+Osteoporosis,No,No,fatigue,No,55,Male,High blood pressure,Normal,Osteoporosis,
+Parkinson's Disease,No,No,fatigue,No,55,Female,Normal,Low,Parkinson's Disease,
+Parkinson's Disease,No,No,fatigue,No,55,Female,Normal,Low,Parkinson's Disease,
+Anxiety Disorders,fever,cough,No,No,55,Female,Normal,Low,Anxiety Disorders,
+Coronary Artery Disease,No,No,fatigue,No,55,Female,Normal,Normal,Coronary Artery Disease,
+Coronary Artery Disease,No,No,fatigue,No,55,Female,Normal,Normal,Coronary Artery Disease,
+Hemorrhoids,No,No,No,No,55,Female,High blood pressure,High cholesterol,Hemorrhoids,
+Hypertension,fever,No,fatigue,No,55,Male,High blood pressure,Normal,Hypertension,
+Hypothyroidism,No,No,fatigue,No,55,Female,High blood pressure,High cholesterol,Hypothyroidism,
+Osteoarthritis,fever,cough,No,No,55,Female,High blood pressure,High cholesterol,Osteoarthritis,
+Osteoporosis,fever,No,fatigue,Difficulty breathing,55,Male,High blood pressure,Low,Osteoporosis,
+Osteoporosis,No,cough,fatigue,No,55,Female,Normal,Normal,Osteoporosis,
+Osteoporosis,fever,No,fatigue,No,55,Female,Normal,Normal,Osteoporosis,
+Osteoporosis,fever,No,fatigue,No,55,Female,Normal,Normal,Osteoporosis,
+Polycystic Ovary Syndrome (PCOS),fever,cough,No,No,55,Female,Normal,Normal,Polycystic Ovary Syndrome (PCOS),
+Systemic Lupus Erythematosus...,No,cough,fatigue,No,55,Female,High blood pressure,High cholesterol,Systemic Lupus Erythematosus...,
+Typhoid Fever,No,cough,No,No,55,Male,Normal,Low,Typhoid Fever,
+Typhoid Fever,No,cough,No,No,55,Male,Normal,Low,Typhoid Fever,
+Influenza,fever,cough,fatigue,Difficulty breathing,56,Male,High blood pressure,High cholesterol,Influenza,
+Pneumonia,fever,cough,No,Difficulty breathing,57,Male,Normal,High cholesterol,Pneumonia,
+Breast Cancer,No,No,fatigue,No,60,Male,High blood pressure,High cholesterol,Breast Cancer,
+Coronary Artery Disease,fever,cough,No,No,60,Male,High blood pressure,High cholesterol,Coronary Artery Disease,
+Coronary Artery Disease,fever,cough,No,No,60,Male,High blood pressure,High cholesterol,Coronary Artery Disease,
+Hyperthyroidism,No,No,fatigue,No,60,Male,Normal,Normal,Hyperthyroidism,
+Measles,fever,cough,No,No,60,Female,High blood pressure,Normal,Measles,
+Measles,fever,cough,No,No,60,Female,High blood pressure,Normal,Measles,
+Osteoarthritis,No,cough,No,Difficulty breathing,60,Female,Normal,Normal,Osteoarthritis,
+Osteomyelitis,No,No,fatigue,No,60,Male,Normal,Normal,Osteomyelitis,
+Osteoporosis,fever,No,No,No,60,Male,High blood pressure,High cholesterol,Osteoporosis,
+Osteoporosis,No,cough,No,No,60,Male,High blood pressure,High cholesterol,Osteoporosis,
+Osteoporosis,No,cough,No,No,60,Male,High blood pressure,High cholesterol,Osteoporosis,
+Polio,fever,cough,fatigue,No,60,Male,Normal,Normal,Polio,
+Asthma,fever,cough,fatigue,Difficulty breathing,60,Female,High blood pressure,High cholesterol,Asthma,
+Chronic Kidney Disease,No,No,fatigue,No,60,Female,Normal,High cholesterol,Chronic Kidney Disease,
+Hemophilia,No,No,fatigue,No,60,Female,Normal,Normal,Hemophilia,
+Hepatitis B,No,cough,fatigue,No,60,Male,Normal,Low,Hepatitis B,
+Hepatitis B,No,cough,fatigue,No,60,Male,Normal,Low,Hepatitis B,
+Hypertension,No,No,fatigue,No,60,Female,High blood pressure,Normal,Hypertension,
+Hypertension,fever,No,fatigue,No,60,Male,High blood pressure,Normal,Hypertension,
+Hypertension,No,No,No,No,60,Female,High blood pressure,High cholesterol,Hypertension,
+Kidney Cancer,fever,cough,fatigue,No,60,Female,High blood pressure,Normal,Kidney Cancer,
+Kidney Disease,fever,cough,fatigue,Difficulty breathing,60,Female,High blood pressure,High cholesterol,Kidney Disease,
+Osteoporosis,fever,No,fatigue,No,60,Male,High blood pressure,Normal,Osteoporosis,
+Pancreatitis,fever,cough,fatigue,No,60,Female,High blood pressure,Normal,Pancreatitis,
+Parkinson's Disease,fever,cough,No,No,60,Male,High blood pressure,Normal,Parkinson's Disease,
+Parkinson's Disease,fever,cough,No,No,60,Male,High blood pressure,Normal,Parkinson's Disease,
+Prader-Willi Syndrome,No,No,fatigue,No,60,Female,Normal,Normal,Prader-Willi Syndrome,
+Rheumatoid Arthritis,No,No,fatigue,No,60,Female,High blood pressure,High cholesterol,Rheumatoid Arthritis,
+Thyroid Cancer,No,No,fatigue,No,60,Female,High blood pressure,High cholesterol,Thyroid Cancer,
+Tuberculosis,fever,cough,fatigue,No,60,Female,High blood pressure,High cholesterol,Tuberculosis,
+Bladder Cancer,No,No,fatigue,No,65,Male,Normal,Normal,Bladder Cancer,
+Diabetes,No,No,fatigue,No,65,Male,Normal,High cholesterol,Diabetes,
+Otitis Media (Ear Infection),fever,cough,fatigue,No,65,Male,Normal,Normal,Otitis Media (Ear Infection),
+Stroke,fever,No,fatigue,No,65,Female,High blood pressure,Low,Stroke,
+Stroke,fever,No,fatigue,No,65,Female,High blood pressure,Low,Stroke,
+Tourette Syndrome,No,No,fatigue,No,65,Male,High blood pressure,High cholesterol,Tourette Syndrome,
+Urinary Tract Infection (UTI),fever,No,fatigue,No,65,Male,High blood pressure,Normal,Urinary Tract Infection (UTI),
+Alzheimer's Disease,No,cough,No,No,65,Male,Normal,High cholesterol,Alzheimer's Disease,
+Alzheimer's Disease,No,cough,No,No,65,Male,Normal,High cholesterol,Alzheimer's Disease,
+Alzheimer's Disease,No,No,fatigue,No,65,Female,High blood pressure,High cholesterol,Alzheimer's Disease,
+Bronchitis,fever,No,fatigue,Difficulty breathing,65,Male,High blood pressure,High cholesterol,Bronchitis,
+Chronic Obstructive Pulmonary Disease (COPD),fever,No,fatigue,Difficulty breathing,65,Female,High blood pressure,High cholesterol,Chronic Obstructive Pulmonary Disease (COPD),
+Chronic Obstructive Pulmonary Disease (COPD),fever,No,fatigue,Difficulty breathing,65,Female,High blood pressure,High cholesterol,Chronic Obstructive Pulmonary Disease (COPD),
+Dementia,No,No,fatigue,No,65,Female,High blood pressure,High cholesterol,Dementia,
+Diabetes,fever,cough,fatigue,No,65,Female,Normal,High cholesterol,Diabetes,
+Diverticulitis,No,No,fatigue,No,65,Female,High blood pressure,High cholesterol,Diverticulitis,
+Liver Cancer,fever,cough,fatigue,No,65,Female,High blood pressure,High cholesterol,Liver Cancer,
+Lung Cancer,fever,cough,fatigue,No,65,Female,High blood pressure,High cholesterol,Lung Cancer,
+Lung Cancer,fever,No,fatigue,No,65,Female,Normal,High cholesterol,Lung Cancer,
+Mumps,No,No,fatigue,No,65,Male,Normal,High cholesterol,Mumps,
+Mumps,No,No,fatigue,No,65,Male,Normal,High cholesterol,Mumps,
+Osteoporosis,No,cough,fatigue,No,65,Female,High blood pressure,High cholesterol,Osteoporosis,
+Stroke,fever,cough,fatigue,No,65,Female,High blood pressure,High cholesterol,Stroke,
+Alzheimer's Disease,fever,No,fatigue,No,70,Female,High blood pressure,Normal,Alzheimer's Disease,
+Alzheimer's Disease,fever,No,fatigue,No,70,Female,High blood pressure,Normal,Alzheimer's Disease,
+Cholecystitis,No,No,fatigue,No,70,Male,Normal,Normal,Cholecystitis,
+Chronic Obstructive Pulmonary Disease (COPD),No,cough,fatigue,Difficulty breathing,70,Male,Normal,High cholesterol,Chronic Obstructive Pulmonary Disease (COPD),
+Chronic Obstructive Pulmonary Disease (COPD),No,cough,fatigue,Difficulty breathing,70,Male,Normal,High cholesterol,Chronic Obstructive Pulmonary Disease (COPD),
+Osteoporosis,fever,No,No,No,70,Male,Normal,Normal,Osteoporosis,
+Parkinson's Disease,No,No,fatigue,No,70,Male,Normal,Normal,Parkinson's Disease,
+Prostate Cancer,fever,cough,No,No,70,Male,High blood pressure,Normal,Prostate Cancer,
+Schizophrenia,No,cough,fatigue,No,70,Male,Normal,Normal,Schizophrenia,
+Gout,fever,No,fatigue,No,70,Female,Normal,High cholesterol,Gout,
+Migraine,No,No,fatigue,No,70,Female,Normal,Normal,Migraine,
+Stroke,No,cough,No,No,70,Male,Normal,High cholesterol,Stroke,
+Stroke,No,cough,No,No,70,Male,Normal,High cholesterol,Stroke,
+Testicular Cancer,No,No,fatigue,No,70,Female,High blood pressure,High cholesterol,Testicular Cancer,
+Tonsillitis,fever,cough,fatigue,No,70,Female,High blood pressure,High cholesterol,Tonsillitis,
+Williams Syndrome,No,No,fatigue,No,70,Female,Normal,Normal,Williams Syndrome,
+Stroke,fever,No,fatigue,No,80,Female,High blood pressure,High cholesterol,Stroke,
+Stroke,fever,No,fatigue,No,80,Female,High blood pressure,High cholesterol,Stroke,
+Stroke,fever,No,fatigue,No,85,Male,High blood pressure,High cholesterol,Stroke,
+Stroke,fever,No,fatigue,No,85,Male,High blood pressure,High cholesterol,Stroke,
+Stroke,fever,No,fatigue,No,90,Female,High blood pressure,High cholesterol,Stroke,
+Stroke,fever,No,fatigue,No,90,Female,High blood pressure,High cholesterol,Stroke,
