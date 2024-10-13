@@ -1,4 +1,4 @@
-Disease,Symptoms,Symptoms,Symptoms,Symptoms,Age,Gender,Blood Pressure,Symptoms,Outcome Variable,
+Disease,symptoms,symptoms,symptoms,symptoms,Age,Gender,Blood Pressure,symptoms,Outcome Variable,
 Influenza,fever,No,fatigue,Difficulty breathing,19,Female,Low blood pressure,Normal,Influenza,
 Common Cold,No,cough,fatigue,No,25,Female,Normal,Normal,Common Cold,
 Eczema,No,cough,fatigue,No,25,Female,Normal,Normal,Eczema,
