@@ -1,4 +1,4 @@
-gender,age,Symptoms,Symptoms,ever_married,work_type,Residence_type,avg_glucose_level,bmi,Symptoms,disease
+gender,age,Symptoms,Symptoms,ever_married,work_type,Residence_type,avg_glucose_level,bmi,Symptoms,Disease
 Male,67,0,heart disease,Yes,Private,Urban,228.69,36.6,formerly smoked,stroke
 Male,80,0,heart disease,Yes,Private,Rural,105.92,32.5,never smoked,stroke
 Female,49,0,0,Yes,Private,Urban,171.23,34.4,smokes,stroke
