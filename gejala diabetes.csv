@@ -1,4 +1,4 @@
-Pregnancies,Symptoms,Glucosah,Symptoms,Tekanan darah,SkinThickness,Symptoms,kadar Insulin,BMI,Age,Disease,Outcome
+Pregnancies,symptoms,Glucosah,symptoms,Tekanan darah,SkinThickness,symptoms,kadar Insulin,BMI,Age,Disease,Outcome
 6,High glucose,176,Low blood pressure,72,35,Low insulin,,33.6,50,Diabetes,1
 1,normal,85,Low blood pressure,66,29,Low insulin,,26.6,31,0,0
 8,High glucose,183,Low blood pressure,64,,Low insulin,,23.3,32,Diabetes,1
