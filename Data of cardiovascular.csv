@@ -1,0 +1,32 @@
+Disease;Symptoms;Treatment
+Hypertension;Headaches, shortness of breath, nosebleeds;Lifestyle changes, antihypertensive drugs
+Coronary Artery Disease;Chest pain (angina), shortness of breath;Angioplasty, medications, lifestyle changes
+Heart Attack;Chest pain, sweating, nausea, shortness of breath;CPR, emergency medical treatment, angioplasty
+Heart Failure;Fatigue, swollen legs, rapid heartbeat;Diuretics, ACE inhibitors, lifestyle changes
+Arrhythmia;Palpitations, dizziness, fainting;Antiarrhythmic medications, cardioversion
+Atrial Fibrillation;Irregular heartbeat, palpitations, fatigue;Anticoagulants, cardioversion
+Congenital Heart Defects;Rapid breathing, cyanosis, fatigue;Surgery, medications
+Peripheral Artery Disease;Leg pain while walking, numbness, weakness;Lifestyle changes, medications, surgery
+Deep Vein Thrombosis (DVT);Swelling, pain, warmth in the leg;Anticoagulants, compression stockings
+Pulmonary Embolism;Shortness of breath, chest pain, cough with blood;Anticoagulants, thrombolytics
+Myocardial Infarction (Heart Attack);Chest discomfort, radiating pain to arm/jaw;Angioplasty, medications
+Mitral Valve Prolapse;Heart palpitations, chest pain, fatigue;Monitoring, medications
+Endocarditis;Fever, fatigue, heart murmurs;Antibiotics, surgery
+Pericarditis;Sharp chest pain, difficulty breathing;Anti-inflammatory medications, rest
+Aortic Aneurysm;Sudden severe pain, sweating, dizziness;Surgery, monitoring
+Cardiomyopathy;Fatigue, shortness of breath, swelling;Medications, lifestyle changes
+Rheumatic Heart Disease;Fever, joint pain, chest pain;Antibiotics, heart valve surgery
+Valvular Heart Disease;Fatigue, shortness of breath, swollen ankles;Surgery, medications
+Hypertrophic Cardiomyopathy;Chest pain, palpitations, fainting;Beta-blockers, surgery
+Bacterial Endocarditis;Fever, chills, fatigue;Antibiotics, possible surgery
+Aneurysm;Sudden headache, nausea, stiff neck;Surgery, monitoring
+Congestive Heart Failure;Shortness of breath, fatigue, swollen legs;Diuretics, ACE inhibitors
+Cardiac Arrest;No pulse, unresponsiveness;CPR, defibrillation
+Wolff-Parkinson-White Syndrome;Palpitations, dizziness, fainting;Medications, catheter ablation
+Cardiac Tamponade;Shortness of breath, rapid heartbeat, swelling;Pericardiocentesis, surgery
+Arteriosclerosis;Chest pain, fatigue, shortness of breath;Lifestyle changes, medications
+Stable Angina;Chest pain during exertion, fatigue;Nitroglycerin, lifestyle changes
+Unstable Angina;Chest pain at rest, more severe pain;Emergency treatment, medications
+Eisenmenger Syndrome;Cyanosis, fatigue, shortness of breath;Medications, possible surgery
+Familial Hypercholesterolemia;Elevated cholesterol levels, early heart disease;Statins, lifestyle changes
+Heart Valve Disease;Fatigue, shortness of breath, palpitations;Surgery, medications
