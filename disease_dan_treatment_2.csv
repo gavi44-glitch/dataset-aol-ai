@@ -1,42 +1,42 @@
-Disease,Symptom,Treatment
-Drug Reaction,Rash, itching, swelling,consult nearest hospital,stop taking drug,follow up
-Malaria,Fever, chills, headache,avoid oily food,avoid non veg food,keep mosquitos out
-Allergy,Itching, hives, swelling,cover area with bandage,,use ice to compress itching
-Hypothyroidism,Fatigue, weight gain, sensitivity to cold,exercise,eat healthy,get proper sleep
-Psoriasis,Red, flaky patches, itching,stop bleeding using pressure,consult doctor,salt baths
-GERD,Heartburn, regurgitation, chest pain,maintain healthy weight,exercise,
-Chronic cholestasis,Jaundice, fatigue, abdominal pain,consult doctor,eat healthy,
-hepatitis A,Fever, fatigue, jaundice,wash hands through,avoid fatty spicy food,medication
-Osteoarthristis,Joint pain, stiffness, swelling,follow up,salt baths,
-(vertigo) Paroymsal  Positional Vertigo,Dizziness, nausea, balance issues,avoid abrupt head movment,relax,
-Hypoglycemia,Dizziness, sweating, confusion,check in pulse,drink sugary drinks,consult doctor
-Acne,Oily skin, pimples, scarring,drink plenty of water,avoid too many products,
-Diabetes ,Increased thirst, frequent urination, fatigue,consult doctor,follow up,
-Impetigo,Red, itchy sores, crusting,remove scabs with wet compressed clothconsult doctor
-Hypertension ,Headache, nosebleeds, vision problems,reduce stress,get proper sleep,
-Peptic ulcer diseae,Abdominal pain, bloating, indigestion,eliminate milk,limit alcohol,
-Dimorphic hemmorhoids(piles),Pain during bowel movements, rectal bleeding,consume witch hazel,consume alovera juice,,
-Common Cold,Runny nose, cough, sore throat,take vapour,avoid cold food,keep fever in check
-Chicken pox,Itchy rash, fever, fatigue,take vaccine,avoid public places,
-Cervical spondylosis,Neck pain, stiffness, headaches,take otc pain reliver,consult doctor,
-Hyperthyroidism,Weight loss, increased heart rate, anxiety,use lemon balm,take radioactive iodine treatment,
-Urinary tract infection,Painful urination, frequent urination, lower abdominal pain,drink cranberry juice,take probiotics,
-Varicose veins,Swelling, aching, heaviness in legs,use vein compression,dont stand still for long,
-AIDS,Fatigue, weight loss, recurrent infections,consult doctor,follow up,
-Paralysis (brain hemorrhage),Weakness, paralysis, difficulty speaking,exercise,consult doctor,
-Typhoid,Fever, abdominal pain, weakness,consult doctor,medication,
-Hepatitis B,Jaundice, fatigue, abdominal pain,eat healthy,medication,
-Fungal infection,Itching, redness, scaling,keep infected area dry,use clean cloths,
-Hepatitis C,Fatigue, jaundice, abdominal pain,eat healthy,medication,
-Migraine,Severe headache, nausea, sensitivity to light,use poloroid glasses in sun,consult doctor,
-Bronchial Asthma,Wheezing, coughing, shortness of breath,get away from trigger,seek help,
-Alcoholic hepatitis,Jaundice, fatigue, abdominal pain,medication,follow up,
-Jaundice,Yellowing of skin and eyes, fatigue, dark urine,eat fruits and high fiberous food,medication,
-Hepatitis E,High fever, severe headache, joint and muscle pain,consult doctor,medication,
-Dengue,Fatigue, jaundice, abdominal pain,keep mosquitos away,keep hydrated,
-Hepatitis D,Chest pain, shortness of breath, nausea,eat healthy,follow up,
-Heart attack,Cough, fever, shortness of breath,keep calm,,
-Pneumonia,Joint pain, stiffness, swelling,rest,follow up,
-Arthritis,Nausea, vomiting, diarrhea,try acupuncture,massage,
-Gastroenteritis,Cough, fever, night sweats,try taking small sips of water,rest,ease back into eating
-Tuberculosis,Shortness of breath, chronic cough, wheezing,medication,rest,
+Disease;Symptom;Treatment
+Drug Reaction;Rash, itching, swelling;consult nearest hospital,stop taking drug,follow up
+Malaria;Fever, chills, headache;avoid oily food,avoid non veg food,keep mosquitos out
+Allergy;Itching, hives, swelling;cover area with bandage,,use ice to compress itching
+Hypothyroidism;Fatigue, weight gain, sensitivity to cold;exercise,eat healthy,get proper sleep
+Psoriasis;Red, flaky patches, itching;stop bleeding using pressure,consult doctor,salt baths
+GERD;Heartburn, regurgitation, chest pain;maintain healthy weight,exercise,
+Chronic cholestasis;Jaundice, fatigue, abdominal pain;consult doctor,eat healthy,
+hepatitis A;Fever, fatigue, jaundice;wash hands through,avoid fatty spicy food,medication
+Osteoarthristis;Joint pain, stiffness, swelling;follow up,salt baths,
+(vertigo) Paroymsal  Positional Vertigo;Dizziness, nausea, balance issues;avoid abrupt head movment,relax,
+Hypoglycemia;Dizziness, sweating, confusion;check in pulse,drink sugary drinks,consult doctor
+Acne;Oily skin, pimples, scarring;drink plenty of water,avoid too many products,
+Diabetes ;Increased thirst, frequent urination, fatigue;consult doctor,follow up,
+Impetigo;Red, itchy sores, crusting;remove scabs with wet compressed clothconsult doctor
+Hypertension ;Headache, nosebleeds, vision problems;reduce stress,get proper sleep,
+Peptic ulcer diseae;Abdominal pain, bloating, indigestion;eliminate milk,limit alcohol,
+Dimorphic hemmorhoids(piles);Pain during bowel movements, rectal bleeding,consume witch hazel;consume alovera juice,,
+Common Cold;Runny nose, cough, sore throat;take vapour,avoid cold food,keep fever in check
+Chicken pox;Itchy rash, fever, fatigue;take vaccine,avoid public places,
+Cervical spondylosis;Neck pain, stiffness, headaches;take otc pain reliver,consult doctor,
+Hyperthyroidism;Weight loss, increased heart rate, anxiety;use lemon balm,take radioactive iodine treatment,
+Urinary tract infection;Painful urination, frequent urination, lower abdominal pain;drink cranberry juice,take probiotics,
+Varicose veins;Swelling, aching, heaviness in legs;use vein compression,dont stand still for long,
+AIDS;Fatigue, weight loss, recurrent infections;consult doctor,follow up,
+Paralysis (brain hemorrhage);Weakness, paralysis, difficulty speaking;exercise,consult doctor,
+Typhoid;Fever, abdominal pain, weakness;consult doctor,medication,
+Hepatitis B;Jaundice, fatigue, abdominal pain;eat healthy,medication,
+Fungal infection;Itching, redness, scaling;keep infected area dry,use clean cloths,
+Hepatitis C;Fatigue, jaundice, abdominal pain;eat healthy,medication,
+Migraine;Severe headache, nausea, sensitivity to light;use poloroid glasses in sun,consult doctor,
+Bronchial Asthma;Wheezing, coughing, shortness of breath;get away from trigger,seek help,
+Alcoholic hepatitis;Jaundice, fatigue, abdominal pain;medication,follow up,
+Jaundice;Yellowing of skin and eyes, fatigue, dark urine;eat fruits and high fiberous food,medication,
+Hepatitis E;High fever, severe headache, joint and muscle pain;consult doctor,medication,
+Dengue;Fatigue, jaundice, abdominal pain;keep mosquitos away,keep hydrated,
+Hepatitis D;Chest pain, shortness of breath, nausea;eat healthy,follow up,
+Heart attack;Cough, fever, shortness of breath;keep calm,,
+Pneumonia;Joint pain, stiffness, swelling;rest,follow up,
+Arthritis;Nausea, vomiting, diarrhea;try acupuncture,massage,
+Gastroenteritis;Cough, fever, night sweats;try taking small sips of water,rest,ease back into eating
+Tuberculosis;Shortness of breath, chronic cough, wheezing;medication,rest,
