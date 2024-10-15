@@ -1,4 +1,4 @@
-Symptoms;Disease;Treatment
+Symptom;Disease;Treatment
 high cholesterol,diabetes,Low heartbeat rate;heart disease;Emergency treatment, medications, bypass surgery
 high cholesterol,not diabetes,normal heartbeat rate;heart disease;Emergency treatment, medications, bypass surgery
 high cholesterol,not diabetes,Low heartbeat rate;heart disease;Emergency treatment, medications, bypass surgery
