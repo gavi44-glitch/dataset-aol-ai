@@ -1,0 +1,146 @@
+Symptoms;Disease;Treatment
+Pain in the ear, fever;Acute Otitis Media;Antibiotics, pain relievers
+Itching in ears, foul discharge;Otitis Externa;Topical antibiotics, ear drops
+Buzzing noise, difficulty hearing;Tinnitus;Cognitive behavioral therapy, sound masking
+Hearing loss, ear fullness;Eustachian Tube Dysfunction;Decongestants, nasal sprays
+Pain and ringing in the ears;Meniere's Disease;Diuretics, dietary changes
+Dizziness, ear pain;Vestibular Neuronitis;Vestibular rehabilitation, medications
+Popping sensation in the ear;Barotrauma;Manual equalization, decongestants
+Ear discharge, pain behind the ear;Mastoiditis;Antibiotics, surgery if necessary
+Fluid in the ear, chronic cough;Otitis Media;Observation, antibiotics if needed
+Sudden hearing loss, dizziness;Sudden Sensorineural Hearing Loss;Corticosteroids, hearing aids
+Tenderness around the ear, swelling;Auricular Hematoma;Aspiration, compression bandage
+Pressure in the ear, muffled hearing;Ear Barotrauma;Decongestants, manual equalization
+Dizziness, vertigo;Benign Paroxysmal Positional Vertigo;Vestibular rehabilitation, maneuvers
+Ear pain during chewing, tenderness;TMJ Dysfunction;Pain management, physical therapy
+Ringing in ears, sleep disturbances;Chronic Tinnitus;Counseling, sound therapy
+Itching, redness in the ear;Eczematous Otitis;Topical steroids, emollients
+Hearing changes, dizziness;Acoustic Neuroma;Surgery, radiation therapy
+Ear pain, swelling behind the ear;Perichondritis;Antibiotics, corticosteroids
+Fluid in the ear, mild fever;Serous Otitis Media;Observation, surgery if persistent
+Itching in the ear, foul odor;Chronic Otitis Externa;Antibiotic ear drops, pain management
+Earache, hearing loss;Earwax Impaction;Earwax removal, irrigation
+Pain in the ear, nausea;Labyrinthitis;Antibiotics, anti-nausea medications
+Buzzing in the ears, stress;Stress-Induced Tinnitus;Stress management, therapy
+Painful sensation in the ear;Tympanic Membrane Perforation;Pain management, possible surgical repair
+Ear discomfort, dizziness;Vestibular Disorder;Vestibular rehabilitation, medications
+Fluid in the ear, persistent cough;Upper Respiratory Infection;Observation, symptomatic treatment
+Sudden ear pain, redness;Otitis Media;Antibiotics, pain relievers
+Painful ear, difficulty balancing;Benign Paroxysmal Positional Vertigo;Maneuvers, medications
+Pressure in the ear, headache;Sinusitis;Decongestants, pain relief
+Earache, fever, swollen lymph nodes;Lymphadenitis;Antibiotics, pain management
+Itchy ears, crusty discharge;Eczematous Otitis Externa;Topical steroids, emollients
+Ringing in the ears, hearing loss;Noise-Induced Hearing Loss;Hearing aids, sound therapy
+Dizziness, popping sensation in the ear;Eustachian Tube Dysfunction;Decongestants, nasal steroids
+Fluid in the ear, difficulty hearing;Acute Otitis Media;Antibiotics, warm compresses
+Pain in the ear, dull hearing;Sudden Sensorineural Hearing Loss;Corticosteroids, audiology
+Itching in the ear, discomfort;Allergic Rhinitis;Antihistamines, nasal sprays
+Tenderness around the ear, ear discharge;Acute Otitis Media;Antibiotics, pain relievers
+Painful swelling behind the ear;Bell's Palsy;Corticosteroids, physical therapy
+Fluid in the ear, dizziness;Labyrinthitis;Antibiotics, vestibular rehabilitation
+Hearing changes, pressure in the ear;Eustachian Tube Dysfunction;Decongestants, nasal sprays
+Buzzing noise in the ear, anxiety;Anxiety-Induced Tinnitus;Cognitive behavioral therapy, sound masking
+Ear pain, feeling of fullness;Barotrauma;Manual equalization, decongestants
+Sudden dizziness, pain in the ear;Vestibular Neuronitis;Medications, vestibular rehabilitation
+Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear,Pus;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Mild pain or Discomfort inside the ear,Pus,A feeling of Pressure inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear,Hearing loss;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Mild pain or Discomfort inside the ear,Hearing loss,A feeling of Pressure inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Mild pain or Discomfort inside the ear,Pus,Hearing loss;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Mild pain or Discomfort inside the ear,Hearing loss,Pus;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear,Pus;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+A feeling of Pressure inside the ear,Pus,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear,Hearing loss;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+A feeling of Pressure inside the ear,Hearing loss,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+A feeling of Pressure inside the ear,Pus,Hearing loss;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+A feeling of Pressure inside the ear,Hearing loss,Pus;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Pus,Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Pus,A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Pus,Mild pain or Discomfort inside the ear,Hearing loss;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Pus,Hearing loss,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Pus,A feeling of Pressure inside the ear,Hearing loss;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Pus,Hearing loss,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Hearing loss,A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Hearing loss,Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Hearing loss,Pus,Mild pain or Discomfort inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Hearing loss,Mild pain or Discomfort inside the ear,Pus;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Hearing loss,A feeling of Pressure inside the ear,Pus;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Hearing loss,Pus,A feeling of Pressure inside the ear;Ear Infection;Ear drops,Ibuprofen and Acetaminophen
+Dizziness,Nausea,Vomiting;Inner ear Infection;Vestibular rehabilitation Therapy
+Dizziness,Vomiting,Nausea;Inner ear Infection;Vestibular rehabilitation Therapy
+Nausea,Vomiting,Dizziness;Inner ear Infection;Vestibular rehabilitation Therapy
+Nausea,Dizziness,Vomiting;Inner ear Infection;Vestibular rehabilitation Therapy
+Vomiting,Nausea,Dizziness;Inner ear Infection;Vestibular rehabilitation Therapy
+Vomiting,Dizziness,Nausea;Inner ear Infection;Vestibular rehabilitation Therapy
+Eardrum Bulge,Ear ache,Fluid drainage from the ear;Middle Ear Infection;Decongestant,nasal steroids or antihistamine
+Eardrum Bulge,Fluid drainage from the ear,Ear ache;Middle Ear Infection;Decongestant,nasal steroids or antihistamine
+Ear ache,Fluid drainage from the ear,Eardrum Bulge;Middle Ear Infection;Decongestant,nasal steroids or antihistamine
+Ear ache,Eardrum Bulge,Fluid drainage from the ear;Middle Ear Infection;Decongestant,nasal steroids or antihistamine
+Fluid drainage from the ear,Ear ache,Eardrum Bulge;Middle Ear Infection;Decongestant,nasal steroids or antihistamine
+Fluid drainage from the ear,Eardrum Bulge,Ear ache;Middle Ear Infection;Decongestant,nasal steroids or antihistamine
+Painful,Tender,Red;Outer Ear Infection;Antibiotics
+Painful,Red,Tender;Outer Ear Infection;Antibiotics
+Painful,Tender,Swollen;Outer Ear Infection;Antibiotics
+Painful,Swollen,Tender;Outer Ear Infection;Antibiotics
+Painful,Red,Swollen;Outer Ear Infection;Antibiotics
+Painful,Swollen,Red;Outer Ear Infection;Antibiotics
+Tender,Painful,Red;Outer Ear Infection;Antibiotics
+Tender,Red,Painful;Outer Ear Infection;Antibiotics
+Tender,Painful,Swollen;Outer Ear Infection;Antibiotics
+Tender,Swollen,Painful;Outer Ear Infection;Antibiotics
+Tender,Red,Swollen;Outer Ear Infection;Antibiotics
+Tender,Swollen,Red;Outer Ear Infection;Antibiotics
+Red,Painful,Tender;Outer Ear Infection;Antibiotics
+Red,Tender,Painful;Outer Ear Infection;Antibiotics
+Red,Painful,Swollen;Outer Ear Infection;Antibiotics
+Red,Swollen,Painful;Outer Ear Infection;Antibiotics
+Red,Tender,Swollen;Outer Ear Infection;Antibiotics
+Red,Swollen,Tender;Outer Ear Infection;Antibiotics
+Swollen,Tender,Painful;Outer Ear Infection;Antibiotics
+Swollen,Painful,Tender;Outer Ear Infection;Antibiotics
+Swollen,Red,Painful;Outer Ear Infection;Antibiotics
+Swollen,Painful,Red;Outer Ear Infection;Antibiotics
+Swollen,Tender,Red;Outer Ear Infection;Antibiotics
+Swollen,Red,Tender;Outer Ear Infection;Antibiotics
+Ear pain, fever;Otitis Media;Antibiotics, pain relievers
+Hearing loss, ringing in ears;Tinnitus;Sound therapy, hearing aids
+Earwax buildup, discomfort;Earwax Impaction;Ear irrigation, ear drops
+Pain during swallowing, ear pain;Eustachian Tube Dysfunction;Decongestants, nasal steroids
+Itching in the ear, discharge;Otitis Externa;Ear drops, antibiotics
+Fluid drainage, pressure in the ear;Serous Otitis Media;Watchful waiting, surgery if persistent
+Dizziness, ear fullness;Meniere's Disease;Diuretics, lifestyle changes
+Popping sound in ears, discomfort;Barotrauma;Nasal decongestants, manual equalization
+Painful swelling behind the ear;Mastoiditis;Antibiotics, possible surgery
+Redness in the ear, fever;Acute Otitis Media;Antibiotics, pain management
+Swollen lymph nodes, ear pain;Lymphadenitis;Antibiotics, pain management
+Ear drainage, foul smell;Cholesteatoma;Surgery
+Ear pain, headache;Acoustic Neuroma;Surgery, radiation therapy
+Buzzing in ears, anxiety;Hyperacusis;Sound therapy, counseling
+Pain and swelling around the ear;Perichondritis;Antibiotics, corticosteroids
+Itchy ears, scaly skin;Seborrheic Dermatitis;Topical corticosteroids, antifungal cream
+Sudden hearing loss, ringing;Sudden Sensorineural Hearing Loss;Corticosteroids, hearing aids
+Ear pain, feeling of pressure;Sinusitis;Decongestants, nasal steroids
+Pain in the ear, difficulty hearing;Tympanic Membrane Perforation;Observation, tympanoplasty if severe
+Itchy ears, inflammation;Otitis Externa;Antibiotic ear drops, steroids
+Fluid in the ear, cough;Otitis Media;Antibiotics, pain relievers
+Hearing loss, trouble balancing;Vestibular Neuronitis;Vestibular rehabilitation, medications
+Earache, nausea;Labyrinthitis;Antibiotics, anti-nausea medication
+Pressure in the ear, difficulty hearing;Eustachian Tube Dysfunction;Decongestants, ventilation tubes
+Pain in the ear, cough;Common Cold;Rest, fluids, over-the-counter medications
+Ear pain, tenderness around the ear;Cellulitis;Antibiotics, wound care
+Dizziness, feeling of fullness in the ear;Benign Paroxysmal Positional Vertigo (BPPV);Canalith repositioning maneuvers
+Ear pain, sore throat;Pharyngitis;Pain relievers, antibiotics if bacterial
+Fluid in the ear, persistent cough;Upper Respiratory Infection;Observation, symptomatic treatment
+Itchy ears, odor from the ear;Fungal Ear Infection;Antifungal ear drops
+Tinnitus, stress;Stress-Related Tinnitus;Stress management, therapy
+Ear pain, swelling near the ear;Otitis Externa;Antibiotics, pain relievers
+Hearing loss, vertigo;Vestibular Schwannoma;Surgery, radiation therapy
+Painful ears, nasal congestion;Rhinitis;Nasal corticosteroids, antihistamines
+Hearing changes, ear fullness;Acoustic Reflex;Observation, audiometry
+Ear pain, irritability;Ear Infection;Antibiotics, warm compresses
+Discomfort in the ear, fatigue;Ear Trauma;Pain relievers, observation
+Buzzing noise, sleep disturbances;Sleep Apnea;Continuous Positive Airway Pressure (CPAP) therapy
+Itchy ears, allergy symptoms;Allergic Rhinitis;Antihistamines, nasal steroids
+Ear fullness, sinus pressure;Sinusitis;Decongestants, nasal sprays
+Pain in ear, facial swelling;Ramsay Hunt Syndrome;Antiviral medication, corticosteroids
+Ear pain, increased sensitivity;Auditory Processing Disorder;Speech therapy, auditory training
