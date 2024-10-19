@@ -1,0 +1,352 @@
+Disease;Symptom;Treatment
+Influenza;fever, cough, fatigue, difficulty breathing;Antiviral medications, rest, hydration
+Common Cold;Not fever, not cough, fatigue, not difficulty breathing;Rest, hydration, over-the-counter medications
+Eczema;Not fever, not cough, fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Asthma;fever, not cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;fever, not cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Eczema;fever, cough, not fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Influenza;fever, not cough, fatigue, difficulty breathing;Antiviral medications, rest, hydration
+Influenza;fever, not cough, fatigue, difficulty breathing;Antiviral medications, rest, hydration
+Hyperthyroidism;Not fever, not cough, not fatigue, not difficulty breathing;Antithyroid medications
+Hyperthyroidism;Not fever, not cough, not fatigue, not difficulty breathing;Antithyroid medications
+Asthma;fever, cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Allergic Rhinitis;Not fever, not cough, fatigue, not difficulty breathing;Antihistamines, nasal sprays
+Anxiety Disorders;Not fever, not cough, not fatigue, not difficulty breathing;Therapy, medications (SSRIs)
+Common Cold;Not fever, cough, not fatigue, not difficulty breathing;Rest, hydration, over-the-counter medications
+Diabetes;Not fever, cough, not fatigue, not difficulty breathing;Insulin therapy, diet management
+Gastroenteritis;Not fever, not cough, not fatigue, not difficulty breathing;Hydration, anti-nausea medications
+Pancreatitis;fever, cough, not fatigue, not difficulty breathing;Pain management, dietary changes
+Rheumatoid Arthritis;Not fever, not cough, fatigue, difficulty breathing;NSAIDs, corticosteroids, disease-modifying drugs
+Depression;fever, not cough, fatigue, difficulty breathing;Antidepressants, therapy
+Liver Cancer;fever, not cough, fatigue, difficulty breathing;Chemotherapy, pain management
+Stroke;fever, not cough, fatigue, difficulty breathing;Emergency treatment, rehabilitation
+Urinary Tract Infection;fever, not cough, fatigue, not difficulty breathing;Antibiotics, hydration
+Dengue Fever;fever, cough, fatigue, not difficulty breathing;Supportive care, hydration
+Dengue Fever;fever, cough, fatigue, not difficulty breathing;Supportive care, hydration
+Eczema;Not fever, not cough, fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Gastroenteritis;fever, not cough, fatigue, not difficulty breathing;Hydration, anti-nausea medications
+Hepatitis;fever, not cough, fatigue, difficulty breathing;Antiviral medications, lifestyle changes
+Kidney Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy
+Migraine;fever, cough, not fatigue, not difficulty breathing;Pain relievers, triptans
+Migraine;Not fever, not cough, fatigue, not difficulty breathing;Pain relievers, lifestyle changes
+Muscular Dystrophy;Not fever, cough, fatigue, not difficulty breathing;Physical therapy, supportive care
+Sinusitis;Not fever, not cough, fatigue, not difficulty breathing;Decongestants, nasal corticosteroids
+Ulcerative Colitis;fever, not cough, not fatigue, not difficulty breathing;Anti-inflammatory drugs, dietary changes
+Ulcerative Colitis;Not fever, not cough, fatigue, not difficulty breathing;Anti-inflammatory drugs, dietary changes
+Asthma;fever, not cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;fever, not cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;fever, not cough, fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Bipolar Disorder;Not fever, cough, fatigue, not difficulty breathing;Mood stabilizers, therapy
+Bronchitis;fever, not cough, not fatigue, difficulty breathing;Bronchodilators, cough suppressants
+Bronchitis;fever, not cough, fatigue, difficulty breathing;Bronchodilators, cough suppressants
+Bronchitis;fever, not cough, fatigue, difficulty breathing;Bronchodilators, cough suppressants
+Cerebral Palsy;Not fever, cough, fatigue, difficulty breathing;Physical therapy, supportive care
+Colorectal Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy
+Eczema;fever, cough, not fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Hypertensive Heart Disease;Not fever, cough, fatigue, not difficulty breathing;Antihypertensive medications
+Influenza;fever, not cough, fatigue, not difficulty breathing;Antiviral medications, rest, hydration
+Influenza;fever, not cough, fatigue, difficulty breathing;Antiviral medications, rest, hydration
+Multiple Sclerosis;Not fever, cough, fatigue, not difficulty breathing;Immunotherapy, symptomatic treatment
+Myocardial Infarction (Heart Attack);fever, not cough, fatigue, difficulty breathing;Emergency treatment, medications
+Urinary Tract Infection (UTI);fever, cough, not fatigue, not difficulty breathing;Antibiotics, hydration
+Asthma;Not fever, cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Osteoporosis;Not fever, cough, not fatigue, not difficulty breathing;Calcium, vitamin D, medications
+Common Cold;fever, cough, fatigue, difficulty breathing;Rest, hydration, over-the-counter medications
+Migraine;fever, cough, not fatigue, not difficulty breathing;Pain relievers, triptans
+Pneumonia;fever, cough, fatigue, difficulty breathing;Antibiotics, rest, hydration
+Allergic Rhinitis;Not fever, cough, fatigue, not difficulty breathing;Antihistamines, nasal sprays
+Asthma;Not fever, not cough, fatigue, not difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;fever, not cough, fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;Not fever, not cough, fatigue, not difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;Not fever, not cough, fatigue, not difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Atherosclerosis;Not fever, cough, fatigue, not difficulty breathing;Lifestyle changes, medications
+Chronic Obstructive Pulmonary Disease;fever, not cough, fatigue, difficulty breathing;Bronchodilators, steroids
+Common Cold;fever, not cough, fatigue, not difficulty breathing;Rest, hydration, over-the-counter medications
+Eczema;Not fever, not cough, not fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Epilepsy;Not fever, cough, fatigue, not difficulty breathing;Antiepileptic medications
+Hypertension;fever, not cough, fatigue, not difficulty breathing;Antihypertensive medications
+Hyperthyroidism;fever, not cough, fatigue, not difficulty breathing;Antithyroid medications
+Obsessive-Compulsive Disorder;Not fever, cough, fatigue, not difficulty breathing;Therapy, medications (SSRIs)
+Pneumonia;fever, not cough, fatigue, difficulty breathing;Antibiotics, rest, hydration
+Pneumonia;fever, not cough, fatigue, difficulty breathing;Antibiotics, rest, hydration
+Psoriasis;fever, cough, not fatigue, not difficulty breathing;Topical treatments, phototherapy
+Psoriasis;Not fever, not cough, fatigue, not difficulty breathing;Topical treatments
+Rubella;fever, cough, fatigue, not difficulty breathing;Supportive care, hydration
+Rubella;fever, cough, fatigue, not difficulty breathing;Supportive care, hydration
+Urinary Tract Infection (UTI);Not fever, not cough, fatigue, not difficulty breathing;Antibiotics, hydration
+Asthma;fever, not cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Asthma;fever, not cough, not fatigue, difficulty breathing;corticosteroids, bronchodilators,inhalers
+Cirrhosis;Not fever, cough, fatigue, not difficulty breathing;Supportive care, liver transplant
+Conjunctivitis (Pink Eye);Not fever, not cough, not fatigue, not difficulty breathing;Eye drops, warm compresses
+Depression;Not fever, cough, fatigue, not difficulty breathing;Antidepressants, therapy
+Gastroenteritis;fever, cough, fatigue, difficulty breathing;Hydration, anti-nausea medications
+Hyperthyroidism;fever, not cough, fatigue, not difficulty breathing;Antithyroid medications
+Hyperthyroidism;fever, not cough, fatigue, not difficulty breathing;Antithyroid medications
+Kidney Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy
+Liver Cancer;Not fever, cough, fatigue, not difficulty breathing;Chemotherapy, pain management
+Liver Disease;Not fever, cough, fatigue, not difficulty breathing;Supportive care, lifestyle changes
+Malaria;fever, cough, not fatigue, not difficulty breathing;Antimalarial medications
+Malaria;fever, cough, not fatigue, not difficulty breathing;Antimalarial medications
+Migraine;Not fever, not cough, fatigue, not difficulty breathing;Pain relievers, lifestyle changes
+Migraine;fever, cough, not fatigue, not difficulty breathing;Pain relievers, triptans
+Pancreatitis;Not fever, cough, fatigue, not difficulty breathing;Pain management, dietary changes
+Rheumatoid Arthritis;fever, not cough, fatigue, not difficulty breathing;NSAIDs, corticosteroids, disease-modifying drugs
+Rheumatoid Arthritis;Not fever, cough, fatigue, not difficulty breathing;NSAIDs, corticosteroids, disease-modifying drugs
+Spina Bifida;Not fever, cough, fatigue, not difficulty breathing;Supportive care, therapy
+Ulcerative Colitis;Not fever, cough, fatigue, not difficulty breathing;Anti-inflammatory drugs, dietary changes
+Ulcerative Colitis;fever, cough, not fatigue, not difficulty breathing;Anti-inflammatory drugs, dietary changes
+Urinary Tract Infection;fever, cough, fatigue, not difficulty breathing;Antibiotics, hydration
+Allergic Rhinitis;Not fever, not cough, not fatigue, not difficulty breathing;Antihistamines, nasal sprays
+Depression;Not fever, cough, not fatigue, not difficulty breathing;Antidepressants, therapy
+Gastroenteritis;Not fever, cough, not fatigue, not difficulty breathing;Rehydration, anti-nausea medications
+Influenza;Not fever, cough, not fatigue, not difficulty breathing;Antiviral medications, rest, fluids
+Kidney Disease;Not fever, cough, fatigue, not difficulty breathing;Medication, dialysis, lifestyle changes
+Liver Cancer;fever, not cough, not fatigue, not difficulty breathing;Chemotherapy, pain management
+Liver Disease;Not fever, not cough, not fatigue, difficulty breathing;Supportive care, lifestyle changes
+Osteoporosis;Not fever, not cough, not fatigue, not difficulty breathing;Calcium and vitamin D supplements, exercise
+Stroke;fever, not cough, not fatigue, not difficulty breathing;Emergency medical treatment, rehabilitation
+Anxiety Disorders;fever, cough, fatigue, difficulty breathing;Therapy, medication (antidepressants/antianxiety)
+Diabetes;fever, cough, fatigue, difficulty breathing;Insulin, dietary management, lifestyle changes
+Migraine;fever, not cough, not fatigue, not difficulty breathing;Pain relievers, lifestyle changes
+Osteoarthritis;fever, not cough, fatigue, not difficulty breathing;NSAIDs, physical therapy
+Pneumonia;fever, not cough, fatigue, difficulty breathing;Antibiotics, supportive care
+Klinefelter Syndrome;Not fever, cough, fatigue, not difficulty breathing;Hormone therapy, counseling
+Acne;Not fever, cough, fatigue, not difficulty breathing;Topical treatments, oral medications
+Brain Tumor;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation
+Bronchitis;Not fever, not cough, not fatigue, difficulty breathing;Bronchodilators, corticosteroids
+Cystic Fibrosis;Not fever, cough, fatigue, difficulty breathing;Enzyme supplements, airway clearance techniques
+Diabetes;fever, cough, not fatigue, not difficulty breathing;Insulin, dietary management
+Glaucoma;Not fever, cough, fatigue, not difficulty breathing;Eye drops, laser therapy
+Osteoarthritis;Not fever, cough, fatigue, not difficulty breathing;NSAIDs, physical therapy
+Rabies;fever, not cough, not fatigue, not difficulty breathing;Post-exposure prophylaxis (PEP)
+Asthma;fever, cough, fatigue, not difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Chickenpox;Not fever, not cough, not fatigue, not difficulty breathing;Antihistamines, calamine lotion
+Coronary Artery Disease;Not fever, cough, fatigue, not difficulty breathing;Lifestyle changes, medications
+Eating Disorders (Anorexia);Not fever, cough, not fatigue, difficulty breathing;Nutritional counseling, therapy
+Fibromyalgia;Not fever, cough, fatigue, not difficulty breathing;Pain management, lifestyle changes
+Gastroenteritis;fever, not cough, fatigue, not difficulty breathing;Rehydration, anti-nausea medications
+Hemophilia;Not fever, cough, fatigue, not difficulty breathing;Factor replacement therapy
+Hyperthyroidism;Not fever, cough, fatigue, not difficulty breathing;Antithyroid medications
+Hypoglycemia;Not fever, cough, fatigue, not difficulty breathing;Fast-acting carbohydrates, glucose
+Lymphoma;Not fever, not cough, not fatigue, not difficulty breathing;Chemotherapy, radiation therapy
+Pneumonia;fever, not cough, fatigue, difficulty breathing;Antibiotics, supportive care
+Psoriasis;Not fever, not cough, fatigue, not difficulty breathing;Topical treatments, phototherapy
+Tuberculosis;fever, not cough, fatigue, difficulty breathing;Antitubercular therapy
+Common Cold;fever, not cough, not fatigue, not difficulty breathing;Rest, hydration, over-the-counter medications
+Depression;fever, cough, not fatigue, difficulty breathing;Antidepressants, therapy
+Influenza;Not fever, not cough, not fatigue, not difficulty breathing;Antiviral medications, rest, fluids
+Kidney Cancer;fever, cough, not fatigue, not difficulty breathing;Surgery, chemotherapy
+Liver Cancer;fever, cough, fatigue, difficulty breathing;Chemotherapy, pain management
+Lung Cancer;fever, cough, fatigue, difficulty breathing;Chemotherapy, radiation therapy
+Migraine;fever, not cough, fatigue, not difficulty breathing;Pain relievers, lifestyle changes
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency medical treatment, rehabilitation
+Urinary Tract Infection;Not fever, not cough, fatigue, difficulty breathing;Antibiotics, hydration
+Diabetes;fever, not cough, fatigue, not difficulty breathing;Insulin, dietary management
+Hypothyroidism;fever, not cough, fatigue, not difficulty breathing;Thyroid hormone replacement
+Kidney Disease;fever, cough, fatigue, not difficulty breathing;Medication, dialysis
+Pneumonia;Not fever, not cough, fatigue, difficulty breathing;Antibiotics, supportive care
+Allergic Rhinitis;Not fever, not cough, fatigue, not difficulty breathing;Antihistamines, nasal sprays
+Autism Spectrum Disorder (ASD);Not fever, cough, fatigue, not difficulty breathing;Behavioral therapy
+Crohn's Disease;fever, cough, fatigue, not difficulty breathing;Anti-inflammatory medications, diet management
+Hepatitis;fever, cough, fatigue, not difficulty breathing;Antiviral medications, supportive care
+Hyperglycemia;Not fever, cough, fatigue, not difficulty breathing;Insulin, dietary management
+Kidney Cancer;Not fever, not cough, fatigue, difficulty breathing;Surgery, chemotherapy
+Kidney Disease;fever, not cough, not fatigue, not difficulty breathing;Medication, dialysis
+Melanoma;fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy
+Ovarian Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy
+Pancreatitis;Not fever, not cough, fatigue, difficulty breathing;Pain management, dietary changes
+Rheumatoid Arthritis;fever, cough, not fatigue, not difficulty breathing;NSAIDs, corticosteroids, disease-modifying drugs
+Stroke;Not fever, cough, fatigue, not difficulty breathing;Emergency medical treatment, rehabilitation
+Turner Syndrome;Not fever, cough, fatigue, not difficulty breathing;Hormone therapy, counseling
+Urinary Tract Infection;Not fever, cough, not fatigue, not difficulty breathing;Antibiotics, hydration
+Zika Virus;Not fever, not cough, fatigue, not difficulty breathing;Supportive care
+Allergic Rhinitis;fever, not cough, fatigue, not difficulty breathing;Antihistamines, nasal sprays
+Anxiety Disorders;fever, not cough, fatigue, not difficulty breathing;Therapy, medication (antidepressants/antianxiety)
+Asthma;fever, not cough, not fatigue, difficulty breathing;Inhalers, corticosteroids, bronchodilators
+Cataracts;Not fever, cough, fatigue, not difficulty breathing;Surgery, eye drops
+Crohn's Disease;Not fever, cough, fatigue, not difficulty breathing;Anti-inflammatory medications, diet management
+Crohn's Disease;fever, not cough, fatigue, not difficulty breathing;Anti-inflammatory medications, diet management
+Depression;Not fever, cough, fatigue, not difficulty breathing;Antidepressants, therapy
+Diabetes;fever, cough, fatigue, not difficulty breathing;Insulin, dietary management
+Diabetes;Not fever, not cough, fatigue, not difficulty breathing;Insulin, dietary management
+Hypertension;fever, cough, fatigue, not difficulty breathing;Antihypertensive medications
+Hypothyroidism;Not fever, cough, fatigue, not difficulty breathing;Thyroid hormone replacement
+Liver Disease;fever, not cough, fatigue, not difficulty breathing;Supportive care, lifestyle changes
+Multiple Sclerosis;fever, cough, not fatigue, not difficulty breathing;Disease-modifying therapies
+Osteoarthritis;fever, cough, fatigue, difficulty breathing;NSAIDs, physical therapy
+Osteoporosis;fever, not cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, exercise
+Pneumocystis Pneumonia (PCP);fever, not cough, fatigue, not difficulty breathing;Antibiotics
+Pneumonia;fever, not cough, fatigue, difficulty breathing;Antibiotics, supportive care
+Scoliosis;Not fever, cough, not fatigue, not difficulty breathing;Physical therapy, bracing
+Eczema;Not fever, cough, fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Meningitis;fever, cough, fatigue, difficulty breathing;Antibiotics, corticosteroids
+Appendicitis;fever, cough, fatigue, difficulty breathing;Surgery (appendectomy)
+Eczema;Not fever, cough, fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Meningitis;fever, cough, fatigue, difficulty breathing;Antibiotics, corticosteroids
+Appendicitis;fever, cough, fatigue, difficulty breathing;Surgery (appendectomy)
+Gout;Not fever, cough, fatigue, not difficulty breathing;NSAIDs, lifestyle changes
+Thyroid Cancer;fever, not cough, not fatigue, difficulty breathing;Surgery, radiation therapy
+Gastritis;Not fever, cough, fatigue, not difficulty breathing;Antacids, proton pump inhibitors
+Endometriosis;Not fever, cough, fatigue, difficulty breathing;Pain relievers, hormone therapy
+Psoriatic Arthritis;fever, cough, fatigue, difficulty breathing;NSAIDs, disease-modifying antirheumatic drugs
+Scleroderma;Not fever, cough, fatigue, not difficulty breathing;Immunosuppressants, physical therapy
+Cholecystitis;fever, cough, fatigue, difficulty breathing;Surgery (cholecystectomy)
+Celiac Disease;Not fever, cough, fatigue, not difficulty breathing;Gluten-free diet
+Bell's Palsy;Not fever, cough, fatigue, not difficulty breathing;Corticosteroids, physical therapy
+Hyperparathyroidism;Not fever, cough, fatigue, not difficulty breathing;Surgery, medication
+Atrial Fibrillation;Not fever, cough, fatigue, difficulty breathing;Anticoagulants, cardioversion
+Anemia;Not fever, cough, fatigue, not difficulty breathing;Iron supplements, dietary changes
+Lymphadenopathy;fever, cough, fatigue, difficulty breathing;Treat underlying cause, supportive care
+Aneurysm;Not fever, cough, fatigue, not difficulty breathing;Surgery, monitoring
+Polycystic Ovary Syndrome (PCOS);Not fever, cough, fatigue, not difficulty breathing;Hormonal therapy, lifestyle changes
+Charcot-Marie-Tooth Disease;Not fever, cough, fatigue, not difficulty breathing;Physical therapy, occupational therapy
+Myasthenia Gravis;Not fever, cough, fatigue, not difficulty breathing;Anticholinesterase medications, thymectomy
+Sickle Cell Anemia;Not fever, cough, fatigue, not difficulty breathing;Pain management, blood transfusions
+Tetanus;Not fever, cough, fatigue, not difficulty breathing;Tetanus immunoglobulin, wound care
+Tetanus;Not fever, cough, fatigue, not difficulty breathing;Tetanus immunoglobulin, wound care
+Hypertension;Not fever, cough, not fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Hypothyroidism;Not fever, cough, fatigue, not difficulty breathing;Levothyroxine
+Hypothyroidism;Not fever, cough, fatigue, not difficulty breathing;Levothyroxine
+Allergic Rhinitis;fever, cough, not fatigue, not difficulty breathing;Antihistamines, nasal corticosteroids
+Anemia;Not fever, cough, fatigue, not difficulty breathing;Iron supplements, vitamin B12 shots
+Anxiety Disorders;Not fever, cough, fatigue, not difficulty breathing;Cognitive behavioral therapy, SSRIs
+Cholera;fever, cough, fatigue, difficulty breathing;Rehydration therapy, antibiotics
+Cholera;fever, cough, fatigue, difficulty breathing;Rehydration therapy, antibiotics
+Crohn's Disease;fever, not cough, fatigue, not difficulty breathing;Anti-inflammatory drugs, immunosuppressants
+Crohn's Disease;Not fever, cough, fatigue, not difficulty breathing;Anti-inflammatory drugs, immunosuppressants
+Depression;Not fever, not cough, fatigue, not difficulty breathing;Antidepressants, therapy
+Diabetes;Not fever, not cough, not fatigue, not difficulty breathing;Insulin, dietary management
+Endometriosis;fever, cough, not fatigue, not difficulty breathing;Pain relievers, hormone therapy
+Hypertension;Not fever, not cough, not fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Hypothyroidism;fever, not cough, fatigue, not difficulty breathing;Levothyroxine
+Kidney Cancer;Not fever, not cough, not fatigue, not difficulty breathing;Surgery, chemotherapy, immunotherapy
+Kidney Disease;Not fever, not cough, not fatigue, difficulty breathing;Dialysis, medication, lifestyle changes
+Pancreatitis;Not fever, not cough, not fatigue, not difficulty breathing;Pain relief, dietary changes
+Rheumatoid Arthritis;Not fever, not cough, not fatigue, not difficulty breathing;NSAIDs, DMARDs
+Sepsis;fever, not cough, fatigue, not difficulty breathing;IV antibiotics, fluids
+Sleep Apnea;fever, cough, fatigue, difficulty breathing;CPAP therapy, lifestyle changes
+Urinary Tract Infection;fever, not cough, not fatigue, difficulty breathing;Antibiotics
+Asthma;fever, not cough, fatigue, difficulty breathing;Inhaled corticosteroids, bronchodilators
+Bronchitis;fever, not cough, fatigue, difficulty breathing;Cough suppressants, bronchodilators
+Down Syndrome;Not fever, cough, fatigue, not difficulty breathing;Supportive care, therapy
+Ebola Virus;fever, not cough, fatigue, difficulty breathing;Supportive care, experimental treatments
+Ebola Virus;fever, not cough, fatigue, difficulty breathing;Supportive care, experimental treatments
+Eczema;Not fever, not cough, not fatigue, not difficulty breathing;Topical corticosteroids, moisturizers
+Gastroenteritis;fever, not cough, fatigue, difficulty breathing;Rehydration therapy, anti-nausea medication
+Klinefelter Syndrome;Not fever, cough, fatigue, not difficulty breathing;Testosterone replacement therapy
+Liver Cancer;Not fever, not cough, fatigue, difficulty breathing;Surgery, chemotherapy, targeted therapy
+Lyme Disease;fever, cough, not fatigue, not difficulty breathing;Antibiotics
+Lyme Disease;fever, cough, not fatigue, not difficulty breathing;Antibiotics
+Pancreatic Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation therapy
+Pneumothorax;Not fever, cough, fatigue, difficulty breathing;Chest tube insertion, observation
+Stroke;Not fever, not cough, fatigue, difficulty breathing;Emergency treatment, rehabilitation
+Ulcerative Colitis;Not fever, not cough, fatigue, not difficulty breathing;Anti-inflammatory drugs, immunosuppressants
+Hypertension;fever, not cough, not fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Multiple Sclerosis;Not fever, not cough, fatigue, not difficulty breathing;Disease-modifying therapies, symptom management
+Multiple Sclerosis;Not fever, not cough, fatigue, not difficulty breathing;Disease-modifying therapies, symptom management
+Appendicitis;fever, cough, fatigue, not difficulty breathing;Surgery (appendectomy)
+Bronchitis;Not fever, cough, fatigue, difficulty breathing;Cough suppressants, bronchodilators
+Bronchitis;fever, not cough, fatigue, difficulty breathing;Cough suppressants, bronchodilators
+Common Cold;fever, cough, fatigue, difficulty breathing;Rest, hydration, over-the-counter medications
+Diabetes;Not fever, not cough, not fatigue, not difficulty breathing;Insulin, dietary management
+Esophageal Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation therapy
+HIV/AIDS;fever, cough, not fatigue, not difficulty breathing;Antiretroviral therapy
+HIV/AIDS;fever, cough, not fatigue, not difficulty breathing;Antiretroviral therapy
+Hypertension;Not fever, not cough, not fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Liver Disease;Not fever, not cough, fatigue, not difficulty breathing;Supportive care, medication
+Marfan Syndrome;Not fever, cough, fatigue, not difficulty breathing;Regular monitoring, lifestyle adjustments
+Migraine;Not fever, not cough, fatigue, difficulty breathing;Pain relievers, preventive medications
+Osteoporosis;Not fever, cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Parkinson's Disease;Not fever, cough, fatigue, not difficulty breathing;Dopamine agonists, physical therapy
+Parkinson's Disease;Not fever, cough, fatigue, not difficulty breathing;Dopamine agonists, physical therapy
+Anxiety Disorders;fever, not cough, not fatigue, not difficulty breathing;Cognitive behavioral therapy, SSRIs
+Coronary Artery Disease;Not fever, cough, fatigue, not difficulty breathing;Lifestyle changes, medications
+Coronary Artery Disease;Not fever, cough, fatigue, not difficulty breathing;Lifestyle changes, medications
+Hemorrhoids;Not fever, cough, not fatigue, not difficulty breathing;Topical treatments, dietary changes
+Hypertension;fever, cough, fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Hypothyroidism;Not fever, cough, fatigue, not difficulty breathing;Levothyroxine
+Osteoarthritis;fever, not cough, not fatigue, not difficulty breathing;Pain relievers, physical therapy
+Osteoporosis;fever, cough, fatigue, difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Osteoporosis;Not fever, not cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Osteoporosis;fever, cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Osteoporosis;fever, cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Polycystic Ovary Syndrome (PCOS);fever, not cough, not fatigue, not difficulty breathing;Hormonal therapy, lifestyle changes
+Systemic Lupus Erythematosus;Not fever, not cough, fatigue, not difficulty breathing;Immunosuppressants, anti-inflammatory medications
+Typhoid Fever;Not fever, not cough, not fatigue, not difficulty breathing;Antibiotics
+Typhoid Fever;Not fever, not cough, not fatigue, not difficulty breathing;Antibiotics
+Influenza;fever, not cough, fatigue, difficulty breathing;Antiviral medications, rest
+Pneumonia;fever, not cough, not fatigue, difficulty breathing;Antibiotics, rest
+Breast Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation therapy
+Coronary Artery Disease;fever, not cough, not fatigue, not difficulty breathing;Lifestyle changes, medications
+Coronary Artery Disease;fever, not cough, not fatigue, not difficulty breathing;Lifestyle changes, medications
+Hyperthyroidism;Not fever, cough, fatigue, not difficulty breathing;Antithyroid medications
+Measles;fever, not cough, not fatigue, not difficulty breathing;Supportive care, vaccination
+Measles;fever, not cough, not fatigue, not difficulty breathing;Supportive care, vaccination
+Osteoarthritis;Not fever, not cough, not fatigue, difficulty breathing;Pain relievers, physical therapy
+Osteomyelitis;Not fever, cough, fatigue, not difficulty breathing;Antibiotics, possible surgery
+Osteoporosis;fever, cough, not fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Osteoporosis;Not fever, not cough, not fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Osteoporosis;Not fever, not cough, not fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Polio;fever, not cough, fatigue, not difficulty breathing;Supportive care, vaccination
+Asthma;fever, not cough, fatigue, difficulty breathing;Inhaled corticosteroids, bronchodilators
+Chronic Kidney Disease;Not fever, cough, fatigue, not difficulty breathing;Dialysis, medications, lifestyle changes
+Hemophilia;Not fever, cough, fatigue, not difficulty breathing;Factor replacement therapy
+Hepatitis B;Not fever, not cough, fatigue, not difficulty breathing;Antiviral medications, supportive care
+Hepatitis B;Not fever, not cough, fatigue, not difficulty breathing;Antiviral medications, supportive care
+Hypertension;Not fever, cough, fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Hypertension;fever, cough, fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Hypertension;Not fever, cough, not fatigue, not difficulty breathing;Antihypertensive medications, lifestyle changes
+Kidney Cancer;fever, not cough, fatigue, not difficulty breathing;Surgery, chemotherapy, immunotherapy
+Kidney Disease;fever, not cough, fatigue, difficulty breathing;Dialysis, medications, lifestyle changes
+Osteoporosis;fever, cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Pancreatitis;fever, not cough, fatigue, not difficulty breathing;Pain relief, dietary changes
+Parkinson's Disease;fever, not cough, not fatigue, not difficulty breathing;Dopamine agonists, physical therapy
+Parkinson's Disease;fever, not cough, not fatigue, not difficulty breathing;Dopamine agonists, physical therapy
+Prader-Willi Syndrome;Not fever, cough, fatigue, not difficulty breathing;Supportive care, behavioral therapy
+Rheumatoid Arthritis;Not fever, cough, fatigue, not difficulty breathing;NSAIDs, DMARDs
+Thyroid Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, radiation therapy, chemotherapy
+Tuberculosis;fever, not cough, fatigue, not difficulty breathing;Antibiotics (e.g., isoniazid, rifampin)
+Bladder Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, immunotherapy
+Diabetes;Not fever, cough, fatigue, not difficulty breathing;Insulin, dietary management
+Otitis Media (Ear Infection);fever, not cough, fatigue, not difficulty breathing;Antibiotics, pain relievers
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Tourette Syndrome;Not fever, cough, fatigue, not difficulty breathing;Behavioral therapy, medications (e.g., haloperidol)
+Urinary Tract Infection (UTI);fever, cough, fatigue, not difficulty breathing;Antibiotics
+Alzheimer's Disease;Not fever, not cough, not fatigue, not difficulty breathing;Cholinesterase inhibitors, supportive care
+Alzheimer's Disease;Not fever, not cough, not fatigue, not difficulty breathing;Cholinesterase inhibitors, supportive care
+Alzheimer's Disease;Not fever, cough, fatigue, not difficulty breathing;Cholinesterase inhibitors, supportive care
+Bronchitis;fever, cough, fatigue, difficulty breathing;Cough suppressants, bronchodilators
+Chronic Obstructive Pulmonary Disease (COPD);fever, cough, fatigue, difficulty breathing;Bronchodilators, corticosteroids
+Chronic Obstructive Pulmonary Disease (COPD);fever, cough, fatigue, difficulty breathing;Bronchodilators, corticosteroids
+Dementia;Not fever, cough, fatigue, not difficulty breathing;Supportive care, medications
+Diabetes;fever, not cough, fatigue, not difficulty breathing;Insulin, dietary management
+Diverticulitis;Not fever, cough, fatigue, not difficulty breathing;Dietary changes, antibiotics
+Liver Cancer;fever, not cough, fatigue, not difficulty breathing;Surgery, chemotherapy, targeted therapy
+Lung Cancer;fever, not cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation therapy
+Lung Cancer;fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation therapy
+Mumps;Not fever, cough, fatigue, not difficulty breathing;Supportive care, vaccination
+Mumps;Not fever, cough, fatigue, not difficulty breathing;Supportive care, vaccination
+Osteoporosis;Not fever, not cough, fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Stroke;fever, not cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Alzheimer's Disease;fever, cough, fatigue, not difficulty breathing;Cholinesterase inhibitors, supportive care
+Alzheimer's Disease;fever, cough, fatigue, not difficulty breathing;Cholinesterase inhibitors, supportive care
+Cholecystitis;Not fever, cough, fatigue, not difficulty breathing;Surgery, dietary management
+Chronic Obstructive Pulmonary Disease (COPD);Not fever, not cough, fatigue, difficulty breathing;Bronchodilators, corticosteroids
+Chronic Obstructive Pulmonary Disease (COPD);Not fever, not cough, fatigue, difficulty breathing;Bronchodilators, corticosteroids
+Osteoporosis;fever, cough, not fatigue, not difficulty breathing;Calcium and vitamin D supplements, bisphosphonates
+Parkinson's Disease;Not fever, cough, fatigue, not difficulty breathing;Dopamine agonists, physical therapy
+Prostate Cancer;fever, not cough, not fatigue, not difficulty breathing;Surgery, radiation therapy, hormonal therapy
+Schizophrenia;Not fever, not cough, fatigue, not difficulty breathing;Antipsychotics, therapy
+Gout;fever, cough, fatigue, not difficulty breathing;NSAIDs, colchicine
+Migraine;Not fever, cough, fatigue, not difficulty breathing;Pain relievers, preventive medications
+Stroke;Not fever, not cough, not fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Stroke;Not fever, not cough, not fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Testicular Cancer;Not fever, cough, fatigue, not difficulty breathing;Surgery, chemotherapy, radiation therapy
+Tonsillitis;fever, not cough, fatigue, not difficulty breathing;Antibiotics, pain relievers
+Williams Syndrome;Not fever, cough, fatigue, not difficulty breathing;Supportive care, therapy
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
+Stroke;fever, cough, fatigue, not difficulty breathing;Emergency treatment (thrombolysis, rehab)
