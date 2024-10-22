@@ -1,0 +1,268 @@
+Symptom;Symptom;Disease;Treatment
+Fever;Cough;Common Cold;Ibuprofen
+Headache;Fatigue;Migraine;Sumatriptan
+Shortness of breath;Chest tightness;Asthma;Albuterol Inhaler
+Nausea;Vomiting;Gastroenteritis;Oral Rehydration
+Sore Throat;Sore throat;Strep Throat;Penicillin
+Joint Pain;Fatigue;Arthritis;NSAIDs
+Chest Pain;Dizziness;Hypertension;Amlodipine
+Itching;Redness;Allergic Reaction;Antihistamine
+Abdominal Pain;Bloating;Indigestion;Antacids
+Fatigue;Sadness;Major Depressive;Sertraline
+Fever;Muscle Aches;Influenza;Acetaminophen
+Cough;Sneezing;Common Cold;Honey
+Nausea;Dizziness;Motion Sickness;Dimenhydrinate
+Shortness of breath;Chest tightness;Chronic Bronchitis;Inhalers
+Headache; Blurred Vision;Migraine;Beta-blockers
+Stomach Pain; Diarrhea;Gastritis;Antacids
+Joint Pain; Swelling;Rheumatoid Arthritis;NSAIDs
+Fever; Sore Throat;Tonsillitis;Fluids
+Back Pain; Numbness;Sciatica;Pain Relievers
+Nausea; Vomiting;Morning Sickness;Ginger
+Fatigue; Weakness;Iron Deficiency;Iron Supplements
+Anxiety; Rapid Heartbeat;Panic Disorder;Cognitive Therapy
+Shortness of breath;Shortness of breath;Sleep Apnea;CPAP Machine
+Skin Rash; Itching;Dermatitis;Topical Steroids
+Cough; Fever;Respiratory infection;Antivirals
+Joint Pain; Fatigue;Arthritis;Pain Relievers
+Dizziness; Fatigue;Heat Exhaustion;Hydration
+Headache; Sensitivity;Tension Headache;Relaxation
+Abdominal Pain;abdominal pain;Indigestion;Antacids
+Nausea; Cramps;Menstrual Cramps;Pain Relievers
+Chest Pain; Shortness of breath;Coronary ArteryDisease;Nitroglycerin
+Fatigue; Difficulty breathing;Thyroid Disorder;Levothyroxine
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breath;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain; Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue; Pain Relievers
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness of breath;Muscle Overuse;Rest
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fever; Cough;Common Cold;Ibuprofen
+Headache; Fatigue;Migraine;Sumatriptan
+Shortness of breath;Chest tightness;Asthma;Albuterol Inhaler
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Sore Throat;Sore throat;Strep Throat;Penicillin
+Joint Pain; Fatigue;Arthritis;NSAIDs
+Chest Pain; Dizziness;Hypertension;Amlodipine
+Itching; Redness;Allergic Reaction;Antihistamine
+Abdominal Pain; Bloating;Indigestion;Antacids
+Fatigue; Sadness;Major Depressive Disorder;Sertraline
+Chest Pain; Shortness of breath;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue Syndrome;Rest
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breat;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue; Pain Relievers
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome; Pain Relievers
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue; Pain Relievers
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breat;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain; Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Eye Exercises
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome; Pain Relievers
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness of breath;Muscle Overuse; Pain Relievers
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Abdominal Pain; Bloating;Indigestion;Antacids
+Fatigue; Weakness;Iron Deficiency;Iron Supplements
+Anxiety; Rapid Heartbeat;Panic Disorder;Cognitive Therapy
+Shortness of breath;Shortness of breath;Sleep Apnea;CPAP Machine
+Skin Rash; Itching;Dermatitis;Topical Steroids
+Cough; Fever;RespiratoryInfection;Antivirals
+Joint Pain; Fatigue;Arthritis;Pain Relievers
+Dizziness; Fatigue;Heat Exhaustion;Hydration
+Headache; Sensitivity;Tension Headache;Relaxation
+Abdominal Pain; Bloating;Indigestion;Antacids
+Nausea; Cramps;Menstrual Cramps;Pain Relievers
+Chest Pain; Shortness of breath;Coronary Artery;Nitroglycerin
+Fatigue; Difficulty breathing;Thyroid Disorder;Levothyroxine
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breath;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Eye Exercises
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disorder;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue;Lifestyle changes
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breath;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Rest
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Fever; Chills;Pneumonia;Antibiotics
+Sore Throat; Cough;Strep Throat;Penicillin
+Fatigue; Weakness;Iron Deficiency;Iron Supplements
+Anxiety; Rapid Heartbeat;Panic Disorder;Cognitive Therapy
+Shortness of breath;Shortness of breath;Sleep Apnea;CPAP Machine
+Skin Rash; Itching;Dermatitis;Topical Steroids
+Cough; Fever;Respiratory Infection;Antivirals
+Joint Pain; Fatigue;Arthritis;NSAIDs
+Dizziness; Fatigue;Heat Exhaustion;Hydration
+Headache; Sensitivity;Tension Headache;Relaxation
+Abdominal Pain; Bloating;Indigestion;Antacids
+Nausea; Cramps;Menstrual Cramps;Pain Relievers
+Chest Pain; Shortness of breath;Coronary Artery Disease;Nitroglycerin
+Fatigue; Difficulty breathing;Thyroid Disorder;Levothyroxine
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breath;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Eye Exercises
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness of breath;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breath;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Eye Exercises
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness of breath;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue;Rest
+Fever; Chills;Pneumonia;Antibiotics
+Sore Throat; Cough;Strep Throat;Penicillin
+Fatigue; Weakness;Iron Deficiency;Iron Supplements
+Anxiety; Rapid Heartbeat;Panic Disorder;Cognitive Therapy
+Shortness of breath;Shortness of breath;Sleep Apnea;CPAP Machine
+Skin Rash; Itching;Dermatitis;Topical Steroids
+Cough; Fever;Respiratory;Antivirals
+Joint Pain; Fatigue;Arthritis;NSAIDs
+Dizziness; Fatigue;Heat Exhaustion;Hydration
+Headache; Sensitivity;Tension Headache;Relaxation
+Abdominal Pain; Bloating;Indigestion;Antacids
+Nausea; Cramps;Menstrual Cramps;Pain Relievers
+Chest Pain; Shortness;Coronary Artery;Nitroglycerin
+Fatigue; Difficulty;Thyroid Disorder;Levothyroxine
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breat;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Eye Exercises
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness;Muscle Overuse;Stretching
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Fever; Chills;Pneumonia;Antibiotics
+Cough; Shortness of breath;COVID-19;Isolation
+Itching; Redness;Allergic Reaction;Antihistamine
+Muscle Pain; Fatigue;Muscle Strain;Pain Relievers
+Nausea; Vomiting;Gastroenteritis;Oral Rehydration
+Headache; Blurred Vision;Vision Fatigue;Eye Exercises
+Stomach Pain; Diarrhea;Gastroenteritis;Fluids
+Back Pain; Numbness;Herniated Disc;Pain Relievers
+Fever; Sore Throat;Tonsillitis;Fluids
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Anxiety; Palpitations;Anxiety Disorder;Therapy
+Chest Pain; Shortness of breath;Muscle Overuse;Rest
+Joint Pain; Swelling;Arthritis;NSAIDs
+Nausea; Dizziness;Motion Sickness;Dimenhydrinate
+Fatigue; Weakness;Chronic Fatigue Syndrome;Lifestyle changes
+Fever; Chills;Pneumonia;Antibiotics
+Sore Throat; Cough;Strep Throat     ;Penicillin
+Fatigue; Weakness;Iron Deficiency ;Iron Supplements
+Anxiety; Rapid Heartbeat;Panic Disorder  ;Cognitive Therapy
+Shortness of breath;Skin rash;Sleep Apnea     ;CPAP Machine
+Skin Rash; Itching;Dermatitis      ;Topical Steroids
+Dizziness; Fatigue;Heat Exhaustion ;hydration
+Headache; Sensitivity;Tension Headache Rel; NSAIDs
+Abdominal Pain; Bloating;Indigestion   ;antacids
+Chest Pain; Shortnessof breath;Coronary Artery Disease   ;Nitroglycerin
+Fatigue; Difficulty breathing;Disease         ;Levothyroxine
+Fever; Chills;Pheumonia      ;Antibiotics
+Cough; Shortness of breath;COVID-19      ;Isolation
+Itching; Redness;Allergic Reaction;antihistamine
+Muscle Pain; Fatigue;Muscle Strain  ; Pain Relievers
+Nausea; Vomiting;Muscle Strain  ;Rehydration
+Headache; Blurred Vision;Muscle Strain  ;Eye Exercises
+Shortness of breath;Chest tightness;Asthma;Inhaled corticosteroids
+Wheezing;Chest tightness;Asthma;Long-acting beta-agonists
+Chest tightness;Chest tightness;Asthma;Leukotriene modifiers
+Coughing;Chest tightness;Asthma;Combination inhalers
+Frequent coughing at night;Chest tightness;Asthma;Short-acting beta-agonists
+Difficulty sleeping;Chest tightness;Asthma;Theophylline
+Fatigue;Chest tightness;Asthma;Allergy medications
+Rapid breathing;Chest tightness;Asthma;Cromolyn sodium
+Sore throat;Chest tightness;Asthma;Immunotherapy
+Chest pain;Chest tightness;Asthma;Oral corticosteroids
+Nasal congestion;Chest tightness;Asthma;Oxygen therapy
+Feeling tired;Chest tightness;Asthma;Breathing exercises
+Headache;Chest tightness;Asthma;Lifestyle changes
+Itchy eyes;Chest tightness;Asthma;Avoiding triggers
+Anxiety;Headache;Asthma;Stress management
+Fever;Headache;COVID-19;Paracetamol (Acetaminophen)
+Cough;Headache;COVID-19;Dextromethorphan
+Shortness of breath;Headache;COVID-19;Oxygen therapy
+Fatigue;Headache;COVID-19;Multivitamins
+Loss of taste or smell;Headache;COVID-19;Multivitamins
+Muscle or body aches;Headache;COVID-19;Ibuprofen
+Sore throat;Headache;COVID-19;Gargling with salt water
+Headache;Headache;COVID-19;Ibuprofen or Acetaminophen
+Chills;Headache;COVID-19;Paracetamol
+Congestion or runny nose;Headache;COVID-19;Pseudoephedrine
+Nausea or vomiting;Headache;COVID-19;Ondansetron
+Diarrhea;Headache;COVID-19;Loperamide
+Skin rash;Headache;COVID-19;Antihistamines
+Sweating;Headache;COVID-19;Hydration
+General malaise;Headache;COVID-19;Multivitamins
