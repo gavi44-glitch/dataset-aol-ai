@@ -1,127 +1,127 @@
-Symptom;Symptom;Symptom;Disease;Treatment
-Joint pain;Fatigue;Skin rash;Lupus;Hydroxychloroquine
-Dry mouth;Fatigue;Joint pain;Sjögren's Syndrome;Hydroxychloroquine
-Muscle weakness;Fatigue;Swollen joints;Dermatomyositis;Steroids
-Swollen glands;Fever;Fatigue;Rheumatoid Arthritis;Methotrexate
-Swollen lymph nodes;Fever;Fatigue;Systemic Lupus Erythematosus;Prednisone
-Rash;Joint pain;Fatigue;Systemic Lupus Erythematosus;Hydroxychloroquine
-Chest pain;Shortness of breath;Cough;Sarcoidosis;Corticosteroids
-Muscle pain;Fatigue;Skin rash;Dermatomyositis;Immunosuppressants
-Painful swallowing;Dry mouth;Fatigue;Sjögren's Syndrome;Artificial tears
-Blurred vision;Joint pain;Fatigue;Multiple Sclerosis;Interferon beta
-Joint stiffness;Swelling;Redness;Rheumatoid Arthritis;Biologics
-Rash;Swollen lymph nodes;Fever;Lupus;Hydroxychloroquine
-Abdominal pain;Diarrhea;Fatigue;Celiac Disease;Gluten-free diet
-Nausea;Joint pain;Swelling;Rheumatoid Arthritis;Methotrexate
-Pain in limbs;Fatigue;Muscle weakness;Dermatomyositis;Prednisone
-Shortness of breath;Swollen glands;Fever;Sarcoidosis;Immunosuppressants
-Stomach cramps;Diarrhea;Weight loss;Celiac Disease;Gluten-free diet
-Swollen hands;Redness;Joint pain;Psoriatic Arthritis;Biologics
-Abdominal bloating;Nausea;Weight loss;Celiac Disease;Gluten-free diet
-Painful joints;Swelling;Redness;Rheumatoid Arthritis;Biologics
-Cough;Wheezing;Shortness of breath;Asthma;Inhalers
-Painful joints;Swelling;Fatigue;Systemic Lupus Erythematosus;Prednisone
-Joint pain;Fatigue;Rash;Lupus;Immunosuppressants
-Pain in muscles;Fatigue;Swollen joints;Dermatomyositis;Steroids
-Abdominal bloating;Nausea;Vomiting;Celiac Disease;Gluten-free diet
-Swollen lymph nodes;Fever;Fatigue;HIV/AIDS;Antiretroviral therapy
-Skin rash;Fever;Swollen joints;Systemic Lupus Erythematosus;Hydroxychloroquine
-Joint swelling;Redness;Stiffness;Rheumatoid Arthritis;Disease-modifying drugs
-Nausea;Fatigue;Diarrhea;Celiac Disease;Gluten-free diet
-Swelling of feet;Joint pain;Redness;Rheumatoid Arthritis;Biologics
-Chest tightness;Cough;Difficulty breathing;Sarcoidosis;Corticosteroids
-Redness;Swollen joints;Fatigue;Rheumatoid Arthritis;Methotrexate
-Joint stiffness;Swelling;Redness;Psoriatic Arthritis;DMARDs
-Abdominal bloating;Diarrhea;Nausea;Celiac Disease;Gluten-free diet
-Pain in limbs;Muscle weakness;Swelling;Dermatomyositis;Steroids
-Nausea;Diarrhea;Abdominal pain;Crohn's Disease;Immunosuppressants
-Shortness of breath;Chest pain;Fatigue;Sarcoidosis;Corticosteroids
-Painful joints;Redness;Swelling;Psoriatic Arthritis;Biologics
-Nausea;Fatigue;Vomiting;Lupus;Immunosuppressants
-Blurred vision;Fatigue;Nausea;Multiple Sclerosis;Interferon beta
-Joint pain;Swelling;Redness;Systemic Lupus Erythematosus;Hydroxychloroquine
-Skin ulcers;Fatigue;Rash;Lupus;Prednisone
-Swollen lymph nodes;Fatigue;Nausea;Rheumatoid Arthritis;Methotrexate
-Painful swallowing;Hoarseness;Weight loss;Scleroderma;Immunosuppressants
-Fatigue;Painful joints;Fever;Systemic Lupus Erythematosus;Hydroxychloroquine
-Blurred vision;Swollen glands;Joint pain;Multiple Sclerosis;Steroids
-Cough;Shortness of breath;Chest pain;Sarcoidosis;Immunosuppressants
-Dry eyes;Swollen glands;Joint pain;Sjögren's Syndrome;Corticosteroids
-Pain in muscles;Fatigue;Skin rash;Dermatomyositis;Immunosuppressants
-Swollen feet;Painful joints;Redness;Rheumatoid Arthritis;Biologics
-Nausea;Vomiting;Fatigue;Celiac Disease;Gluten-free diet
-Rash;Joint pain;Fever;Lupus;Hydroxychloroquine
-Swollen ankles;Joint pain;Fatigue;Psoriatic Arthritis;DMARDs
-Blurred vision;Muscle weakness;Joint pain;Multiple Sclerosis;Disease-modifying drugs
-Nausea;Weight loss;Abdominal pain;Crohn's Disease;Immunosuppressants
-Swollen glands;Joint pain;Fatigue;Rheumatoid Arthritis;Methotrexate
-Skin lesions;Muscle weakness;Swelling;Dermatomyositis;Prednisone
-Fatigue;Swollen joints;Skin rash;Lupus;Hydroxychloroquine
-Joint pain;Muscle weakness;Fever;Rheumatoid Arthritis;Methotrexate
-Pain in muscles;Swollen glands;Fatigue;Dermatomyositis;Prednisone
-Skin rash;Joint pain;Swelling;Systemic Lupus Erythematosus;Hydroxychloroquine
-Chest pain;Cough;Fatigue;Sarcoidosis;Corticosteroids
-Nausea;Abdominal pain;Weight loss;Celiac Disease;Gluten-free diet
-Painful joints;Swelling;Redness;Psoriatic Arthritis;Biologics
-Swollen lymph nodes;Fatigue;Nausea;Systemic Lupus Erythematosus;Prednisone
-Joint stiffness;Pain in limbs;Redness;Rheumatoid Arthritis;Biologics
-Blurred vision;Swollen glands;Joint pain;Multiple Sclerosis;Interferon beta
-Redness;Pain in joints;Fatigue;Rheumatoid Arthritis;Disease-modifying drugs
-Swelling of feet;Fatigue;Joint pain;Lupus;Hydroxychloroquine
-Fever;Pain in muscles;Skin rash;Dermatomyositis;Steroids
-Abdominal bloating;Diarrhea;Nausea;Celiac Disease;Gluten-free diet
-Joint pain;Swelling;Stiffness;Rheumatoid Arthritis;Methotrexate
-Shortness of breath;Swelling;Cough;Sarcoidosis;Immunosuppressants
-Cough;Fatigue;Wheezing;Asthma;Inhalers
-Diarrhea;Abdominal pain;Weight loss;Celiac Disease;Gluten-free diet
-Painful swallowing;Dry mouth;Fatigue;Sjögren's Syndrome;Artificial tears
-Muscle pain;Fatigue;Joint swelling;Dermatomyositis;Immunosuppressants
-Nausea;Vomiting;Abdominal pain;Crohn's Disease;Immunosuppressants
-Swollen ankles;Redness;Joint pain;Psoriatic Arthritis;DMARDs
-Swollen glands;Painful joints;Fatigue;Systemic Lupus Erythematosus;Hydroxychloroquine
-Rash;Joint swelling;Fatigue;Lupus;Prednisone
-Swollen feet;Pain in joints;Redness;Rheumatoid Arthritis;Biologics
-Joint pain;Swelling;Fever;Psoriatic Arthritis;Biologics
-Dry eyes;Swollen glands;Joint pain;Sjögren's Syndrome;Corticosteroids
-Abdominal pain;Diarrhea;Nausea;Celiac Disease;Gluten-free diet
-Blurred vision;Joint pain;Nausea;Multiple Sclerosis;Interferon beta
-Joint pain;Redness;Swelling;Rheumatoid Arthritis;Disease-modifying drugs
-Muscle weakness;Abdominal pain;Weight loss;Celiac Disease;Gluten-free diet
-Skin rash;Fatigue;Fever;Systemic Lupus Erythematosus;Prednisone
-Swelling;Joint pain;Stiffness;Rheumatoid Arthritis;Methotrexate
-Cough;Chest pain;Fatigue;Sarcoidosis;Corticosteroids
-Diarrhea;Abdominal pain;Nausea;Celiac Disease;Gluten-free diet
-Nausea;Vomiting;Weight loss;Crohn's Disease;Immunosuppressants
-Fatigue;Joint pain;Fever;Lupus;Hydroxychloroquine
-Muscle weakness;Redness;Swelling;Dermatomyositis;Prednisone
-Abdominal bloating;Diarrhea;Weight loss;Celiac Disease;Gluten-free diet
-Fatigue;Nausea;Swollen glands;Systemic Lupus Erythematosus;Hydroxychloroquine
-Painful joints;Joint stiffness;Swelling;Rheumatoid Arthritis;Biologics
-Shortness of breath;Wheezing;Cough;Asthma;Inhalers
-Rash;Joint swelling;Fatigue;Lupus;Prednisone
-Swollen lymph nodes;Fever;Fatigue;Systemic Lupus Erythematosus;Hydroxychloroquine
-Abdominal pain;Diarrhea;Nausea;Celiac Disease;Gluten-free diet
-Redness;Pain in joints;Swelling;Psoriatic Arthritis;Biologics
-Blurred vision;Swollen glands;Joint pain;Multiple Sclerosis;Interferon beta
-Fever;Muscle pain;Fatigue;Dermatomyositis;Steroids
-Painful joints;Nausea;Swelling;Systemic Lupus Erythematosus;Hydroxychloroquine
-Abdominal bloating;Diarrhea;Weight loss;Celiac Disease;Gluten-free diet
-Swollen glands;Fatigue;Muscle weakness;Sjögren's Syndrome;Corticosteroids
-Rash;Joint pain;Swelling;Rheumatoid Arthritis;Methotrexate
-Fatigue;Joint pain;Skin rash;Systemic Lupus Erythematosus;Hydroxychloroquine
-Joint stiffness;Swelling;Painful joints;Psoriatic Arthritis;Biologics
-Blurred vision;Fatigue;Muscle weakness;Multiple Sclerosis;Interferon beta
-Abdominal pain;Nausea;Vomiting;Crohn's Disease;Immunosuppressants
-Rash;Swelling;Redness;Psoriatic Arthritis;DMARDs
-Muscle weakness;Swollen joints;Redness;Dermatomyositis;Prednisone
-Cough;Shortness of breath;Wheezing;Sarcoidosis;Immunosuppressants
-Nausea;Abdominal pain;Fatigue;Celiac Disease;Gluten-free diet
-Joint pain;Stiffness;Redness;Rheumatoid Arthritis;Methotrexate
-Skin rash;Swelling;Fatigue;Systemic Lupus Erythematosus;Prednisone
-Painful joints;Redness;Fatigue;Psoriatic Arthritis;Biologics
-Abdominal pain;Weight loss;Diarrhea;Celiac Disease;Gluten-free diet
-Swelling;Fatigue;Pain in muscles;Lupus;Hydroxychloroquine
-Muscle pain;Swelling;Redness;Dermatomyositis;Immunosuppressants
-Shortness of breath;Nausea;Cough;Asthma;Inhalers
-Joint stiffness;Muscle pain;Redness;Psoriatic Arthritis;DMARDs
-Redness;Abdominal bloating;Weight loss;Celiac Disease;Gluten-free diet
+Symptom,Symptom,Symptom,Disease,Treatment
+Joint pain,Fatigue,Skin rash,Lupus,Hydroxychloroquine
+Dry mouth,Fatigue,Joint pain,SjÃ¶gren's Syndrome,Hydroxychloroquine
+Muscle weakness,Fatigue,Swollen joints,Dermatomyositis,Steroids
+Swollen glands,Fever,Fatigue,Rheumatoid Arthritis,Methotrexate
+Swollen lymph nodes,Fever,Fatigue,Systemic Lupus Erythematosus,Prednisone
+Rash,Joint pain,Fatigue,Systemic Lupus Erythematosus,Hydroxychloroquine
+Chest pain,Shortness of breath,Cough,Sarcoidosis,Corticosteroids
+Muscle pain,Fatigue,Skin rash,Dermatomyositis,Immunosuppressants
+Painful swallowing,Dry mouth,Fatigue,SjÃ¶gren's Syndrome,Artificial tears
+Blurred vision,Joint pain,Fatigue,Multiple Sclerosis,Interferon beta
+Joint stiffness,Swelling,Redness,Rheumatoid Arthritis,Biologics
+Rash,Swollen lymph nodes,Fever,Lupus,Hydroxychloroquine
+Abdominal pain,Diarrhea,Fatigue,Celiac Disease,Gluten-free diet
+Nausea,Joint pain,Swelling,Rheumatoid Arthritis,Methotrexate
+Pain in limbs,Fatigue,Muscle weakness,Dermatomyositis,Prednisone
+Shortness of breath,Swollen glands,Fever,Sarcoidosis,Immunosuppressants
+Stomach cramps,Diarrhea,Weight loss,Celiac Disease,Gluten-free diet
+Swollen hands,Redness,Joint pain,Psoriatic Arthritis,Biologics
+Abdominal bloating,Nausea,Weight loss,Celiac Disease,Gluten-free diet
+Painful joints,Swelling,Redness,Rheumatoid Arthritis,Biologics
+Cough,Wheezing,Shortness of breath,Asthma,Inhalers
+Painful joints,Swelling,Fatigue,Systemic Lupus Erythematosus,Prednisone
+Joint pain,Fatigue,Rash,Lupus,Immunosuppressants
+Pain in muscles,Fatigue,Swollen joints,Dermatomyositis,Steroids
+Abdominal bloating,Nausea,Vomiting,Celiac Disease,Gluten-free diet
+Swollen lymph nodes,Fever,Fatigue,HIV/AIDS,Antiretroviral therapy
+Skin rash,Fever,Swollen joints,Systemic Lupus Erythematosus,Hydroxychloroquine
+Joint swelling,Redness,Stiffness,Rheumatoid Arthritis,Disease-modifying drugs
+Nausea,Fatigue,Diarrhea,Celiac Disease,Gluten-free diet
+Swelling of feet,Joint pain,Redness,Rheumatoid Arthritis,Biologics
+Chest tightness,Cough,Difficulty breathing,Sarcoidosis,Corticosteroids
+Redness,Swollen joints,Fatigue,Rheumatoid Arthritis,Methotrexate
+Joint stiffness,Swelling,Redness,Psoriatic Arthritis,DMARDs
+Abdominal bloating,Diarrhea,Nausea,Celiac Disease,Gluten-free diet
+Pain in limbs,Muscle weakness,Swelling,Dermatomyositis,Steroids
+Nausea,Diarrhea,Abdominal pain,Crohn's Disease,Immunosuppressants
+Shortness of breath,Chest pain,Fatigue,Sarcoidosis,Corticosteroids
+Painful joints,Redness,Swelling,Psoriatic Arthritis,Biologics
+Nausea,Fatigue,Vomiting,Lupus,Immunosuppressants
+Blurred vision,Fatigue,Nausea,Multiple Sclerosis,Interferon beta
+Joint pain,Swelling,Redness,Systemic Lupus Erythematosus,Hydroxychloroquine
+Skin ulcers,Fatigue,Rash,Lupus,Prednisone
+Swollen lymph nodes,Fatigue,Nausea,Rheumatoid Arthritis,Methotrexate
+Painful swallowing,Hoarseness,Weight loss,Scleroderma,Immunosuppressants
+Fatigue,Painful joints,Fever,Systemic Lupus Erythematosus,Hydroxychloroquine
+Blurred vision,Swollen glands,Joint pain,Multiple Sclerosis,Steroids
+Cough,Shortness of breath,Chest pain,Sarcoidosis,Immunosuppressants
+Dry eyes,Swollen glands,Joint pain,SjÃ¶gren's Syndrome,Corticosteroids
+Pain in muscles,Fatigue,Skin rash,Dermatomyositis,Immunosuppressants
+Swollen feet,Painful joints,Redness,Rheumatoid Arthritis,Biologics
+Nausea,Vomiting,Fatigue,Celiac Disease,Gluten-free diet
+Rash,Joint pain,Fever,Lupus,Hydroxychloroquine
+Swollen ankles,Joint pain,Fatigue,Psoriatic Arthritis,DMARDs
+Blurred vision,Muscle weakness,Joint pain,Multiple Sclerosis,Disease-modifying drugs
+Nausea,Weight loss,Abdominal pain,Crohn's Disease,Immunosuppressants
+Swollen glands,Joint pain,Fatigue,Rheumatoid Arthritis,Methotrexate
+Skin lesions,Muscle weakness,Swelling,Dermatomyositis,Prednisone
+Fatigue,Swollen joints,Skin rash,Lupus,Hydroxychloroquine
+Joint pain,Muscle weakness,Fever,Rheumatoid Arthritis,Methotrexate
+Pain in muscles,Swollen glands,Fatigue,Dermatomyositis,Prednisone
+Skin rash,Joint pain,Swelling,Systemic Lupus Erythematosus,Hydroxychloroquine
+Chest pain,Cough,Fatigue,Sarcoidosis,Corticosteroids
+Nausea,Abdominal pain,Weight loss,Celiac Disease,Gluten-free diet
+Painful joints,Swelling,Redness,Psoriatic Arthritis,Biologics
+Swollen lymph nodes,Fatigue,Nausea,Systemic Lupus Erythematosus,Prednisone
+Joint stiffness,Pain in limbs,Redness,Rheumatoid Arthritis,Biologics
+Blurred vision,Swollen glands,Joint pain,Multiple Sclerosis,Interferon beta
+Redness,Pain in joints,Fatigue,Rheumatoid Arthritis,Disease-modifying drugs
+Swelling of feet,Fatigue,Joint pain,Lupus,Hydroxychloroquine
+Fever,Pain in muscles,Skin rash,Dermatomyositis,Steroids
+Abdominal bloating,Diarrhea,Nausea,Celiac Disease,Gluten-free diet
+Joint pain,Swelling,Stiffness,Rheumatoid Arthritis,Methotrexate
+Shortness of breath,Swelling,Cough,Sarcoidosis,Immunosuppressants
+Cough,Fatigue,Wheezing,Asthma,Inhalers
+Diarrhea,Abdominal pain,Weight loss,Celiac Disease,Gluten-free diet
+Painful swallowing,Dry mouth,Fatigue,SjÃ¶gren's Syndrome,Artificial tears
+Muscle pain,Fatigue,Joint swelling,Dermatomyositis,Immunosuppressants
+Nausea,Vomiting,Abdominal pain,Crohn's Disease,Immunosuppressants
+Swollen ankles,Redness,Joint pain,Psoriatic Arthritis,DMARDs
+Swollen glands,Painful joints,Fatigue,Systemic Lupus Erythematosus,Hydroxychloroquine
+Rash,Joint swelling,Fatigue,Lupus,Prednisone
+Swollen feet,Pain in joints,Redness,Rheumatoid Arthritis,Biologics
+Joint pain,Swelling,Fever,Psoriatic Arthritis,Biologics
+Dry eyes,Swollen glands,Joint pain,SjÃ¶gren's Syndrome,Corticosteroids
+Abdominal pain,Diarrhea,Nausea,Celiac Disease,Gluten-free diet
+Blurred vision,Joint pain,Nausea,Multiple Sclerosis,Interferon beta
+Joint pain,Redness,Swelling,Rheumatoid Arthritis,Disease-modifying drugs
+Muscle weakness,Abdominal pain,Weight loss,Celiac Disease,Gluten-free diet
+Skin rash,Fatigue,Fever,Systemic Lupus Erythematosus,Prednisone
+Swelling,Joint pain,Stiffness,Rheumatoid Arthritis,Methotrexate
+Cough,Chest pain,Fatigue,Sarcoidosis,Corticosteroids
+Diarrhea,Abdominal pain,Nausea,Celiac Disease,Gluten-free diet
+Nausea,Vomiting,Weight loss,Crohn's Disease,Immunosuppressants
+Fatigue,Joint pain,Fever,Lupus,Hydroxychloroquine
+Muscle weakness,Redness,Swelling,Dermatomyositis,Prednisone
+Abdominal bloating,Diarrhea,Weight loss,Celiac Disease,Gluten-free diet
+Fatigue,Nausea,Swollen glands,Systemic Lupus Erythematosus,Hydroxychloroquine
+Painful joints,Joint stiffness,Swelling,Rheumatoid Arthritis,Biologics
+Shortness of breath,Wheezing,Cough,Asthma,Inhalers
+Rash,Joint swelling,Fatigue,Lupus,Prednisone
+Swollen lymph nodes,Fever,Fatigue,Systemic Lupus Erythematosus,Hydroxychloroquine
+Abdominal pain,Diarrhea,Nausea,Celiac Disease,Gluten-free diet
+Redness,Pain in joints,Swelling,Psoriatic Arthritis,Biologics
+Blurred vision,Swollen glands,Joint pain,Multiple Sclerosis,Interferon beta
+Fever,Muscle pain,Fatigue,Dermatomyositis,Steroids
+Painful joints,Nausea,Swelling,Systemic Lupus Erythematosus,Hydroxychloroquine
+Abdominal bloating,Diarrhea,Weight loss,Celiac Disease,Gluten-free diet
+Swollen glands,Fatigue,Muscle weakness,SjÃ¶gren's Syndrome,Corticosteroids
+Rash,Joint pain,Swelling,Rheumatoid Arthritis,Methotrexate
+Fatigue,Joint pain,Skin rash,Systemic Lupus Erythematosus,Hydroxychloroquine
+Joint stiffness,Swelling,Painful joints,Psoriatic Arthritis,Biologics
+Blurred vision,Fatigue,Muscle weakness,Multiple Sclerosis,Interferon beta
+Abdominal pain,Nausea,Vomiting,Crohn's Disease,Immunosuppressants
+Rash,Swelling,Redness,Psoriatic Arthritis,DMARDs
+Muscle weakness,Swollen joints,Redness,Dermatomyositis,Prednisone
+Cough,Shortness of breath,Wheezing,Sarcoidosis,Immunosuppressants
+Nausea,Abdominal pain,Fatigue,Celiac Disease,Gluten-free diet
+Joint pain,Stiffness,Redness,Rheumatoid Arthritis,Methotrexate
+Skin rash,Swelling,Fatigue,Systemic Lupus Erythematosus,Prednisone
+Painful joints,Redness,Fatigue,Psoriatic Arthritis,Biologics
+Abdominal pain,Weight loss,Diarrhea,Celiac Disease,Gluten-free diet
+Swelling,Fatigue,Pain in muscles,Lupus,Hydroxychloroquine
+Muscle pain,Swelling,Redness,Dermatomyositis,Immunosuppressants
+Shortness of breath,Nausea,Cough,Asthma,Inhalers
+Joint stiffness,Muscle pain,Redness,Psoriatic Arthritis,DMARDs
+Redness,Abdominal bloating,Weight loss,Celiac Disease,Gluten-free diet
