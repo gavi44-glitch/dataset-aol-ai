@@ -1,0 +1,110 @@
+Symptom;Symptom;Symptom;Disease;Treatment
+Shortness of Breath;Cough;Wheezing;Asthma;Inhalers
+Chest Pain;Difficulty Breathing;Fatigue;Chronic Obstructive Pulmonary Disease;Oxygen Therapy
+Cough;Fever;Fatigue;Pneumonia;Antibiotics
+Cough;Shortness of Breath;Wheezing;Bronchitis;Cough Medicine  Inhalers
+Wheezing;Chest Tightness;Shortness of Breath;Asthma;Inhalers
+Difficulty Breathing;Cough;Fatigue;COPD;Oxygen Therapy
+Shortness of Breath;Chest Pain;Cough;Heart Failure;Diuretics  Oxygen Therapy
+Fever;Cough;Chills;Pneumonia;Antibiotics  Rest
+Wheezing;Cough;Chest Tightness;Asthma;Inhalers
+Shortness of Breath;Cough;Wheezing;COPD;Oxygen Therapy
+Cough;Sore Throat;Fever;Upper Respiratory Infection;Antipyretics  Rest
+Cough;Chest Pain;Difficulty Breathing;Pneumonia;Antibiotics  Hospital Care
+Wheezing;Cough;Shortness of Breath;Asthma;Bronchodilators  Steroids
+Shortness of Breath;Fever;Fatigue;Tuberculosis;Antibiotics
+Difficulty Breathing;Fatigue;Cough;Pulmonary Fibrosis;Oxygen Therapy  Medications
+Cough;Chest Pain;Shortness of Breath;Pneumonia;Antibiotics
+Fatigue;Wheezing;Cough;Asthma;Inhalers
+Shortness of Breath;Fever;Cough;Pneumonia;Antibiotics
+Cough;Fatigue;Chest Pain;Bronchitis;Cough Medicine
+Wheezing;Cough;Difficulty Breathing;Asthma;Inhalers
+Chest Pain;Cough;Shortness of Breath;Pneumonia;Antibiotics  Rest
+Cough;Wheezing;Difficulty Breathing;COPD;Oxygen Therapy
+Fever;Chest Pain;Fatigue;Tuberculosis;Antibiotics
+Shortness of Breath;Cough;Wheezing;Asthma;Inhalers
+Shortness of Breath;Cough;Fatigue;Chronic Bronchitis;Oxygen Therapy
+Cough;Fatigue;Wheezing;Asthma;Inhalers
+Wheezing;Chest Pain;Shortness of Breath;Bronchitis;Cough Medicine
+Cough;Fever;Fatigue;Pneumonia;Antibiotics
+Shortness of Breath;Chest Tightness;Fatigue;Asthma;Inhalers
+Wheezing;Shortness of Breath;Cough;COPD;Bronchodilators  Inhalers
+Cough;Chest Pain;Shortness of Breath;Bronchitis;Antibiotics
+Chest Pain;Shortness of Breath;Fatigue;Heart Failure;Oxygen Therapy  Diuretics
+Difficulty Breathing;Cough;Fatigue;Asthma;Inhalers
+Chest Pain;Difficulty Breathing;Fatigue;Pulmonary Embolism;Anticoagulants  Oxygen
+Fever;Chest Pain;Shortness of Breath;Pneumonia;Antibiotics
+Wheezing;Chest Tightness;Cough;Asthma;Inhalers
+Fatigue;Chest Pain;Wheezing;Pneumonia;Antibiotics
+Cough;Shortness of Breath;Fatigue;Bronchitis;Inhalers
+Shortness of Breath;Fatigue;Cough;Asthma;Inhalers
+Cough;Wheezing;Chest Tightness;COPD;Oxygen Therapy
+Cough;Shortness of Breath;Chest Pain;Pneumonia;Antibiotics
+Wheezing;Cough;Chest Pain;Asthma;Inhalers
+Chest Pain;Cough;Fatigue;Pneumonia;Antibiotics
+Wheezing;Cough;Fatigue;Asthma;Inhalers
+Cough;Shortness of Breath;Chest Tightness;COPD;Oxygen Therapy
+Fatigue;Chest Pain;Wheezing;Tuberculosis;Antibiotics
+Wheezing;Shortness of Breath;Chest Tightness;COPD;Oxygen Therapy
+Cough;Chest Tightness;Fatigue;Pneumonia;Antibiotics
+Wheezing;Shortness of Breath;Fatigue;Asthma;Inhalers
+Cough;Chest Pain;Shortness of Breath;Tuberculosis;Antibiotics
+Shortness of Breath;Chest Pain;Cough;Pulmonary Fibrosis;Oxygen Therapy
+Wheezing;Cough;Shortness of Breath;COPD;Inhalers
+Fatigue;Wheezing;Chest Tightness;Asthma;Inhalers
+Cough;Chest Pain;Shortness of Breath;Pneumonia;Antibiotics
+Fatigue;Cough;Chest Pain;Tuberculosis;Antibiotics
+Cough;Shortness of Breath;Wheezing;Asthma;Inhalers
+Shortness of Breath;Chest Pain;Fatigue;Heart Failure;Diuretics  Oxygen Therapy
+Wheezing;Chest Tightness;Cough;COPD;Inhalers
+Cough;Fatigue;Chest Tightness;Pneumonia;Antibiotics
+Fatigue;Wheezing;Cough;Asthma;Inhalers
+Cough;Fatigue;Shortness of Breath;COPD;Inhalers
+Wheezing;Cough;Chest Tightness;Bronchitis;Inhalers
+Shortness of Breath;Cough;Wheezing;Asthma;Inhalers
+Cough;Fatigue;Chest Pain;Pneumonia;Antibiotics
+Wheezing;Shortness of Breath;Chest Pain;Asthma;Inhalers
+Shortness of Breath;Cough;Chest Tightness;Chronic Bronchitis;Oxygen Therapy
+Chest Pain;Cough;Fatigue;Tuberculosis;Antibiotics
+Cough;Chest Pain;Shortness of Breath;Pulmonary Embolism;Surgery  Anticoagulants
+Cough;Shortness of Breath;Fatigue;Asthma;Inhalers
+Wheezing;Cough;Chest Pain;COPD;Oxygen Therapy
+Shortness of Breath;Fatigue;Cough;Bronchitis;Inhalers
+Chest Pain;Shortness of Breath;Wheezing;Asthma;Inhalers
+Wheezing;Cough;Shortness of Breath;Pneumonia;Antibiotics
+Cough;Chest Pain;Difficulty Breathing;COPD;Oxygen Therapy
+Shortness of Breath;Cough;Chest Pain;Pneumonia;Antibiotics
+Cough;Wheezing;Shortness of Breath;Pulmonary Fibrosis;Oxygen Therapy
+Chest Pain;Shortness of Breath;Cough;Asthma;Inhalers
+Cough;Fatigue;Chest Pain;Bronchitis;Antibiotics
+Wheezing;Chest Tightness;Shortness of Breath;Asthma;Inhalers
+Shortness of Breath;Chest Pain;Fatigue;Tuberculosis;Antibiotics
+Shortness of Breath;Wheezing;Cough;COPD;Oxygen Therapy
+Cough;Shortness of Breath;Wheezing;Asthma;Inhalers
+Fatigue;Shortness of Breath;Chest Pain;Pneumonia;Antibiotics
+Shortness of Breath;Wheezing;Fatigue;Chronic Bronchitis;Oxygen Therapy
+Chest Pain;Shortness of Breath;Fatigue;COPD;Oxygen Therapy
+Cough;Shortness of Breath;Wheezing;Pneumonia;Antibiotics
+Wheezing;Fatigue;Chest Pain;Asthma;Inhalers
+Shortness of Breath;Wheezing;Fatigue;Asthma;Inhalers
+Cough;Wheezing;Chest Tightness;Bronchitis;Inhalers
+Shortness of Breath;Cough;Chest Tightness;Pneumonia;Antibiotics
+Wheezing;Fatigue;Cough;Asthma;Inhalers
+Cough;Chest Pain;Difficulty Breathing;Pneumonia;Antibiotics
+Cough;Wheezing;Shortness of Breath;Bronchitis;Oxygen Therapy
+Wheezing;Chest Tightness;Fatigue;Asthma;Inhalers
+Cough;Shortness of Breath;Wheezing;Asthma;Inhalers
+Wheezing;Chest Pain;Difficulty Breathing;Asthma;Bronchodilators  Steroids
+Shortness of Breath;Cough;Fatigue;COPD;Oxygen Therapy
+Wheezing;Cough;Chest Pain;Bronchitis;Cough Medicine
+Fatigue;Cough;Chest Pain;Pneumonia;Antibiotics
+Wheezing;Shortness of Breath;Chest Tightness;Asthma;Inhalers
+Cough;Chest Tightness;Fatigue;Tuberculosis;Antibiotics
+Shortness of Breath;Cough;Wheezing;Asthma;Inhalers
+Cough;Shortness of Breath;Fatigue;Pneumonia;Antibiotics
+Wheezing;Chest Pain;Shortness of Breath;COPD;Oxygen Therapy
+Chest Pain;Shortness of Breath;Wheezing;Pneumonia;Antibiotics
+Shortness of Breath;Chest Pain;Fatigue;Heart Failure;Diuretics  Oxygen Therapy
+Cough;Wheezing;Fatigue;COPD;Oxygen Therapy
+Fatigue;Chest Pain;Cough;Tuberculosis;Antibiotics
+Shortness of Breath;Wheezing;Cough;Asthma;Inhalers
