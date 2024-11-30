@@ -1,0 +1,92 @@
+Symptom;Symptom;Symptom;Disease;Treatment;Treatment
+Headache;Nausea;Vomiting;Migraine;Pain relievers;Anti-nausea drugs
+Sensitivity to light;Headache;Aura;Migraine;Triptans;Avoid triggers
+Headache;Dizziness;Blurred vision;Migraine;Pain relievers;Lifestyle changes
+Stiff neck;Fever;Confusion;Meningitis;Antibiotics;Antiviral drugs
+Sensitivity to light;Stiff neck;Fever;Meningitis;Corticosteroids;Supportive care
+Headache;Fatigue;Memory loss;Meningitis;Antiviral drugs;Pain management
+Tremors;Muscle stiffness;Slow movement;Parkinson's disease;Levodopa;Physical therapy
+Loss of balance;Slow movement;Speech changes;Parkinson's disease;Dopamine agonists;Exercise programs
+Muscle stiffness;Tremors;Difficulty walking;Parkinson's disease;MAO-B inhibitors;Occupational therapy
+Weakness;Tingling;Numbness;Multiple sclerosis;Corticosteroids;Disease-modifying drugs
+Vision problems;Fatigue;Muscle spasms;Multiple sclerosis;Interferons;Physical therapy
+Balance issues;Weakness;Tingling;Multiple sclerosis;Plasma exchange;Pain management
+Muscle weakness;Slurred speech;Drooping eyelids;Myasthenia gravis;Anticholinesterase drugs;Corticosteroids
+Double vision;Fatigue;Difficulty swallowing;Myasthenia gravis;Immunosuppressants;Plasmapheresis
+Weakness;Muscle fatigue;Difficulty breathing;Myasthenia gravis;Intravenous immunoglobulin;Respiratory support
+Seizures;Confusion;Staring spells;Epilepsy;Antiepileptic drugs;Vagus nerve stimulation
+Jerking movements;Loss of awareness;Convulsions;Epilepsy;Sodium valproate;Carbamazepine
+Temporary confusion;Fear or anxiety;Unusual behavior;Epilepsy;Lamotrigine;Lifestyle changes
+Headache;Memory loss;Difficulty concentrating;Concussion;Rest;Pain relievers
+Dizziness;Nausea;Loss of balance;Concussion;Physical rest;Avoid physical strain
+Blurred vision;Confusion;Fatigue;Concussion;Monitoring symptoms;Supportive care
+Sudden headache;Weakness;Vision loss;Stroke;Clot-busting drugs;Rehabilitation therapy
+Slurred speech;Drooping face;Paralysis;Stroke;Antiplatelet drugs;Physical therapy
+Numbness;Loss of coordination;Dizziness;Stroke;Thrombolytics;Occupational therapy
+Muscle twitching;Slurred speech;Drooping eyelids;ALS;Riluzole;Breathing support
+Weakness;Muscle stiffness;Speech problems;ALS;Antispastic drugs;Nutritional support
+Muscle weakness;Difficulty swallowing;Difficulty breathing;ALS;Physical therapy;Mechanical ventilation
+Memory loss;Difficulty concentrating;Disorientation;Alzheimer's disease;Cholinesterase inhibitors;Cognitive therapy
+Mood changes;Forgetfulness;Confusion;Alzheimer's disease;Memantine;Structured activities
+Disorientation;Difficulty speaking;Wandering;Alzheimer's disease;Occupational therapy;Supportive care
+Back pain;Leg weakness;Tingling in legs;Spinal cord injury;Surgery;Rehabilitation therapy
+Loss of sensation;Paralysis;Pain;Spinal cord injury;Pain management;Physical therapy
+Weakness;Numbness;Loss of coordination;Spinal cord injury;Corticosteroids;Occupational therapy
+Facial paralysis;Weakness;Loss of taste;Bell's palsy;Corticosteroids;Antiviral drugs
+Drooping eyelids;Facial pain;Sensitivity to sound;Bell's palsy;Pain relievers;Physical therapy
+Weakness;Dry eye;Drooling;Bell's palsy;Artificial tears;Occupational therapy
+Numbness;Pain;Burning sensation;Neuropathy;Antidepressants;Pain management
+Tingling;Muscle weakness;Loss of sensation;Neuropathy;Anticonvulsants;Physical therapy
+Muscle cramps;Pain;Loss of reflexes;Neuropathy;Topical analgesics;Nerve stimulation
+Jerking movements;Muscle stiffness;Uncontrollable movements;Huntington's disease;Tetrabenazine;Antipsychotics
+Difficulty walking;Mood changes;Memory loss;Huntington's disease;Physical therapy;Behavioral therapy
+Impaired thinking;Depression;Slurred speech;Huntington's disease;Occupational therapy;Supportive care
+Headache;Vomiting;Difficulty balancing;Brain tumor;Surgery;Radiation therapy
+Seizures;Confusion;Vision loss;Brain tumor;Chemotherapy;Steroids
+Dizziness;Fatigue;Weakness;Brain tumor;Surgery;Supportive care
+Headache;Blurred vision;Nausea;Brain hemorrhage;Clot removal surgery;Supportive care
+Confusion;Paralysis;Slurred speech;Brain hemorrhage;Blood pressure management;Rehabilitation therapy
+Vomiting;Loss of balance;Seizures;Brain hemorrhage;Surgery;Pain management
+Sudden weakness;Slurred speech;Dizziness;TIA;Blood thinners;Lifestyle changes
+Temporary blindness;Numbness;Loss of coordination;TIA;Antiplatelet drugs;Exercise programs
+Tingling;Burning sensation;Muscle weakness;Neuropathy;Antidepressants;Physical therapy
+Numbness;Pain;Loss of sensation;Neuropathy;Anticonvulsants;Topical analgesics
+Loss of reflexes;Muscle cramps;Tingling;Neuropathy;Pain relievers;Nerve stimulation
+Tremors;Slurred speech;Slow movement;Parkinson's disease;Levodopa;Occupational therapy
+Muscle stiffness;Difficulty walking;Loss of balance;Parkinson's disease;MAO-B inhibitors;Physical therapy
+Jerking movements;Fatigue;Mood changes;Parkinson's disease;Dopamine agonists;Speech therapy
+Dizziness;Fatigue;Blurred vision;Multiple sclerosis;Interferons;Corticosteroids
+Weakness;Tingling;Vision problems;Multiple sclerosis;Plasma exchange;Occupational therapy
+Muscle spasms;Numbness;Difficulty walking;Multiple sclerosis;Disease-modifying drugs;Pain management
+Muscle weakness;Double vision;Slurred speech;Myasthenia gravis;Anticholinesterase drugs;Plasmapheresis
+Fatigue;Drooping eyelids;Difficulty swallowing;Myasthenia gravis;Immunosuppressants;Intravenous immunoglobulin
+Muscle fatigue;Weakness;Breathing issues;Myasthenia gravis;Respiratory support;Nutritional support
+Seizures;Loss of awareness;Jerking movements;Epilepsy;Sodium valproate;Vagus nerve stimulation
+Temporary confusion;Unusual behavior;Staring spells;Epilepsy;Lamotrigine;Lifestyle changes
+Convulsions;Fear or anxiety;Stiff body;Epilepsy;Antiepileptic drugs;Cognitive therapy
+Sudden headache;Weakness;Numbness;Stroke;Clot-busting drugs;Rehabilitation therapy
+Loss of coordination;Dizziness;Paralysis;Stroke;Thrombolytics;Antiplatelet drugs
+Vision loss;Slurred speech;Confusion;Stroke;Surgery;Physical therapy
+Weakness;Muscle stiffness;Speech problems;ALS;Riluzole;Breathing support
+Drooping eyelids;Difficulty breathing;Speech issues;ALS;Antispastic drugs;Physical therapy
+Difficulty swallowing;Muscle weakness;Slurred speech;ALS;Nutritional support;Mechanical ventilation
+Memory loss;Difficulty speaking;Wandering;Alzheimer's disease;Cholinesterase inhibitors;Structured activities
+Disorientation;Forgetfulness;Mood changes;Alzheimer's disease;Memantine;Supportive care
+Confusion;Mood swings;Difficulty concentrating;Alzheimer's disease;Cognitive therapy;Occupational therapy
+Back pain;Numbness;Weakness in legs;Spinal cord injury;Surgery;Rehabilitation therapy
+Loss of sensation;Muscle cramps;Tingling in arms;Spinal cord injury;Corticosteroids;Pain management
+Paralysis;Weakness;Pain;Spinal cord injury;Physical therapy;Occupational therapy
+Facial paralysis;Dry eye;Loss of taste;Bell's palsy;Corticosteroids;Antiviral drugs
+Drooping eyelids;Weakness;Sensitivity to sound;Bell's palsy;Pain relievers;Artificial tears
+Muscle twitching;Facial pain;Drooling;Bell's palsy;Occupational therapy;Physical therapy
+Tingling;Pain;Burning sensation;Neuropathy;Antidepressants;Nerve stimulation
+Slurred speech;Jerking movements;Uncontrollable movements;Huntington's disease;Tetrabenazine;Behavioral therapy
+Difficulty walking;Depression;Mood changes;Huntington's disease;Antipsychotics;Physical therapy
+Memory loss;Impaired thinking;Slurred speech;Huntington's disease;Occupational therapy;Supportive care
+Headache;Dizziness;Vomiting;Brain tumor;Surgery;Radiation therapy
+Vision loss;Seizures;Confusion;Brain tumor;Chemotherapy;Pain management
+Loss of balance;Fatigue;Weakness;Brain tumor;Surgery;Supportive care
+Severe headache;Nausea;Blurred vision;Brain hemorrhage;Clot removal surgery;Blood pressure control
+Confusion;Paralysis;Vomiting;Brain hemorrhage;Pain relievers;Rehabilitation therapy
+Sudden weakness;Dizziness;Slurred speech;TIA;Blood thinners;Exercise programs
+Temporary blindness;Numbness;Coordination loss;TIA;Antiplatelet drugs;Lifestyle changes
