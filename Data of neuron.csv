@@ -1,102 +1,102 @@
-Symptom;Symptom;Symptom;Disease;Treatment
-Headache;Nausea;Vomiting;Migraine;Pain relievers
-Headache;Nausea;Vomiting;Migraine;Triptans
-Headache;Nausea;Vomiting;Migraine;Pain relievers
-Stiff neck;Fever;Confusion;Meningitis;Antibiotics
-Stiff neck;Fever;Confusion;Meningitis;Corticosteroids
-Stiff neck;Fever;Confusion;Meningitis;Antiviral drugs
-Tremors;Muscle stiffness;Slow movement;Parkinson's disease;Levodopa
-Tremors;Muscle stiffness;Slow movement;Parkinson's disease;Levodopa
-Tremors;Muscle stiffness;Slow movement;Parkinson's disease;Dopamine agonists
-Weakness;Tingling;Numbness;Multiple sclerosis;Corticosteroids
-Weakness;Tingling;Numbness;Multiple sclerosis;Interferons
-Weakness;Tingling;Numbness;Multiple sclerosis;Plasma exchange
-Muscle weakness;Slurred speech;Drooping eyelids;Myasthenia gravis;Anticholinesterase drugs
-Muscle weakness;Slurred speech;Drooping eyelids;Myasthenia gravis;Immunosuppressants
-Muscle weakness;Slurred speech;Drooping eyelids;Myasthenia gravis;Intravenous immunoglobulin
-Seizures;Confusion;Staring spells;Epilepsy;Antiepileptic drugs
-Seizures;Confusion;Staring spells;Epilepsy;Sodium valproate
-Seizures;Confusion;Staring spells;Epilepsy;Lamotrigine
-Headache;Memory loss;Difficulty concentrating;Concussion;Rest
-Dizziness;Nausea;Loss of balance;Concussion;Physical rest
-Dizziness;Nausea;Loss of balance;Concussion;Monitoring symptoms
-Sudden headache;Weakness;Vision loss;Stroke;Clot-busting drugs
-Sudden headache;Weakness;Vision loss;Stroke;Antiplatelet drugs
-Sudden headache;Weakness;Vision loss;Stroke;Thrombolytics
-Muscle twitching;Slurred speech;Drooping eyelids;ALS;Riluzole
-Muscle weakness;Difficulty swallowing;Difficulty breathing;ALS;Antispastic drugs
-Muscle weakness;Difficulty swallowing;Difficulty breathing;ALS;Physical therapy
-Memory loss;Difficulty concentrating;Disorientation;Alzheimer's disease;Cholinesterase inhibitors
-Memory loss;Difficulty concentrating;Disorientation;Alzheimer's disease;Memantine
-Memory loss;Difficulty concentrating;Disorientation;Alzheimer's disease;Cognitive therapy
-Back pain;Leg weakness;Tingling in legs;Spinal cord injury;Surgery
-Back pain;Leg weakness;Tingling in legs;Spinal cord injury;Pain management
-Back pain;Leg weakness;Tingling in legs;Spinal cord injury;Corticosteroids
-Facial paralysis;Weakness;Loss of taste;Bell's palsy;Corticosteroids
-Facial paralysis;Weakness;Loss of taste;Bell's palsy;Pain relievers
-Facial paralysis;Weakness;Loss of taste;Bell's palsy;Artificial tears
-Numbness;Pain;Burning sensation;Neuropathy;Antidepressants
-Numbness;Pain;Burning sensation;Neuropathy;Anticonvulsants
-Numbness;Pain;Burning sensation;Neuropathy;Topical analgesics
-Jerking movements;Muscle stiffness;Uncontrollable movements;Huntington's disease;Tetrabenazine
-Difficulty walking;Mood changes;Memory loss;Huntington's disease;Physical therapy
-Impaired thinking;Depression;Slurred speech;Huntington's disease;Occupational therapy
-Headache;Vomiting;Difficulty balancing;Brain tumor;Surgery
-Seizures;Confusion;Vision loss;Brain tumor;Chemotherapy
-Dizziness;Fatigue;Weakness;Brain tumor;Surgery
-Headache;Blurred vision;Nausea;Brain hemorrhage;Clot removal surgery
-Confusion;Paralysis;Slurred speech;Brain hemorrhage;Blood pressure management
-Vomiting;Loss of balance;Seizures;Brain hemorrhage;Surgery
-Sudden weakness;Slurred speech;Dizziness;TIA;Blood thinners
-Temporary blindness;Numbness;Loss of coordination;TIA;Antiplatelet drugs
-Tingling;Burning sensation;Muscle weakness;Neuropathy;Antidepressants
-Numbness;Pain;Loss of sensation;Neuropathy;Anticonvulsants
-Loss of reflexes;Muscle cramps;Tingling;Neuropathy;Pain relievers
-Tremors;Slurred speech;Slow movement;Parkinson's disease;Levodopa
-Muscle stiffness;Difficulty walking;Loss of balance;Parkinson's disease;MAO-B inhibitors
-Jerking movements;Fatigue;Mood changes;Parkinson's disease;Dopamine agonists
-Dizziness;Fatigue;Blurred vision;Multiple sclerosis;Interferons
-Weakness;Tingling;Vision problems;Multiple sclerosis;Plasma exchange
-Muscle spasms;Numbness;Difficulty walking;Multiple sclerosis;Disease-modifying drugs
-Muscle weakness;Double vision;Slurred speech;Myasthenia gravis;Anticholinesterase drugs
-Fatigue;Drooping eyelids;Difficulty swallowing;Myasthenia gravis;Immunosuppressants
-Muscle fatigue;Weakness;Breathing issues;Myasthenia gravis;Respiratory support
-Seizures;Loss of awareness;Jerking movements;Epilepsy;Sodium valproate
-Temporary confusion;Unusual behavior;Staring spells;Epilepsy;Lamotrigine
-Convulsions;Fear or anxiety;Stiff body;Epilepsy;Antiepileptic drugs
-Sudden headache;Weakness;Numbness;Stroke;Clot-busting drugs
-Loss of coordination;Dizziness;Paralysis;Stroke;Thrombolytics
-Vision loss;Slurred speech;Confusion;Stroke;Surgery
-Weakness;Muscle stiffness;Speech problems;ALS;Riluzole
-Drooping eyelids;Difficulty breathing;Speech issues;ALS;Antispastic drugs
-Difficulty swallowing;Muscle weakness;Slurred speech;ALS;Nutritional support
-Memory loss;Difficulty speaking;Wandering;Alzheimer's disease;Cholinesterase inhibitors
-Disorientation;Forgetfulness;Mood changes;Alzheimer's disease;Memantine
-Confusion;Mood swings;Difficulty concentrating;Alzheimer's disease;Cognitive therapy
-Back pain;Numbness;Weakness in legs;Spinal cord injury;Surgery
-Loss of sensation;Muscle cramps;Tingling in arms;Spinal cord injury;Corticosteroids
-Paralysis;Weakness;Pain;Spinal cord injury;Physical therapy
-Facial paralysis;Dry eye;Loss of taste;Bell's palsy;Corticosteroids
-Drooping eyelids;Weakness;Sensitivity to sound;Bell's palsy;Pain relievers
-Muscle twitching;Facial pain;Drooling;Bell's palsy;Occupational therapy
-Tingling;Pain;Burning sensation;Neuropathy;Antidepressants
-Slurred speech;Jerking movements;Uncontrollable movements;Huntington's disease;Tetrabenazine
-Difficulty walking;Depression;Mood changes;Huntington's disease;Antipsychotics
-Memory loss;Impaired thinking;Slurred speech;Huntington's disease;Occupational therapy
-Headache;Dizziness;Vomiting;Brain tumor;Surgery
-Vision loss;Seizures;Confusion;Brain tumor;Chemotherapy
-Loss of balance;Fatigue;Weakness;Brain tumor;Surgery
-Severe headache;Nausea;Blurred vision;Brain hemorrhage;Clot removal surgery
-Confusion;Paralysis;Vomiting;Brain hemorrhage;Pain relievers
-Sudden weakness;Dizziness;Slurred speech;TIA;Blood thinners
-Temporary blindness;Numbness;Coordination loss;TIA;Antiplatelet drugs
-Headache;Nausea;Vomiting;Migraine;Pain relievers
-Headache;Nausea;Vomiting;Migraine;Pain relievers
-Headache;Nausea;Vomiting;Migraine;Pain relievers
-Headache;Dizziness;Fatigue;Parkinson's disease;Levodopa
-Headache;Dizziness;Fatigue;Parkinson's disease;Levodopa
-Dizziness;Nausea;Vomiting;Stroke;Clot-busting drugs
-Dizziness;Nausea;Vomiting;Stroke;Clot-busting drugs
-Headache;Memory loss;Dizziness;Alzheimer’s disease;Cholinesterase inhibitors
-Headache;Memory loss;Dizziness;Alzheimer’s disease;Cholinesterase inhibitors
-Weakness;Numbness;Tingling;Multiple sclerosis;Disease-modifying drugs
+Symptom,Symptom,Symptom,Disease,Treatment
+Headache,Nausea,Vomiting,Migraine,Pain relievers
+Headache,Nausea,Vomiting,Migraine,Triptans
+Headache,Nausea,Vomiting,Migraine,Pain relievers
+Stiff neck,Fever,Confusion,Meningitis,Antibiotics
+Stiff neck,Fever,Confusion,Meningitis,Corticosteroids
+Stiff neck,Fever,Confusion,Meningitis,Antiviral drugs
+Tremors,Muscle stiffness,Slow movement,Parkinson's disease,Levodopa
+Tremors,Muscle stiffness,Slow movement,Parkinson's disease,Levodopa
+Tremors,Muscle stiffness,Slow movement,Parkinson's disease,Dopamine agonists
+Weakness,Tingling,Numbness,Multiple sclerosis,Corticosteroids
+Weakness,Tingling,Numbness,Multiple sclerosis,Interferons
+Weakness,Tingling,Numbness,Multiple sclerosis,Plasma exchange
+Muscle weakness,Slurred speech,Drooping eyelids,Myasthenia gravis,Anticholinesterase drugs
+Muscle weakness,Slurred speech,Drooping eyelids,Myasthenia gravis,Immunosuppressants
+Muscle weakness,Slurred speech,Drooping eyelids,Myasthenia gravis,Intravenous immunoglobulin
+Seizures,Confusion,Staring spells,Epilepsy,Antiepileptic drugs
+Seizures,Confusion,Staring spells,Epilepsy,Sodium valproate
+Seizures,Confusion,Staring spells,Epilepsy,Lamotrigine
+Headache,Memory loss,Difficulty concentrating,Concussion,Rest
+Dizziness,Nausea,Loss of balance,Concussion,Physical rest
+Dizziness,Nausea,Loss of balance,Concussion,Monitoring symptoms
+Sudden headache,Weakness,Vision loss,Stroke,Clot-busting drugs
+Sudden headache,Weakness,Vision loss,Stroke,Antiplatelet drugs
+Sudden headache,Weakness,Vision loss,Stroke,Thrombolytics
+Muscle twitching,Slurred speech,Drooping eyelids,ALS,Riluzole
+Muscle weakness,Difficulty swallowing,Difficulty breathing,ALS,Antispastic drugs
+Muscle weakness,Difficulty swallowing,Difficulty breathing,ALS,Physical therapy
+Memory loss,Difficulty concentrating,Disorientation,Alzheimer's disease,Cholinesterase inhibitors
+Memory loss,Difficulty concentrating,Disorientation,Alzheimer's disease,Memantine
+Memory loss,Difficulty concentrating,Disorientation,Alzheimer's disease,Cognitive therapy
+Back pain,Leg weakness,Tingling in legs,Spinal cord injury,Surgery
+Back pain,Leg weakness,Tingling in legs,Spinal cord injury,Pain management
+Back pain,Leg weakness,Tingling in legs,Spinal cord injury,Corticosteroids
+Facial paralysis,Weakness,Loss of taste,Bell's palsy,Corticosteroids
+Facial paralysis,Weakness,Loss of taste,Bell's palsy,Pain relievers
+Facial paralysis,Weakness,Loss of taste,Bell's palsy,Artificial tears
+Numbness,Pain,Burning sensation,Neuropathy,Antidepressants
+Numbness,Pain,Burning sensation,Neuropathy,Anticonvulsants
+Numbness,Pain,Burning sensation,Neuropathy,Topical analgesics
+Jerking movements,Muscle stiffness,Uncontrollable movements,Huntington's disease,Tetrabenazine
+Difficulty walking,Mood changes,Memory loss,Huntington's disease,Physical therapy
+Impaired thinking,Depression,Slurred speech,Huntington's disease,Occupational therapy
+Headache,Vomiting,Difficulty balancing,Brain tumor,Surgery
+Seizures,Confusion,Vision loss,Brain tumor,Chemotherapy
+Dizziness,Fatigue,Weakness,Brain tumor,Surgery
+Headache,Blurred vision,Nausea,Brain hemorrhage,Clot removal surgery
+Confusion,Paralysis,Slurred speech,Brain hemorrhage,Blood pressure management
+Vomiting,Loss of balance,Seizures,Brain hemorrhage,Surgery
+Sudden weakness,Slurred speech,Dizziness,TIA,Blood thinners
+Temporary blindness,Numbness,Loss of coordination,TIA,Antiplatelet drugs
+Tingling,Burning sensation,Muscle weakness,Neuropathy,Antidepressants
+Numbness,Pain,Loss of sensation,Neuropathy,Anticonvulsants
+Loss of reflexes,Muscle cramps,Tingling,Neuropathy,Pain relievers
+Tremors,Slurred speech,Slow movement,Parkinson's disease,Levodopa
+Muscle stiffness,Difficulty walking,Loss of balance,Parkinson's disease,MAO-B inhibitors
+Jerking movements,Fatigue,Mood changes,Parkinson's disease,Dopamine agonists
+Dizziness,Fatigue,Blurred vision,Multiple sclerosis,Interferons
+Weakness,Tingling,Vision problems,Multiple sclerosis,Plasma exchange
+Muscle spasms,Numbness,Difficulty walking,Multiple sclerosis,Disease-modifying drugs
+Muscle weakness,Double vision,Slurred speech,Myasthenia gravis,Anticholinesterase drugs
+Fatigue,Drooping eyelids,Difficulty swallowing,Myasthenia gravis,Immunosuppressants
+Muscle fatigue,Weakness,Breathing issues,Myasthenia gravis,Respiratory support
+Seizures,Loss of awareness,Jerking movements,Epilepsy,Sodium valproate
+Temporary confusion,Unusual behavior,Staring spells,Epilepsy,Lamotrigine
+Convulsions,Fear or anxiety,Stiff body,Epilepsy,Antiepileptic drugs
+Sudden headache,Weakness,Numbness,Stroke,Clot-busting drugs
+Loss of coordination,Dizziness,Paralysis,Stroke,Thrombolytics
+Vision loss,Slurred speech,Confusion,Stroke,Surgery
+Weakness,Muscle stiffness,Speech problems,ALS,Riluzole
+Drooping eyelids,Difficulty breathing,Speech issues,ALS,Antispastic drugs
+Difficulty swallowing,Muscle weakness,Slurred speech,ALS,Nutritional support
+Memory loss,Difficulty speaking,Wandering,Alzheimer's disease,Cholinesterase inhibitors
+Disorientation,Forgetfulness,Mood changes,Alzheimer's disease,Memantine
+Confusion,Mood swings,Difficulty concentrating,Alzheimer's disease,Cognitive therapy
+Back pain,Numbness,Weakness in legs,Spinal cord injury,Surgery
+Loss of sensation,Muscle cramps,Tingling in arms,Spinal cord injury,Corticosteroids
+Paralysis,Weakness,Pain,Spinal cord injury,Physical therapy
+Facial paralysis,Dry eye,Loss of taste,Bell's palsy,Corticosteroids
+Drooping eyelids,Weakness,Sensitivity to sound,Bell's palsy,Pain relievers
+Muscle twitching,Facial pain,Drooling,Bell's palsy,Occupational therapy
+Tingling,Pain,Burning sensation,Neuropathy,Antidepressants
+Slurred speech,Jerking movements,Uncontrollable movements,Huntington's disease,Tetrabenazine
+Difficulty walking,Depression,Mood changes,Huntington's disease,Antipsychotics
+Memory loss,Impaired thinking,Slurred speech,Huntington's disease,Occupational therapy
+Headache,Dizziness,Vomiting,Brain tumor,Surgery
+Vision loss,Seizures,Confusion,Brain tumor,Chemotherapy
+Loss of balance,Fatigue,Weakness,Brain tumor,Surgery
+Severe headache,Nausea,Blurred vision,Brain hemorrhage,Clot removal surgery
+Confusion,Paralysis,Vomiting,Brain hemorrhage,Pain relievers
+Sudden weakness,Dizziness,Slurred speech,TIA,Blood thinners
+Temporary blindness,Numbness,Coordination loss,TIA,Antiplatelet drugs
+Headache,Nausea,Vomiting,Migraine,Pain relievers
+Headache,Nausea,Vomiting,Migraine,Pain relievers
+Headache,Nausea,Vomiting,Migraine,Pain relievers
+Headache,Dizziness,Fatigue,Parkinson's disease,Levodopa
+Headache,Dizziness,Fatigue,Parkinson's disease,Levodopa
+Dizziness,Nausea,Vomiting,Stroke,Clot-busting drugs
+Dizziness,Nausea,Vomiting,Stroke,Clot-busting drugs
+Headache,Memory loss,Dizziness,Alzheimerâ€™s disease,Cholinesterase inhibitors
+Headache,Memory loss,Dizziness,Alzheimerâ€™s disease,Cholinesterase inhibitors
+Weakness,Numbness,Tingling,Multiple sclerosis,Disease-modifying drugs
