@@ -1,110 +1,110 @@
-Symptom,Symptom,Symptom,Disease,Treatment
-Dry Skin,Scaly Skin,Flaky Skin,Psoriasis,Topical Steroids
-Red Patches,Itchy Skin,Burning Sensation,Psoriasis,Topical Steroids
-Thickened Skin,White Patches,Red Cracks,Psoriasis,Topical Steroids
-Itchy Skin,Red Rash,Inflamed Skin,Eczema,Hydrocortisone Cream
-Cracked Skin,Bleeding Skin,Painful Touch,Eczema,Hydrocortisone Cream
-Blistered Skin,Oozing Fluid,Red Edges,Eczema,Hydrocortisone Cream
-Painful Blisters,Redness,Tingling Skin,Shingles,Antiviral Medications
-Fluid-Filled Blisters,Burning Pain,Shooting Sensation,Shingles,Antiviral Medications
-Red Patches,Itchy Scalp,Painful Bumps,Seborrheic Dermatitis,Anti-Dandruff Shampoo
-Flaky Scalp,Oily Scalp,Yellow Crust,Seborrheic Dermatitis,Anti-Dandruff Shampoo
-Redness,Swollen Skin,Warm to Touch,Cellulitis,Antibiotics
-Red Streaks,Swelling,Tenderness,Cellulitis,Antibiotics
-Yellow Skin,Fatigue,Dark Urine,Jaundice,Treat Underlying Cause
-Pale Skin,Easy Bruising,Cold Sensitivity,Anemia,Iron Supplements
-Brittle Nails,Hair Loss,Weakness,Anemia,Iron Supplements
-Peeling Skin,Red Cracks,Painful Fingers,Hand Dermatitis,Moisturizers
-Red Rash,Itchy Skin,Raised Bumps,Hand Dermatitis,Moisturizers
-Small Red Bumps,Pus-Filled Pustules,Severe Itching,Heat Rash,Cool Compress
-Red Blotches,Hives,Itching,Urticaria,Antihistamines
-Blistering Skin,Swollen Lips,Itchy Throat,Urticaria,Antihistamines
-Circular Rash,Scaly Edges,Red Spots,Ringworm,Topical Antifungal
-Cracked Skin,Peeling Skin,Thickened Plaques,Ringworm,Topical Antifungal
-Rash in Groin,Scaly Red Skin,Itchy Blisters,Jock Itch,Antifungal Cream
-Burning Sensation,Dry Cracks,Painful Rash,Jock Itch,Antifungal Cream
-Scaly Scalp,White Patches,Hair Loss,Tinea Capitis,Oral Antifungals
-Itchy Scalp,Crusty Scalp,Red Sores,Tinea Capitis,Oral Antifungals
-Red Spots,Scaling Skin,Lesions,Athlete's Foot,Antifungal Powder
-Itching,Cracking Between Toes,Burning Sensation,Athlete's Foot,Antifungal Powder
-Red Rash,Oozing Blisters,Painful Touch,Contact Dermatitis,Avoid Allergen
-Swelling,Dry Cracks,Burning Itch,Contact Dermatitis,Avoid Allergen
-Painful Ulcers,Red Sores,Swollen Gums,Oral Thrush,Antifungal Mouthwash
-White Coating,Difficulty Swallowing,Burning Tongue,Oral Thrush,Antifungal Mouthwash
-Dry Lips,Painful Cracks,Red Sores,Angular Cheilitis,Antifungal Ointment
-Crusty Patches,Itchy Red Corners,Burning Sensation,Angular Cheilitis,Antifungal Ointment
-Red Rash,Itchy Skin,Swollen Skin,Eczema,Hydrocortisone Cream
-Dry Skin,Cracked Skin,Itchy Skin,Eczema,Moisturizing Lotion
-Blisters,Red Skin,Itchy Skin,Contact Dermatitis,Antihistamine Cream
-Yellow Skin,Dry Skin,Itchy Skin,Jaundice,Treat Underlying Cause
-Flaky Skin,Redness,Itchy Skin,Psoriasis,Steroid Cream
-Red Rash,Painful Skin,Flaking,Psoriasis,Steroid Cream
-Swollen Skin,Itchy Skin,Redness,Dermatitis,Hydrocortisone Cream
-Dry Skin,Cracked Skin,Itchy Skin,Xerosis,Moisturizing Lotion
-Scaly Skin,Red Rash,Itchy Skin,Seborrheic Dermatitis,Medicated Shampoo
-Dark Skin Patches,Dry Skin,Itchy Skin,Vitiligo,Topical Steroids
-Skin Ulcers,Red Skin,Itching,Pressure Ulcers,Wound Care
-Skin Rash,Itchy Skin,Blisters,Chickenpox,Antiviral Medications
-Red Bumps,Itchy Skin,Painful Skin,Hives,Antihistamine Cream
-Flaky Skin,Itchy Skin,Red Rash,Eczema,Steroid Cream
-Painful Skin,Red Skin,Burning Sensation,Sunburn,Aloe Vera Gel
-Dry Skin,Cracked Skin,Itchy Skin,Ichthyosis,Moisturizing Lotion
-Itchy Skin,Red Rash,Painful Skin,Allergic Dermatitis,Antihistamine Cream
-Yellow Skin,Itchy Skin,Dark Urine,Jaundice,Treat Underlying Cause
-Swollen Legs,Red Skin,Itchy Skin,Cellulitis,Antibiotics
-Red Rash,Itchy Skin,Swelling,Heat Rash,Cool Compress
-Swollen Skin,Red Bumps,Itchy Skin,Insect Bite,Antihistamine Cream
-Rash,Itchy Skin,Bumps,Insect Bite,Antihistamine Cream
-Red Spots,Itchy Skin,Swelling,Hives,Antihistamine Cream
-Painful Skin,Blisters,Red Skin,Impetigo,Topical Antibiotics
-Blisters,Painful Skin,Yellow Crust,Impetigo,Topical Antibiotics
-Flaky Skin,Itchy Skin,Redness,Psoriasis,Steroid Cream
-Swelling,Painful Skin,Redness,Cellulitis,Antibiotics
-Blisters,Painful Skin,Swollen Skin,Chickenpox,Antiviral Medications
-Cracked Skin,Itchy Skin,Dry Skin,Eczema,Hydrocortisone Cream
-Yellow Skin,Dark Urine,Itchy Skin,Jaundice,Treat Underlying Cause
-Dry Skin,Cracked Skin,Redness,Dermatitis,Moisturizing Lotion
-Red Rash,Swollen Skin,Painful Skin,Contact Dermatitis,Antihistamine Cream
-Itchy Skin,Red Skin,Swelling,Heat Rash,Cool Compress
-Dry Skin,Red Rash,Itchy Skin,Atopic Dermatitis,Hydrocortisone Cream
-Skin Ulcers,Red Rash,Painful Skin,Pressure Ulcers,Wound Care
-Itchy Skin,Swollen Skin,Redness,Allergic Dermatitis,Antihistamine Cream
-Flaky Skin,Redness,Dry Skin,Psoriasis,Steroid Cream
-Dry Skin,Swollen Skin,Itchy Skin,Xerosis,Moisturizing Lotion
-Itchy Skin,Red Rash,Skin Flaking,Seborrheic Dermatitis,Medicated Shampoo
-Painful Skin,Red Rash,Blisters,Contact Dermatitis,Antihistamine Cream
-Yellow Skin,Swollen Skin,Itchy Skin,Jaundice,Treat Underlying Cause
-Red Bumps,Itchy Skin,Burning Sensation,Heat Rash,Cool Compress
-Skin Rash,Painful Skin,Blisters,Chickenpox,Antiviral Medications
-Dry Skin,Itchy Skin,Cracked Skin,Eczema,Moisturizing Lotion
-Red Skin,Itchy Skin,Flaky Skin,Psoriasis,Steroid Cream
-Swollen Skin,Painful Skin,Redness,Cellulitis,Antibiotics
-Swollen Skin,Itchy Skin,Redness,Dermatitis,Hydrocortisone Cream
-Painful Skin,Red Rash,Swelling,Hives,Antihistamine Cream
-Flaky Skin,Itchy Skin,Painful Skin,Eczema,Steroid Cream
-Red Rash,Swollen Skin,Itchy Skin,Contact Dermatitis,Antihistamine Cream
-Swollen Legs,Painful Skin,Itchy Skin,Cellulitis,Antibiotics
-Cracked Skin,Itchy Skin,Dry Skin,Xerosis,Moisturizing Lotion
-Painful Skin,Red Skin,Blisters,Impetigo,Topical Antibiotics
-Red Bumps,Itchy Skin,Painful Skin,Hives,Antihistamine Cream
-Blisters,Itchy Skin,Painful Skin,Impetigo,Topical Antibiotics
-Dry Skin,Flaky Skin,Itchy Skin,Eczema,Hydrocortisone Cream
-Itchy Skin,Red Skin,Swollen Skin,Allergic Dermatitis,Antihistamine Cream
-Blisters,Painful Skin,Red Skin,Impetigo,Topical Antibiotics
-Red Rash,Painful Skin,Swelling,Heat Rash,Cool Compress
-Red Spots,Itchy Skin,Swelling,Hives,Antihistamine Cream
-Yellow Skin,Itchy Skin,Dark Urine,Jaundice,Treat Underlying Cause
-Cracked Skin,Itchy Skin,Dry Skin,Xerosis,Moisturizing Lotion
-Red Rash,Itchy Skin,Blisters,Contact Dermatitis,Antihistamine Cream
-Painful Skin,Blisters,Itchy Skin,Chickenpox,Antiviral Medications
-Yellow Patches,Itchy Skin,Red Skin,Vitiligo,Topical Steroids
-Red Rash,Swelling,Itchy Skin,Dermatitis,Hydrocortisone Cream
-Painful Skin,Cracked Skin,Redness,Sunburn,Aloe Vera Gel
-Flaky Skin,Red Rash,Itchy Skin,Psoriasis,Steroid Cream
-Dry Skin,Blisters,Itchy Skin,Allergic Dermatitis,Antihistamine Cream
-Red Rash,Swollen Skin,Painful Skin,Eczema,Hydrocortisone Cream
-Swollen Skin,Red Spots,Itchy Skin,Cellulitis,Antibiotics
-Itchy Skin,Painful Skin,Redness,Contact Dermatitis,Antihistamine Cream
-Blisters,Red Rash,Swollen Skin,Herpes Simplex,Antiviral Medications
-Dry Skin,Red Rash,Itchy Skin,Eczema,Hydrocortisone Cream
-Red Rash,Itchy Skin,Painful Skin,Dermatitis,Antihistamine Cream
+Symptom;Symptom;Symptom;Disease;Treatment
+Dry Skin;Scaly Skin;Flaky Skin;Psoriasis;Topical Steroids
+Dry Skin;Scaly Skin;Flaky Skin;Psoriasis;Topical Steroids
+Red Patches;Itchy Skin;Burning Sensation;Psoriasis;Topical Steroids
+Red Patches;Itchy Skin;Burning Sensation;Psoriasis;Topical Steroids
+Thickened Skin;White Patches;Red Cracks;Psoriasis;Topical Steroids
+Thickened Skin;White Patches;Red Cracks;Psoriasis;Topical Steroids
+Itchy Skin;Red Rash;Inflamed Skin;Eczema;Hydrocortisone Cream
+Itchy Skin;Red Rash;Inflamed Skin;Eczema;Hydrocortisone Cream
+Cracked Skin;Bleeding Skin;Painful Touch;Eczema;Hydrocortisone Cream
+Cracked Skin;Bleeding Skin;Painful Touch;Eczema;Hydrocortisone Cream
+Painful Blisters;Redness;Tingling Skin;Shingles;Antiviral Medications
+Painful Blisters;Redness;Tingling Skin;Shingles;Antiviral Medications
+Fluid-Filled Blisters;Burning Pain;Shooting Sensation;Shingles;Antiviral Medications
+Fluid-Filled Blisters;Burning Pain;Shooting Sensation;Shingles;Antiviral Medications
+Red Patches;Itchy Scalp;Painful Bumps;Seborrheic Dermatitis;Anti-Dandruff Shampoo
+Red Patches;Itchy Scalp;Painful Bumps;Seborrheic Dermatitis;Anti-Dandruff Shampoo
+Flaky Scalp;Oily Scalp;Yellow Crust;Seborrheic Dermatitis;Anti-Dandruff Shampoo
+Flaky Scalp;Oily Scalp;Yellow Crust;Seborrheic Dermatitis;Anti-Dandruff Shampoo
+Redness;Swollen Skin;Warm to Touch;Cellulitis;Antibiotics
+Redness;Swollen Skin;Warm to Touch;Cellulitis;Antibiotics
+Yellow Skin;Fatigue;Dark Urine;Jaundice;Treat Underlying Cause
+Yellow Skin;Fatigue;Dark Urine;Jaundice;Treat Underlying Cause
+Pale Skin;Easy Bruising;Cold Sensitivity;Anemia;Iron Supplements
+Pale Skin;Easy Bruising;Cold Sensitivity;Anemia;Iron Supplements
+Brittle Nails;Hair Loss;Weakness;Anemia;Iron Supplements
+Brittle Nails;Hair Loss;Weakness;Anemia;Iron Supplements
+Peeling Skin;Red Cracks;Painful Fingers;Hand Dermatitis;Moisturizers
+Peeling Skin;Red Cracks;Painful Fingers;Hand Dermatitis;Moisturizers
+Small Red Bumps;Pus-Filled Pustules;Severe Itching;Heat Rash;Cool Compress
+Small Red Bumps;Pus-Filled Pustules;Severe Itching;Heat Rash;Cool Compress
+Red Blotches;Hives;Itching;Urticaria;Antihistamines
+Red Blotches;Hives;Itching;Urticaria;Antihistamines
+Blistering Skin;Swollen Lips;Itchy Throat;Urticaria;Antihistamines
+Blistering Skin;Swollen Lips;Itchy Throat;Urticaria;Antihistamines
+Red Rash;Itchy Skin;Swollen Skin;Eczema;Hydrocortisone Cream
+Dry Skin;Cracked Skin;Itchy Skin;Eczema;Moisturizing Lotion
+Blisters;Red Skin;Itchy Skin;Contact Dermatitis;Antihistamine Cream
+Yellow Skin;Dry Skin;Itchy Skin;Jaundice;Treat Underlying Cause
+Flaky Skin;Redness;Itchy Skin;Psoriasis;Steroid Cream
+Red Rash;Painful Skin;Flaking;Psoriasis;Steroid Cream
+Swollen Skin;Itchy Skin;Redness;Dermatitis;Hydrocortisone Cream
+Dry Skin;Cracked Skin;Itchy Skin;Xerosis;Moisturizing Lotion
+Scaly Skin;Red Rash;Itchy Skin;Seborrheic Dermatitis;Medicated Shampoo
+Dark Skin Patches;Dry Skin;Itchy Skin;Vitiligo;Topical Steroids
+Skin Ulcers;Red Skin;Itching;Pressure Ulcers;Wound Care
+Skin Rash;Itchy Skin;Blisters;Chickenpox;Antiviral Medications
+Red Bumps;Itchy Skin;Painful Skin;Hives;Antihistamine Cream
+Flaky Skin;Itchy Skin;Red Rash;Eczema;Steroid Cream
+Painful Skin;Red Skin;Burning Sensation;Sunburn;Aloe Vera Gel
+Dry Skin;Cracked Skin;Itchy Skin;Ichthyosis;Moisturizing Lotion
+Itchy Skin;Red Rash;Painful Skin;Allergic Dermatitis;Antihistamine Cream
+Yellow Skin;Itchy Skin;Dark Urine;Jaundice;Treat Underlying Cause
+Swollen Legs;Red Skin;Itchy Skin;Cellulitis;Antibiotics
+Red Rash;Itchy Skin;Swelling;Heat Rash;Cool Compress
+Swollen Skin;Red Bumps;Itchy Skin;Insect Bite;Antihistamine Cream
+Rash;Itchy Skin;Bumps;Insect Bite;Antihistamine Cream
+Red Spots;Itchy Skin;Swelling;Hives;Antihistamine Cream
+Painful Skin;Blisters;Red Skin;Impetigo;Topical Antibiotics
+Blisters;Painful Skin;Yellow Crust;Impetigo;Topical Antibiotics
+Flaky Skin;Itchy Skin;Redness;Psoriasis;Steroid Cream
+Swelling;Painful Skin;Redness;Cellulitis;Antibiotics
+Blisters;Painful Skin;Swollen Skin;Chickenpox;Antiviral Medications
+Cracked Skin;Itchy Skin;Dry Skin;Eczema;Hydrocortisone Cream
+Yellow Skin;Dark Urine;Itchy Skin;Jaundice;Treat Underlying Cause
+Dry Skin;Cracked Skin;Redness;Dermatitis;Moisturizing Lotion
+Red Rash;Swollen Skin;Painful Skin;Contact Dermatitis;Antihistamine Cream
+Itchy Skin;Red Skin;Swelling;Heat Rash;Cool Compress
+Dry Skin;Red Rash;Itchy Skin;Atopic Dermatitis;Hydrocortisone Cream
+Skin Ulcers;Red Rash;Painful Skin;Pressure Ulcers;Wound Care
+Itchy Skin;Swollen Skin;Redness;Allergic Dermatitis;Antihistamine Cream
+Flaky Skin;Redness;Dry Skin;Psoriasis;Steroid Cream
+Dry Skin;Swollen Skin;Itchy Skin;Xerosis;Moisturizing Lotion
+Itchy Skin;Red Rash;Skin Flaking;Seborrheic Dermatitis;Medicated Shampoo
+Painful Skin;Red Rash;Blisters;Contact Dermatitis;Antihistamine Cream
+Yellow Skin;Swollen Skin;Itchy Skin;Jaundice;Treat Underlying Cause
+Red Bumps;Itchy Skin;Burning Sensation;Heat Rash;Cool Compress
+Skin Rash;Painful Skin;Blisters;Chickenpox;Antiviral Medications
+Dry Skin;Itchy Skin;Cracked Skin;Eczema;Moisturizing Lotion
+Red Skin;Itchy Skin;Flaky Skin;Psoriasis;Steroid Cream
+Swollen Skin;Painful Skin;Redness;Cellulitis;Antibiotics
+Swollen Skin;Itchy Skin;Redness;Dermatitis;Hydrocortisone Cream
+Painful Skin;Red Rash;Swelling;Hives;Antihistamine Cream
+Flaky Skin;Itchy Skin;Painful Skin;Eczema;Steroid Cream
+Red Rash;Swollen Skin;Itchy Skin;Contact Dermatitis;Antihistamine Cream
+Swollen Legs;Painful Skin;Itchy Skin;Cellulitis;Antibiotics
+Cracked Skin;Itchy Skin;Dry Skin;Xerosis;Moisturizing Lotion
+Painful Skin;Red Skin;Blisters;Impetigo;Topical Antibiotics
+Red Bumps;Itchy Skin;Painful Skin;Hives;Antihistamine Cream
+Blisters;Itchy Skin;Painful Skin;Impetigo;Topical Antibiotics
+Dry Skin;Flaky Skin;Itchy Skin;Eczema;Hydrocortisone Cream
+Itchy Skin;Red Skin;Swollen Skin;Allergic Dermatitis;Antihistamine Cream
+Blisters;Painful Skin;Red Skin;Impetigo;Topical Antibiotics
+Red Rash;Painful Skin;Swelling;Heat Rash;Cool Compress
+Red Spots;Itchy Skin;Swelling;Hives;Antihistamine Cream
+Yellow Skin;Itchy Skin;Dark Urine;Jaundice;Treat Underlying Cause
+Cracked Skin;Itchy Skin;Dry Skin;Xerosis;Moisturizing Lotion
+Red Rash;Itchy Skin;Blisters;Contact Dermatitis;Antihistamine Cream
+Painful Skin;Blisters;Itchy Skin;Chickenpox;Antiviral Medications
+Yellow Patches;Itchy Skin;Red Skin;Vitiligo;Topical Steroids
+Red Rash;Swelling;Itchy Skin;Dermatitis;Hydrocortisone Cream
+Painful Skin;Cracked Skin;Redness;Sunburn;Aloe Vera Gel
+Flaky Skin;Red Rash;Itchy Skin;Psoriasis;Steroid Cream
+Dry Skin;Blisters;Itchy Skin;Allergic Dermatitis;Antihistamine Cream
+Red Rash;Swollen Skin;Painful Skin;Eczema;Hydrocortisone Cream
+Swollen Skin;Red Spots;Itchy Skin;Cellulitis;Antibiotics
+Itchy Skin;Painful Skin;Redness;Contact Dermatitis;Antihistamine Cream
+Blisters;Red Rash;Swollen Skin;Herpes Simplex;Antiviral Medications
+Dry Skin;Red Rash;Itchy Skin;Eczema;Hydrocortisone Cream
+Red Rash;Itchy Skin;Painful Skin;Dermatitis;Antihistamine Cream
