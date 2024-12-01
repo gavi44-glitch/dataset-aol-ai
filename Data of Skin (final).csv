@@ -1,113 +1,113 @@
-Symptom ;Symptom ;Symptom;Disease;Treatment;Treatment
-redness;itching;dry skin;eczema;topical corticosteroids;moisturizers
-dry skin;cracking;itching;eczema;topical corticosteroids;hydrating lotions
-itching;swelling;redness;eczema;anti-itch creams;avoid allergens
-blisters;itching;red rash;poison ivy;calamine lotion;antihistamines
-red rash;blisters;itching;poison ivy;hydrocortisone cream;oral steroids
-itching;redness;swelling;poison ivy;anti-itch creams;cold compress
-red bumps;itching;swelling;hives;antihistamines;avoid triggers
-swelling;redness;rash;hives;antihistamines;ice packs
-rash;itching;redness;hives;topical steroids;antihistamines
-flaky skin;dryness;cracking;psoriasis;topical corticosteroids;vitamin d ointments
-red patches;itching;flaky skin;psoriasis;light therapy;moisturizers
-thickened skin;silver scales;redness;psoriasis;topical steroids;moisturizers
-scaly skin;inflammation;dryness;psoriasis;methotrexate;uvb therapy
-small pimples;redness;itching;acne;benzoyl peroxide;retinoids
-blackheads;pimples;red spots;acne;salicylic acid;oral antibiotics
-red spots;pimples;whiteheads;acne;benzoyl peroxide;topical antibiotics
-white spots;itching;scaly skin;ringworm;antifungal cream;oral antifungals
-red  itchy rash;blisters;scaling;ringworm;antifungal cream;topical steroids
-dry skin;red patches;cracking;eczema;moisturizers;topical corticosteroids
-pimples;redness;scaly patches;acne;benzoyl peroxide;topical antibiotics
-red rash;itching;blisters;poison ivy;calamine lotion;hydrocortisone cream
-dry  flaky skin;cracks;itching;psoriasis;light therapy;methotrexate
-itching;redness;scaling;hives;antihistamines;ice packs
-blisters;itching;swelling;poison ivy;calamine lotion;antihistamines
-red patches;itching;cracked skin;psoriasis;topical corticosteroids;uvb therapy
-swelling;itching;rash;hives;topical steroids;antihistamines
-dry skin;peeling;redness;eczema;topical corticosteroids;moisturizers
-small pimples;blackheads;redness;acne;benzoyl peroxide;topical antibiotics
-cracked skin;itching;redness;eczema;topical corticosteroids;hydrating lotions
-itching;redness;dry patches;poison ivy;calamine lotion;antihistamines
-blisters;red rash;swelling;poison ivy;hydrocortisone cream;oral steroids
-dry skin;cracking;itching;psoriasis;topical steroids;moisturizers
-rash;itching;redness;hives;topical steroids;antihistamines
-blisters;redness;itching;poison ivy;calamine lotion;hydrocortisone cream
-dry patches;itching;cracking;eczema;topical corticosteroids;moisturizers
-pimples;redness;itchy bumps;acne;benzoyl peroxide;oral antibiotics
-itching;redness;peeling;poison ivy;anti-itch creams;cold compress
-rash;swelling;itching;hives;antihistamines;ice packs
-red rash;pimples;cracking;acne;salicylic acid;topical antibiotics
-red bumps;itching;scaly skin;eczema;topical corticosteroids;hydrating lotions
-blisters;redness;dry skin;poison ivy;hydrocortisone cream;calamine lotion
-swelling;rash;itching;hives;antihistamines;ice packs
-red patches;flaky skin;cracks;psoriasis;light therapy;methotrexate
-dry skin;peeling;cracking;psoriasis;topical steroids;moisturizers
-swelling;itching;redness;poison ivy;calamine lotion;antihistamines
-red rash;itching;swelling;poison ivy;hydrocortisone cream;antihistamines
-blackheads;pimples;swelling;acne;benzoyl peroxide;topical antibiotics
-cracked skin;itching;redness;eczema;topical corticosteroids;moisturizers
-dry skin;red patches;itching;eczema;topical corticosteroids;moisturizers
-itching;redness;peeling;hives;antihistamines;ice packs
-rash;pimples;swelling;acne;benzoyl peroxide;retinoids
-dry skin;cracking;redness;eczema;hydrating lotions;topical steroids
-blisters;swelling;itching;poison ivy;calamine lotion;antihistamines
-small pimples;red spots;blackheads;acne;salicylic acid;topical antibiotics
-itchy skin;redness;swelling;eczema;moisturizers;topical corticosteroids
-swelling;rash;itching;hives;topical steroids;antihistamines
-redness;itching;dry skin;eczema;topical corticosteroids;moisturizers
-dry skin;cracking;itching;eczema;topical corticosteroids;hydrating lotions
-itching;swelling;redness;eczema;anti-itch creams;avoid allergens
-blisters;itching;red rash;poison ivy;calamine lotion;antihistamines
-red rash;blisters;itching;poison ivy;hydrocortisone cream;oral steroids
-itching;redness;swelling;poison ivy;anti-itch creams;cold compress
-red bumps;itching;swelling;hives;antihistamines;avoid triggers
-swelling;redness;rash;hives;antihistamines;ice packs
-rash;itching;redness;hives;topical steroids;antihistamines
-flaky skin;dryness;cracking;psoriasis;topical corticosteroids;vitamin d ointments
-red patches;itching;flaky skin;psoriasis;light therapy;moisturizers
-thickened skin;silver scales;redness;psoriasis;topical steroids;moisturizers
-scaly skin;inflammation;dryness;psoriasis;methotrexate;uvb therapy
-small pimples;redness;itching;acne;benzoyl peroxide;retinoids
-blackheads;pimples;red spots;acne;salicylic acid;oral antibiotics
-red spots;pimples;whiteheads;acne;benzoyl peroxide;topical antibiotics
-white spots;itching;scaly skin;ringworm;antifungal cream;oral antifungals
-red  itchy rash;blisters;scaling;ringworm;antifungal cream;topical steroids
-dry skin;red patches;cracking;eczema;moisturizers;topical corticosteroids
-pimples;redness;scaly patches;acne;benzoyl peroxide;topical antibiotics
-red rash;itching;blisters;poison ivy;calamine lotion;hydrocortisone cream
-dry skin;cracks;itching;psoriasis;light therapy;methotrexate
-itching;redness;scaling;hives;antihistamines;ice packs
-blisters;itching;swelling;poison ivy;calamine lotion;antihistamines
-red patches;itching;cracked skin;psoriasis;topical corticosteroids;uvb therapy
-swelling;itching;rash;hives;topical steroids;antihistamines
-dry skin;peeling;redness;eczema;topical corticosteroids;moisturizers
-small pimples;blackheads;redness;acne;benzoyl peroxide;topical antibiotics
-cracked skin;itching;redness;eczema;topical corticosteroids;hydrating lotions
-itching;redness;dry patches;poison ivy;calamine lotion;antihistamines
-blisters;red rash;swelling;poison ivy;hydrocortisone cream;oral steroids
-dry skin;cracking;itching;psoriasis;topical steroids;moisturizers
-rash;itching;redness;hives;topical steroids;antihistamines
-blisters;redness;itching;poison ivy;calamine lotion;hydrocortisone cream
-dry patches;itching;cracking;eczema;topical corticosteroids;moisturizers
-pimples;redness;itchy bumps;acne;benzoyl peroxide;oral antibiotics
-itching;redness;peeling;poison ivy;anti-itch creams;cold compress
-rash;swelling;itching;hives;antihistamines;ice packs
-red rash;pimples;cracking;acne;salicylic acid;topical antibiotics
-red bumps;itching;scaly skin;eczema;topical corticosteroids;hydrating lotions
-blisters;redness;dry skin;poison ivy;hydrocortisone cream;calamine lotion
-swelling;rash;itching;hives;antihistamines;ice packs
-red patches;flaky skin;cracks;psoriasis;light therapy;methotrexate
-dry skin;peeling;cracking;psoriasis;topical steroids;moisturizers
-swelling;itching;redness;poison ivy;calamine lotion;antihistamines
-red rash;itching;swelling;poison ivy;hydrocortisone cream;antihistamines
-blackheads;pimples;swelling;acne;benzoyl peroxide;topical antibiotics
-cracked skin;itching;redness;eczema;topical corticosteroids;moisturizers
-dry skin;red patches;itching;eczema;topical corticosteroids;moisturizers
-itching;redness;peeling;hives;antihistamines;ice packs
-rash;pimples;swelling;acne;benzoyl peroxide;retinoids
-dry skin;cracking;redness;eczema;hydrating lotions;topical steroids
-blisters;swelling;itching;poison ivy;calamine lotion;antihistamines
-small pimples;red spots;blackheads;acne;salicylic acid;topical antibiotics
-itchy skin;redness;swelling;eczema;moisturizers;topical corticosteroids
-swelling;rash;itching;hives;topical steroids;antihistamines
+Symptom,Symptom,Symptom,Disease,Treatment,Treatment
+redness,itching,dry skin,eczema,topical corticosteroids,moisturizers
+dry skin,cracking,itching,eczema,topical corticosteroids,hydrating lotions
+itching,swelling,redness,eczema,anti-itch creams,avoid allergens
+blisters,itching,red rash,poison ivy,calamine lotion,antihistamines
+red rash,blisters,itching,poison ivy,hydrocortisone cream,oral steroids
+itching,redness,swelling,poison ivy,anti-itch creams,cold compress
+red bumps,itching,swelling,hives,antihistamines,avoid triggers
+swelling,redness,rash,hives,antihistamines,ice packs
+rash,itching,redness,hives,topical steroids,antihistamines
+flaky skin,dryness,cracking,psoriasis,topical corticosteroids,vitamin d ointments
+red patches,itching,flaky skin,psoriasis,light therapy,moisturizers
+thickened skin,silver scales,redness,psoriasis,topical steroids,moisturizers
+scaly skin,inflammation,dryness,psoriasis,methotrexate,uvb therapy
+small pimples,redness,itching,acne,benzoyl peroxide,retinoids
+blackheads,pimples,red spots,acne,salicylic acid,oral antibiotics
+red spots,pimples,whiteheads,acne,benzoyl peroxide,topical antibiotics
+white spots,itching,scaly skin,ringworm,antifungal cream,oral antifungals
+red  itchy rash,blisters,scaling,ringworm,antifungal cream,topical steroids
+dry skin,red patches,cracking,eczema,moisturizers,topical corticosteroids
+pimples,redness,scaly patches,acne,benzoyl peroxide,topical antibiotics
+red rash,itching,blisters,poison ivy,calamine lotion,hydrocortisone cream
+dry  flaky skin,cracks,itching,psoriasis,light therapy,methotrexate
+itching,redness,scaling,hives,antihistamines,ice packs
+blisters,itching,swelling,poison ivy,calamine lotion,antihistamines
+red patches,itching,cracked skin,psoriasis,topical corticosteroids,uvb therapy
+swelling,itching,rash,hives,topical steroids,antihistamines
+dry skin,peeling,redness,eczema,topical corticosteroids,moisturizers
+small pimples,blackheads,redness,acne,benzoyl peroxide,topical antibiotics
+cracked skin,itching,redness,eczema,topical corticosteroids,hydrating lotions
+itching,redness,dry patches,poison ivy,calamine lotion,antihistamines
+blisters,red rash,swelling,poison ivy,hydrocortisone cream,oral steroids
+dry skin,cracking,itching,psoriasis,topical steroids,moisturizers
+rash,itching,redness,hives,topical steroids,antihistamines
+blisters,redness,itching,poison ivy,calamine lotion,hydrocortisone cream
+dry patches,itching,cracking,eczema,topical corticosteroids,moisturizers
+pimples,redness,itchy bumps,acne,benzoyl peroxide,oral antibiotics
+itching,redness,peeling,poison ivy,anti-itch creams,cold compress
+rash,swelling,itching,hives,antihistamines,ice packs
+red rash,pimples,cracking,acne,salicylic acid,topical antibiotics
+red bumps,itching,scaly skin,eczema,topical corticosteroids,hydrating lotions
+blisters,redness,dry skin,poison ivy,hydrocortisone cream,calamine lotion
+swelling,rash,itching,hives,antihistamines,ice packs
+red patches,flaky skin,cracks,psoriasis,light therapy,methotrexate
+dry skin,peeling,cracking,psoriasis,topical steroids,moisturizers
+swelling,itching,redness,poison ivy,calamine lotion,antihistamines
+red rash,itching,swelling,poison ivy,hydrocortisone cream,antihistamines
+blackheads,pimples,swelling,acne,benzoyl peroxide,topical antibiotics
+cracked skin,itching,redness,eczema,topical corticosteroids,moisturizers
+dry skin,red patches,itching,eczema,topical corticosteroids,moisturizers
+itching,redness,peeling,hives,antihistamines,ice packs
+rash,pimples,swelling,acne,benzoyl peroxide,retinoids
+dry skin,cracking,redness,eczema,hydrating lotions,topical steroids
+blisters,swelling,itching,poison ivy,calamine lotion,antihistamines
+small pimples,red spots,blackheads,acne,salicylic acid,topical antibiotics
+itchy skin,redness,swelling,eczema,moisturizers,topical corticosteroids
+swelling,rash,itching,hives,topical steroids,antihistamines
+redness,itching,dry skin,eczema,topical corticosteroids,moisturizers
+dry skin,cracking,itching,eczema,topical corticosteroids,hydrating lotions
+itching,swelling,redness,eczema,anti-itch creams,avoid allergens
+blisters,itching,red rash,poison ivy,calamine lotion,antihistamines
+red rash,blisters,itching,poison ivy,hydrocortisone cream,oral steroids
+itching,redness,swelling,poison ivy,anti-itch creams,cold compress
+red bumps,itching,swelling,hives,antihistamines,avoid triggers
+swelling,redness,rash,hives,antihistamines,ice packs
+rash,itching,redness,hives,topical steroids,antihistamines
+flaky skin,dryness,cracking,psoriasis,topical corticosteroids,vitamin d ointments
+red patches,itching,flaky skin,psoriasis,light therapy,moisturizers
+thickened skin,silver scales,redness,psoriasis,topical steroids,moisturizers
+scaly skin,inflammation,dryness,psoriasis,methotrexate,uvb therapy
+small pimples,redness,itching,acne,benzoyl peroxide,retinoids
+blackheads,pimples,red spots,acne,salicylic acid,oral antibiotics
+red spots,pimples,whiteheads,acne,benzoyl peroxide,topical antibiotics
+white spots,itching,scaly skin,ringworm,antifungal cream,oral antifungals
+red  itchy rash,blisters,scaling,ringworm,antifungal cream,topical steroids
+dry skin,red patches,cracking,eczema,moisturizers,topical corticosteroids
+pimples,redness,scaly patches,acne,benzoyl peroxide,topical antibiotics
+red rash,itching,blisters,poison ivy,calamine lotion,hydrocortisone cream
+dry skin,cracks,itching,psoriasis,light therapy,methotrexate
+itching,redness,scaling,hives,antihistamines,ice packs
+blisters,itching,swelling,poison ivy,calamine lotion,antihistamines
+red patches,itching,cracked skin,psoriasis,topical corticosteroids,uvb therapy
+swelling,itching,rash,hives,topical steroids,antihistamines
+dry skin,peeling,redness,eczema,topical corticosteroids,moisturizers
+small pimples,blackheads,redness,acne,benzoyl peroxide,topical antibiotics
+cracked skin,itching,redness,eczema,topical corticosteroids,hydrating lotions
+itching,redness,dry patches,poison ivy,calamine lotion,antihistamines
+blisters,red rash,swelling,poison ivy,hydrocortisone cream,oral steroids
+dry skin,cracking,itching,psoriasis,topical steroids,moisturizers
+rash,itching,redness,hives,topical steroids,antihistamines
+blisters,redness,itching,poison ivy,calamine lotion,hydrocortisone cream
+dry patches,itching,cracking,eczema,topical corticosteroids,moisturizers
+pimples,redness,itchy bumps,acne,benzoyl peroxide,oral antibiotics
+itching,redness,peeling,poison ivy,anti-itch creams,cold compress
+rash,swelling,itching,hives,antihistamines,ice packs
+red rash,pimples,cracking,acne,salicylic acid,topical antibiotics
+red bumps,itching,scaly skin,eczema,topical corticosteroids,hydrating lotions
+blisters,redness,dry skin,poison ivy,hydrocortisone cream,calamine lotion
+swelling,rash,itching,hives,antihistamines,ice packs
+red patches,flaky skin,cracks,psoriasis,light therapy,methotrexate
+dry skin,peeling,cracking,psoriasis,topical steroids,moisturizers
+swelling,itching,redness,poison ivy,calamine lotion,antihistamines
+red rash,itching,swelling,poison ivy,hydrocortisone cream,antihistamines
+blackheads,pimples,swelling,acne,benzoyl peroxide,topical antibiotics
+cracked skin,itching,redness,eczema,topical corticosteroids,moisturizers
+dry skin,red patches,itching,eczema,topical corticosteroids,moisturizers
+itching,redness,peeling,hives,antihistamines,ice packs
+rash,pimples,swelling,acne,benzoyl peroxide,retinoids
+dry skin,cracking,redness,eczema,hydrating lotions,topical steroids
+blisters,swelling,itching,poison ivy,calamine lotion,antihistamines
+small pimples,red spots,blackheads,acne,salicylic acid,topical antibiotics
+itchy skin,redness,swelling,eczema,moisturizers,topical corticosteroids
+swelling,rash,itching,hives,topical steroids,antihistamines
