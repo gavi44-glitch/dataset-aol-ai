@@ -1,227 +1,226 @@
-Symptom;Symptom;Disease;Treatment
-dry skin;redness skin;eczema;topical corticosteroids
-dry skin;cracked skin;eczema;moisturizers
-itching skin;redness skin;eczema;hydrating lotions
-redness skin;blisters skin;poison ivy;calamine lotion
-redness skin;swelling skin;eczema;topical steroids
-itching skin;redness skin;poison ivy;hydrocortisone cream
-cracked skin;dry skin;eczema;moisturizers
-blisters skin;redness skin;poison ivy;antihistamines
-dry skin;redness skin;psoriasis;vitamin D ointments
-flaky skin;redness skin;psoriasis;light therapy
-scaly skin;dry skin;psoriasis;methotrexate
-pimples skin;redness skin;acne;salicylic acid
-redness skin;pimples skin;acne;benzoyl peroxide
-white patches;itching skin;ringworm;antifungal cream
-red rash skin;blisters skin;ringworm;oral antifungals
-dry skin;cracked skin;eczema;topical corticosteroids
-redness skin;itching skin;hives;antihistamines
-redness skin;scaly skin;eczema;hydrating lotions
-blisters skin;swelling skin;poison ivy;antihistamines
-cracked skin;dry skin;eczema;moisturizers
-dry skin;redness skin;eczema;topical corticosteroids
-dry skin;flaky skin;psoriasis;UVB therapy
-redness skin;blisters skin;poison ivy;oral steroids
-itchy skin;red rash skin;ringworm;topical steroids
-redness skin;swelling skin;eczema;topical corticosteroids
-cracked skin;dry skin;eczema;moisturizers
-dry skin;redness skin;psoriasis;light therapy
-scaly skin;dry skin;psoriasis;methotrexate
-redness skin;swelling skin;poison ivy;hydrocortisone cream
-redness skin;cracked skin;eczema;topical steroids
-itching skin;redness skin;hives;antihistamines
-pimples skin;redness skin;acne;benzoyl peroxide
-dry skin;redness skin;psoriasis;vitamin D ointments
-redness skin;blisters skin;eczema;moisturizers
-blisters skin;redness skin;poison ivy;antihistamines
-redness skin;cracked skin;eczema;topical corticosteroids
-redness skin;pimples skin;acne;retinoids
-redness skin;flaky skin;psoriasis;UVB therapy
-swelling skin;redness skin;poison ivy;calamine lotion
-itching skin;redness skin;eczema;hydrating lotions
-redness skin;cracked skin;eczema;moisturizers
-cracked skin;redness skin;eczema;topical corticosteroids
-redness skin;swelling skin;poison ivy;hydrocortisone cream
-flaky skin;redness skin;psoriasis;moisturizers
-thickened skin;flaky skin;psoriasis;vitamin D ointments
-dry skin;redness skin;eczema;hydrating lotions
-redness skin;blisters skin;poison ivy;antihistamines
-itching skin;red rash skin;hives;antihistamines
-scaly skin;redness skin;psoriasis;UVB therapy
-dry skin;redness skin;eczema;moisturizers
-red rash skin;blisters skin;ringworm;oral antifungals
-redness skin;cracked skin;eczema;topical steroids
-dry skin;thickened skin;psoriasis;methotrexate
-redness skin;swelling skin;poison ivy;calamine lotion
-itching skin;redness skin;hives;antihistamines
-dry skin;redness skin;psoriasis;vitamin D ointments
-redness skin;cracked skin;eczema;moisturizers
-redness skin;swelling skin;poison ivy;oral steroids
-itching skin;dry skin;eczema;hydrating lotions
-cracked skin;redness skin;eczema;topical corticosteroids
-redness skin;swelling skin;poison ivy;hydrocortisone cream
-flaky skin;redness skin;psoriasis;moisturizers
-thickened skin;flaky skin;psoriasis;vitamin D ointments
-dry skin;redness skin;eczema;hydrating lotions
-redness skin;blisters skin;poison ivy;antihistamines
-itching skin;red rash skin;hives;antihistamines
-scaly skin;redness skin;psoriasis;UVB therapy
-dry skin;redness skin;eczema;moisturizers
-red rash skin;blisters skin;ringworm;oral antifungals
-redness skin;cracked skin;eczema;topical steroids
-dry skin;thickened skin;psoriasis;methotrexate
-redness skin;swelling skin;poison ivy;calamine lotion
-itching skin;redness skin;hives;antihistamines
-dry skin;redness skin;psoriasis;vitamin D ointments
-redness skin;cracked skin;eczema;moisturizers
-redness skin;swelling skin;poison ivy;oral steroids
-itching skin;dry skin;eczema;hydrating lotions
-cracked skin;redness skin;eczema;topical corticosteroids
-redness skin;swelling skin;poison ivy;hydrocortisone cream
-flaky skin;redness skin;psoriasis;moisturizers
-thickened skin;flaky skin;psoriasis;vitamin D ointments
-dry skin;redness skin;eczema;hydrating lotions
-redness skin;blisters skin;poison ivy;antihistamines
-itching skin;red rash skin;hives;antihistamines
-scaly skin;redness skin;psoriasis;UVB therapy
-dry skin;redness skin;eczema;moisturizers
-red rash skin;blisters skin;ringworm;oral antifungals
-redness skin;cracked skin;eczema;topical steroids
-dry skin;thickened skin;psoriasis;methotrexate
-redness skin;swelling skin;poison ivy;calamine lotion
-itching skin;redness skin;hives;antihistamines
-dry skin;redness skin;psoriasis;vitamin D ointments
-redness skin;cracked skin;eczema;moisturizers
-redness skin;scaly skin;psoriasis;phototherapy
-itching skin;redness skin;hives;antihistamines
-cracked skin;redness skin;eczema;hydrating lotions
-thickened skin;scaly skin;psoriasis;vitamin D creams
-dry skin;redness skin;eczema;topical steroids
-red rash skin;blisters skin;ringworm;antifungal creams
-redness skin;swelling skin;poison ivy;calamine lotion
-flaky skin;redness skin;psoriasis;methotrexate
-scaly skin;redness skin;psoriasis;UV therapy
-redness skin;dry skin;eczema;moisturizers
-itching skin;cracked skin;eczema;hydrocortisone cream
-redness skin;thickened skin;psoriasis;vitamin D ointments
-red rash skin;swelling skin;ringworm;oral antifungals
-dry skin;redness skin;eczema;hydrating lotions
-redness skin;scaly skin;psoriasis;UVB therapy
-cracked skin;redness skin;eczema;topical corticosteroids
-redness skin;itching skin;hives;oral antihistamines
-red rash skin;blisters skin;ringworm;antifungal powders
-redness skin;flaky skin;psoriasis;phototherapy
-scaly skin;redness skin;psoriasis;vitamin D ointments
-dry skin;cracked skin;eczema;moisturizers
-dry skin;redness skin;eczema;hydrating lotions
-itching skin;blisters skin;poison ivy;calamine lotion
-redness skin;swelling skin;eczema;topical steroids
-redness skin;redness skin;poison ivy;hydrocortisone cream
-itching skin;dry skin;eczema;moisturizers
-cracked skin;redness skin;poison ivy;antihistamines
-blisters skin;redness skin;psoriasis;vitamin D ointments
-dry skin;redness skin;psoriasis;light therapy
-flaky skin;dry skin;psoriasis;methotrexate
-scaly skin;redness skin;acne;salicylic acid
-pimples skin;pimples skin;acne;benzoyl peroxide
-redness skin;itching skin;ringworm;antifungal cream
-white patches;blisters skin;ringworm;oral antifungals
-red rash skin;cracked skin;eczema;topical corticosteroids
-dry skin;itching skin;hives;antihistamines
-redness skin;scaly skin;eczema;hydrating lotions
-redness skin;swelling skin;poison ivy;antihistamines
-blisters skin;dry skin;eczema;moisturizers
-cracked skin;redness skin;eczema;topical corticosteroids
-dry skin;flaky skin;psoriasis;UVB therapy
-dry skin;blisters skin;poison ivy;oral steroids
-redness skin;red rash skin;ringworm;topical steroids
-itchy skin;swelling skin;eczema;topical corticosteroids
-redness skin;dry skin;eczema;moisturizers
-cracked skin;redness skin;psoriasis;light therapy
-dry skin;dry skin;psoriasis;methotrexate
-scaly skin;swelling skin;poison ivy;hydrocortisone cream
-redness skin;cracked skin;eczema;topical steroids
-redness skin;redness skin;hives;antihistamines
-itching skin;redness skin;acne;benzoyl peroxide
-pimples skin;redness skin;psoriasis;vitamin D ointments
-dry skin;blisters skin;eczema;moisturizers
-redness skin;redness skin;poison ivy;antihistamines
-blisters skin;cracked skin;eczema;topical corticosteroids
-redness skin;pimples skin;acne;retinoids
-redness skin;flaky skin;psoriasis;UVB therapy
-redness skin;redness skin;poison ivy;calamine lotion
-swelling skin;redness skin;eczema;hydrating lotions
-itching skin;cracked skin;eczema;moisturizers
-redness skin;redness skin;eczema;topical corticosteroids
-cracked skin;swelling skin;poison ivy;hydrocortisone cream
-redness skin;redness skin;psoriasis;moisturizers
-flaky skin;flaky skin;psoriasis;vitamin D ointments
-thickened skin;redness skin;eczema;hydrating lotions
-dry skin;blisters skin;poison ivy;antihistamines
-redness skin;red rash skin;hives;antihistamines
-itching skin;redness skin;psoriasis;UVB therapy
-scaly skin;redness skin;eczema;moisturizers
-dry skin;blisters skin;ringworm;oral antifungals
-red rash skin;cracked skin;eczema;topical steroids
-redness skin;thickened skin;psoriasis;methotrexate
-dry skin;swelling skin;poison ivy;calamine lotion
-redness skin;redness skin;hives;antihistamines
-itching skin;redness skin;psoriasis;vitamin D ointments
-dry skin;cracked skin;eczema;moisturizers
-redness skin;swelling skin;poison ivy;oral steroids
-redness skin;dry skin;eczema;hydrating lotions
-itching skin;redness skin;eczema;topical corticosteroids
-cracked skin;swelling skin;poison ivy;hydrocortisone cream
-redness skin;redness skin;psoriasis;moisturizers
-flaky skin;flaky skin;psoriasis;vitamin D ointments
-thickened skin;redness skin;eczema;hydrating lotions
-dry skin;blisters skin;poison ivy;antihistamines
-redness skin;red rash skin;hives;antihistamines
-itching skin;redness skin;psoriasis;UVB therapy
-scaly skin;redness skin;eczema;moisturizers
-dry skin;blisters skin;ringworm;oral antifungals
-red rash skin;cracked skin;eczema;topical steroids
-redness skin;thickened skin;psoriasis;methotrexate
-dry skin;swelling skin;poison ivy;calamine lotion
-redness skin;redness skin;hives;antihistamines
-itching skin;redness skin;psoriasis;vitamin D ointments
-dry skin;cracked skin;eczema;moisturizers
-redness skin;swelling skin;poison ivy;oral steroids
-redness skin;dry skin;eczema;hydrating lotions
-itching skin;redness skin;eczema;topical corticosteroids
-cracked skin;swelling skin;poison ivy;hydrocortisone cream
-redness skin;redness skin;psoriasis;moisturizers
-flaky skin;flaky skin;psoriasis;vitamin D ointments
-thickened skin;redness skin;eczema;hydrating lotions
-dry skin;blisters skin;poison ivy;antihistamines
-redness skin;red rash skin;hives;antihistamines
-itching skin;redness skin;psoriasis;UVB therapy
-scaly skin;redness skin;eczema;moisturizers
-dry skin;blisters skin;ringworm;oral antifungals
-red rash skin;cracked skin;eczema;topical steroids
-redness skin;thickened skin;psoriasis;methotrexate
-dry skin;swelling skin;poison ivy;calamine lotion
-redness skin;redness skin;hives;antihistamines
-itching skin;redness skin;psoriasis;vitamin D ointments
-dry skin;cracked skin;eczema;moisturizers
-redness skin;scaly skin;psoriasis;phototherapy
-redness skin;redness skin;hives;antihistamines
-itching skin;redness skin;eczema;hydrating lotions
-cracked skin;scaly skin;psoriasis;vitamin D creams
-thickened skin;redness skin;eczema;topical steroids
-dry skin;blisters skin;ringworm;antifungal creams
-red rash skin;swelling skin;poison ivy;calamine lotion
-redness skin;redness skin;psoriasis;methotrexate
-flaky skin;redness skin;psoriasis;UV therapy
-scaly skin;dry skin;eczema;moisturizers
-redness skin;cracked skin;eczema;hydrocortisone cream
-itching skin;thickened skin;psoriasis;vitamin D ointments
-redness skin;swelling skin;ringworm;oral antifungals
-red rash skin;redness skin;eczema;hydrating lotions
-dry skin;scaly skin;psoriasis;UVB therapy
-redness skin;redness skin;eczema;topical corticosteroids
-cracked skin;itching skin;hives;oral antihistamines
-redness skin;blisters skin;ringworm;antifungal powders
-red rash skin;flaky skin;psoriasis;phototherapy
-redness skin;redness skin;psoriasis;vitamin D ointments
-;;;
+Symptom,Symptom,Disease,Treatment
+dry skin,redness skin,eczema,topical corticosteroids
+dry skin,cracked skin,eczema,moisturizers
+itching skin,redness skin,eczema,hydrating lotions
+redness skin,blisters skin,poison ivy,calamine lotion
+redness skin,swelling skin,eczema,topical steroids
+itching skin,redness skin,poison ivy,hydrocortisone cream
+cracked skin,dry skin,eczema,moisturizers
+blisters skin,redness skin,poison ivy,antihistamines
+dry skin,redness skin,psoriasis,vitamin D ointments
+flaky skin,redness skin,psoriasis,light therapy
+scaly skin,dry skin,psoriasis,methotrexate
+pimples skin,redness skin,acne,salicylic acid
+redness skin,pimples skin,acne,benzoyl peroxide
+white patches,itching skin,ringworm,antifungal cream
+red rash skin,blisters skin,ringworm,oral antifungals
+dry skin,cracked skin,eczema,topical corticosteroids
+redness skin,itching skin,hives,antihistamines
+redness skin,scaly skin,eczema,hydrating lotions
+blisters skin,swelling skin,poison ivy,antihistamines
+cracked skin,dry skin,eczema,moisturizers
+dry skin,redness skin,eczema,topical corticosteroids
+dry skin,flaky skin,psoriasis,UVB therapy
+redness skin,blisters skin,poison ivy,oral steroids
+itchy skin,red rash skin,ringworm,topical steroids
+redness skin,swelling skin,eczema,topical corticosteroids
+cracked skin,dry skin,eczema,moisturizers
+dry skin,redness skin,psoriasis,light therapy
+scaly skin,dry skin,psoriasis,methotrexate
+redness skin,swelling skin,poison ivy,hydrocortisone cream
+redness skin,cracked skin,eczema,topical steroids
+itching skin,redness skin,hives,antihistamines
+pimples skin,redness skin,acne,benzoyl peroxide
+dry skin,redness skin,psoriasis,vitamin D ointments
+redness skin,blisters skin,eczema,moisturizers
+blisters skin,redness skin,poison ivy,antihistamines
+redness skin,cracked skin,eczema,topical corticosteroids
+redness skin,pimples skin,acne,retinoids
+redness skin,flaky skin,psoriasis,UVB therapy
+swelling skin,redness skin,poison ivy,calamine lotion
+itching skin,redness skin,eczema,hydrating lotions
+redness skin,cracked skin,eczema,moisturizers
+cracked skin,redness skin,eczema,topical corticosteroids
+redness skin,swelling skin,poison ivy,hydrocortisone cream
+flaky skin,redness skin,psoriasis,moisturizers
+thickened skin,flaky skin,psoriasis,vitamin D ointments
+dry skin,redness skin,eczema,hydrating lotions
+redness skin,blisters skin,poison ivy,antihistamines
+itching skin,red rash skin,hives,antihistamines
+scaly skin,redness skin,psoriasis,UVB therapy
+dry skin,redness skin,eczema,moisturizers
+red rash skin,blisters skin,ringworm,oral antifungals
+redness skin,cracked skin,eczema,topical steroids
+dry skin,thickened skin,psoriasis,methotrexate
+redness skin,swelling skin,poison ivy,calamine lotion
+itching skin,redness skin,hives,antihistamines
+dry skin,redness skin,psoriasis,vitamin D ointments
+redness skin,cracked skin,eczema,moisturizers
+redness skin,swelling skin,poison ivy,oral steroids
+itching skin,dry skin,eczema,hydrating lotions
+cracked skin,redness skin,eczema,topical corticosteroids
+redness skin,swelling skin,poison ivy,hydrocortisone cream
+flaky skin,redness skin,psoriasis,moisturizers
+thickened skin,flaky skin,psoriasis,vitamin D ointments
+dry skin,redness skin,eczema,hydrating lotions
+redness skin,blisters skin,poison ivy,antihistamines
+itching skin,red rash skin,hives,antihistamines
+scaly skin,redness skin,psoriasis,UVB therapy
+dry skin,redness skin,eczema,moisturizers
+red rash skin,blisters skin,ringworm,oral antifungals
+redness skin,cracked skin,eczema,topical steroids
+dry skin,thickened skin,psoriasis,methotrexate
+redness skin,swelling skin,poison ivy,calamine lotion
+itching skin,redness skin,hives,antihistamines
+dry skin,redness skin,psoriasis,vitamin D ointments
+redness skin,cracked skin,eczema,moisturizers
+redness skin,swelling skin,poison ivy,oral steroids
+itching skin,dry skin,eczema,hydrating lotions
+cracked skin,redness skin,eczema,topical corticosteroids
+redness skin,swelling skin,poison ivy,hydrocortisone cream
+flaky skin,redness skin,psoriasis,moisturizers
+thickened skin,flaky skin,psoriasis,vitamin D ointments
+dry skin,redness skin,eczema,hydrating lotions
+redness skin,blisters skin,poison ivy,antihistamines
+itching skin,red rash skin,hives,antihistamines
+scaly skin,redness skin,psoriasis,UVB therapy
+dry skin,redness skin,eczema,moisturizers
+red rash skin,blisters skin,ringworm,oral antifungals
+redness skin,cracked skin,eczema,topical steroids
+dry skin,thickened skin,psoriasis,methotrexate
+redness skin,swelling skin,poison ivy,calamine lotion
+itching skin,redness skin,hives,antihistamines
+dry skin,redness skin,psoriasis,vitamin D ointments
+redness skin,cracked skin,eczema,moisturizers
+redness skin,scaly skin,psoriasis,phototherapy
+itching skin,redness skin,hives,antihistamines
+cracked skin,redness skin,eczema,hydrating lotions
+thickened skin,scaly skin,psoriasis,vitamin D creams
+dry skin,redness skin,eczema,topical steroids
+red rash skin,blisters skin,ringworm,antifungal creams
+redness skin,swelling skin,poison ivy,calamine lotion
+flaky skin,redness skin,psoriasis,methotrexate
+scaly skin,redness skin,psoriasis,UV therapy
+redness skin,dry skin,eczema,moisturizers
+itching skin,cracked skin,eczema,hydrocortisone cream
+redness skin,thickened skin,psoriasis,vitamin D ointments
+red rash skin,swelling skin,ringworm,oral antifungals
+dry skin,redness skin,eczema,hydrating lotions
+redness skin,scaly skin,psoriasis,UVB therapy
+cracked skin,redness skin,eczema,topical corticosteroids
+redness skin,itching skin,hives,oral antihistamines
+red rash skin,blisters skin,ringworm,antifungal powders
+redness skin,flaky skin,psoriasis,phototherapy
+scaly skin,redness skin,psoriasis,vitamin D ointments
+dry skin,cracked skin,eczema,moisturizers
+dry skin,redness skin,eczema,hydrating lotions
+itching skin,blisters skin,poison ivy,calamine lotion
+redness skin,swelling skin,eczema,topical steroids
+redness skin,redness skin,poison ivy,hydrocortisone cream
+itching skin,dry skin,eczema,moisturizers
+cracked skin,redness skin,poison ivy,antihistamines
+blisters skin,redness skin,psoriasis,vitamin D ointments
+dry skin,redness skin,psoriasis,light therapy
+flaky skin,dry skin,psoriasis,methotrexate
+scaly skin,redness skin,acne,salicylic acid
+pimples skin,pimples skin,acne,benzoyl peroxide
+redness skin,itching skin,ringworm,antifungal cream
+white patches,blisters skin,ringworm,oral antifungals
+red rash skin,cracked skin,eczema,topical corticosteroids
+dry skin,itching skin,hives,antihistamines
+redness skin,scaly skin,eczema,hydrating lotions
+redness skin,swelling skin,poison ivy,antihistamines
+blisters skin,dry skin,eczema,moisturizers
+cracked skin,redness skin,eczema,topical corticosteroids
+dry skin,flaky skin,psoriasis,UVB therapy
+dry skin,blisters skin,poison ivy,oral steroids
+redness skin,red rash skin,ringworm,topical steroids
+itchy skin,swelling skin,eczema,topical corticosteroids
+redness skin,dry skin,eczema,moisturizers
+cracked skin,redness skin,psoriasis,light therapy
+dry skin,dry skin,psoriasis,methotrexate
+scaly skin,swelling skin,poison ivy,hydrocortisone cream
+redness skin,cracked skin,eczema,topical steroids
+redness skin,redness skin,hives,antihistamines
+itching skin,redness skin,acne,benzoyl peroxide
+pimples skin,redness skin,psoriasis,vitamin D ointments
+dry skin,blisters skin,eczema,moisturizers
+redness skin,redness skin,poison ivy,antihistamines
+blisters skin,cracked skin,eczema,topical corticosteroids
+redness skin,pimples skin,acne,retinoids
+redness skin,flaky skin,psoriasis,UVB therapy
+redness skin,redness skin,poison ivy,calamine lotion
+swelling skin,redness skin,eczema,hydrating lotions
+itching skin,cracked skin,eczema,moisturizers
+redness skin,redness skin,eczema,topical corticosteroids
+cracked skin,swelling skin,poison ivy,hydrocortisone cream
+redness skin,redness skin,psoriasis,moisturizers
+flaky skin,flaky skin,psoriasis,vitamin D ointments
+thickened skin,redness skin,eczema,hydrating lotions
+dry skin,blisters skin,poison ivy,antihistamines
+redness skin,red rash skin,hives,antihistamines
+itching skin,redness skin,psoriasis,UVB therapy
+scaly skin,redness skin,eczema,moisturizers
+dry skin,blisters skin,ringworm,oral antifungals
+red rash skin,cracked skin,eczema,topical steroids
+redness skin,thickened skin,psoriasis,methotrexate
+dry skin,swelling skin,poison ivy,calamine lotion
+redness skin,redness skin,hives,antihistamines
+itching skin,redness skin,psoriasis,vitamin D ointments
+dry skin,cracked skin,eczema,moisturizers
+redness skin,swelling skin,poison ivy,oral steroids
+redness skin,dry skin,eczema,hydrating lotions
+itching skin,redness skin,eczema,topical corticosteroids
+cracked skin,swelling skin,poison ivy,hydrocortisone cream
+redness skin,redness skin,psoriasis,moisturizers
+flaky skin,flaky skin,psoriasis,vitamin D ointments
+thickened skin,redness skin,eczema,hydrating lotions
+dry skin,blisters skin,poison ivy,antihistamines
+redness skin,red rash skin,hives,antihistamines
+itching skin,redness skin,psoriasis,UVB therapy
+scaly skin,redness skin,eczema,moisturizers
+dry skin,blisters skin,ringworm,oral antifungals
+red rash skin,cracked skin,eczema,topical steroids
+redness skin,thickened skin,psoriasis,methotrexate
+dry skin,swelling skin,poison ivy,calamine lotion
+redness skin,redness skin,hives,antihistamines
+itching skin,redness skin,psoriasis,vitamin D ointments
+dry skin,cracked skin,eczema,moisturizers
+redness skin,swelling skin,poison ivy,oral steroids
+redness skin,dry skin,eczema,hydrating lotions
+itching skin,redness skin,eczema,topical corticosteroids
+cracked skin,swelling skin,poison ivy,hydrocortisone cream
+redness skin,redness skin,psoriasis,moisturizers
+flaky skin,flaky skin,psoriasis,vitamin D ointments
+thickened skin,redness skin,eczema,hydrating lotions
+dry skin,blisters skin,poison ivy,antihistamines
+redness skin,red rash skin,hives,antihistamines
+itching skin,redness skin,psoriasis,UVB therapy
+scaly skin,redness skin,eczema,moisturizers
+dry skin,blisters skin,ringworm,oral antifungals
+red rash skin,cracked skin,eczema,topical steroids
+redness skin,thickened skin,psoriasis,methotrexate
+dry skin,swelling skin,poison ivy,calamine lotion
+redness skin,redness skin,hives,antihistamines
+itching skin,redness skin,psoriasis,vitamin D ointments
+dry skin,cracked skin,eczema,moisturizers
+redness skin,scaly skin,psoriasis,phototherapy
+redness skin,redness skin,hives,antihistamines
+itching skin,redness skin,eczema,hydrating lotions
+cracked skin,scaly skin,psoriasis,vitamin D creams
+thickened skin,redness skin,eczema,topical steroids
+dry skin,blisters skin,ringworm,antifungal creams
+red rash skin,swelling skin,poison ivy,calamine lotion
+redness skin,redness skin,psoriasis,methotrexate
+flaky skin,redness skin,psoriasis,UV therapy
+scaly skin,dry skin,eczema,moisturizers
+redness skin,cracked skin,eczema,hydrocortisone cream
+itching skin,thickened skin,psoriasis,vitamin D ointments
+redness skin,swelling skin,ringworm,oral antifungals
+red rash skin,redness skin,eczema,hydrating lotions
+dry skin,scaly skin,psoriasis,UVB therapy
+redness skin,redness skin,eczema,topical corticosteroids
+cracked skin,itching skin,hives,oral antihistamines
+redness skin,blisters skin,ringworm,antifungal powders
+red rash skin,flaky skin,psoriasis,phototherapy
+redness skin,redness skin,psoriasis,vitamin D ointments
